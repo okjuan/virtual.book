@@ -1,7 +1,7 @@
 ---
 layout: post
 title: how to covet a book
-theme: read
+tags: reading
 ---
 
 What is this pleasurable excitement I get sometimes for certain activities and items?

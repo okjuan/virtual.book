@@ -1,7 +1,6 @@
 ---
 layout: post
 title: how to motivate yourself
-theme: work
 permalink: /motivate-yourself
 tags: psychology motivation work
 ---

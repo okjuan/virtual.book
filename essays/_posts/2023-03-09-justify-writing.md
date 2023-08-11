@@ -1,7 +1,6 @@
 ---
 layout: post
 title: how to justify writing
-theme: write
 permalink: /justify-writing
 tags: mediums art writing
 ---

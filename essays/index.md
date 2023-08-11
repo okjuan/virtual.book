@@ -1,4 +1,4 @@
 ---
 layout: home
-category: howto/make
+category: essays
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: how to revise a sentence
-theme: write
 permalink: /revise-a-sentence
 tags: editing writing
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: how to do whatever you want
-theme: live
 ---
 
 A not-so-secret desire of mine is to write non-fiction professionally.

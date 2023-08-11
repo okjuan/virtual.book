@@ -1,7 +1,6 @@
 ---
 layout: post
 title: how to coordinate metaphors
-theme: write
 permalink: /coordinate-metaphors
 tags: imagery cohesiveness writing
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: how to read slowly
-theme: read
 permalink: /read-slowly
 tags: learning reading
 ---

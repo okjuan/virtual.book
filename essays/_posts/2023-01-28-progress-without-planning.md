@@ -1,7 +1,6 @@
 ---
 layout: post
 title: how to progress without planning
-theme: work
 permalink: /progress-without-planning
 tags: time-management decision-making work
 ---

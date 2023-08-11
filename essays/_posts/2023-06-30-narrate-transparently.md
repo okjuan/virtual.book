@@ -1,7 +1,6 @@
 ---
 layout: post
 title: how to narrate transparently
-theme: write
 permalink: /narrate-transparently
 tags: writing narration point-of-view norman-mailer new-journalism
 ---

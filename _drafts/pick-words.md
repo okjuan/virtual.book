@@ -1,7 +1,7 @@
 ---
 layout: post
 title: how to pick words
-theme: write
+tags: writing
 ---
 
 Words sit somewhere on the spectrum between concrete and conceptual.

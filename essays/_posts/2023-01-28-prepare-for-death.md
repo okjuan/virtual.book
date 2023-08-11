@@ -1,7 +1,6 @@
 ---
 layout: post
 title: how to prepare for death
-theme: live
 permalink: /prepare-for-death
 tags: mortality time-management prioritization
 ---

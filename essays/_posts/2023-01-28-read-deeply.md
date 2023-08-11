@@ -1,7 +1,6 @@
 ---
 layout: post
 title: how to read deeply
-theme: read
 permalink: /read-deeply
 tags: critical-thinking reading
 ---

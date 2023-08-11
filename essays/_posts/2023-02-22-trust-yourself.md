@@ -1,7 +1,6 @@
 ---
 layout: post
 title: how to trust yourself
-theme: live
 permalink: /trust-yourself
 tags: honesty bullshit ego
 ---

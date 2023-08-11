@@ -1,7 +1,6 @@
 ---
 layout: post
 title: how to tell a story
-theme: write
 permalink: /tell-a-story
 tags: writing new-journalism tom-wolfe hunter-thompson hells-angels
 ---

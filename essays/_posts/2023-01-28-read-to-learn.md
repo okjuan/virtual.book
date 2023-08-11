@@ -1,7 +1,6 @@
 ---
 layout: post
 title: how to read to learn
-theme: read
 permalink: /read-to-learn
 tags: learning reading
 ---

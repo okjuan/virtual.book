@@ -1,9 +1,8 @@
 ---
 layout: post
 title: how to edit your writing
-theme: write
 permalink: /editing-yourself
-tags: editing
+tags: editing writing
 ---
 
 The idea: go through an old essay and critique and analyze it

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: how to revise a sentence (3)
-theme: write
+tags: writing
 ---
 
 > These tensions drive the plot to their climax at the end of the season

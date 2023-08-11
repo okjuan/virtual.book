@@ -1,7 +1,6 @@
 ---
 layout: post
 title: how to like your life
-theme: live
 permalink: /like-your-life
 tags: time-management mortality mindfulness
 ---

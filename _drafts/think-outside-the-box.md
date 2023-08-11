@@ -1,8 +1,7 @@
 ---
 layout: post
 title: how to think outside the box
-theme: think
-tags: problem-solving
+tags: problem-solving thinking
 ---
 
 I often apply my logic in broad sweeps, eager to work through to a solution as quickly as possible.

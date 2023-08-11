@@ -1,7 +1,7 @@
 ---
 layout: post
 title: how to write sparely
-theme: write
+tags: writing
 ---
 
 One should write sparely, with non-essential words pruned and scraped off.

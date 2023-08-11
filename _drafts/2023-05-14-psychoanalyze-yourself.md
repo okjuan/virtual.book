@@ -1,9 +1,8 @@
 ---
 layout: post
 title: how to psychoanalyze yourself
-theme: write
 permalink: /psychoanalyze-yourself
-tags: psychology subconscious
+tags: psychology subconscious writing
 ---
 
 I've been interested in psychoanalysis since at least 2014, when I read about Freud's concept of [sublimation](https://www.wikiwand.com/en/Sublimation_(psychology)).

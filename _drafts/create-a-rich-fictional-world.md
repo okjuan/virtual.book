@@ -1,8 +1,7 @@
 ---
 layout: post
 title: how to create a rich fictional world
-theme: write
-tags: Sopranos
+tags: Sopranos writing
 ---
 
 The writing in The Sopranos is simple in its approach, yet it produces a rich, dynamic world.

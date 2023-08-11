@@ -1,7 +1,7 @@
 ---
 layout: post
 title: how to come up with ideas #2
-theme: write
+tags: writing
 ---
 
 I like reading memoirs.

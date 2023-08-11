@@ -1,9 +1,8 @@
 ---
 layout: post
 title: how to interpret your dreams
-theme: think
 permalink: /interpret-your-dreams
-tags: dreams subsconscious psychosis sanity science neuroplasticity
+tags: dreams subsconscious psychosis sanity science neuroplasticity thinking
 ---
 
 Freud, apparently, thought dreams prevented us from going crazy.

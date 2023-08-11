@@ -1,7 +1,6 @@
 ---
 layout: post
 title: how to live in the moment
-theme: live
 permalink: /live-in-the-moment
 tags: time-management mortality mindfulness
 ---
