@@ -1,9 +1,8 @@
 ---
 layout: post
 title: first thursday at metier brewing
-theme: places
 permalink: /metier-brewing
-tags: seattle central-district live-music brewery
+tags: seattle central-district live-music brewery places
 ---
 
 _As Daudi Abe tells in his 2020 book,_ [Emerald Street: A History of Hip Hop in Seattle](https://uwapress.uw.edu/book/9780295747569/emerald-street/)_, the city’s black folks first set down roots in Central District (the CD) in the late 1880s. After World War II, during the Second Great Migration, Seattle’s black population soared into the tens of thousands, 80% of which lived in the CD by the mid 1960s. In recent decades, the portion of black residents in the CD has declined due in part to gentrification. Nonetheless, the black community’s influence on the life of this neighborhood remains alive and well._

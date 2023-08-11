@@ -1,9 +1,8 @@
 ---
 layout: post
 title: honest mechanic
-theme: people
 permalink: /honest-mechanic
-tags: honesty car-salesmen
+tags: honesty car-salesmen people
 ---
 
 The two young guys standing at the counter had brought in a 2005 Honda Civic for a pre-purchase inspection and Amir had found several issues.
