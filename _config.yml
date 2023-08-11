@@ -29,6 +29,8 @@ minima:
   skin: solarized
 show_excerpts: true
 
+excerpt_separator: <!--more-->
+
 plugins:
   - jekyll-last-modified-at
 

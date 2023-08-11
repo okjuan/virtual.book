@@ -6,6 +6,7 @@ tags: creativity memory psychology
 ---
 
 I find it surprisingly easy to whistle a new tune.
+<!--more-->
 It will sound like songs I've heard before, but never the same.
 And yet it is desperately indebted to music I've heard before.
 

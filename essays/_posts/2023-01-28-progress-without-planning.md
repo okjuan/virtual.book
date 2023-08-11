@@ -6,6 +6,7 @@ tags: time-management decision-making work
 ---
 
 The other day I picked a bunch of books from my library and tried to start each of them.
+<!--more-->
 I had [energy and free time](https://okjuan.medium.com/is-this-working-2-4343dc4594eb).
 None stuck.
 Until one did.

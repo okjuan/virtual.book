@@ -6,6 +6,7 @@ tags: learning reading
 ---
 
 Everyone should learn to [leave books unfinished](https://okjuan.medium.com/feeling-good-about-ditching-books-1c4633fd87f).
+<!--more-->
 We should also fight the urge to read books quickly.
 If a book grabs your attention and pulls you in, go ahead.
 But don't hurry through sentences to make your reading session feel more productive.

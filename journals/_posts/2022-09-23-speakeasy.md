@@ -8,6 +8,7 @@ tags: seattle cocktail-bar places
 ---
 
 As we are finishing our meals, the waiter comes over. It's not to ask us anything, but to bless us with the news that we have completed our time in purgatory and earned our time to ascend. The speakeasy awaits.
+<!--more-->
 
 I pick up the faux-phone hanging in the middle of the dining area and after three brief tones I hear a woman’s voice: _What's the password?_ I read out the phrase from the scrap of paper. The door is hefty and swings smoothly like it’s guarding a vault. We step inside, shutting out the sunlight and the lesser patrons behind us. We climb up a steep, jagged set of stairs lined with pristine wood paneling and framed pictures. It’s so new I can smell traces of the contractor’s cologne.
 

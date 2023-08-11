@@ -6,7 +6,7 @@ tags: dreams subsconscious psychosis sanity science neuroplasticity thinking
 ---
 
 Freud, apparently, thought dreams prevented us from going crazy.
-
+<!--more-->
 According to him, dreams are expressions of the desires and fears we don't dare face in waking life, facets of ourselves that we repress like a child smothers a ball under the surface of a pool.
 And, in the dark of night, dreams relieve the pressure by playing out these urges.
 Were they not allowed these covert outings, but blocked and pushed indefinitely, they would eventually burst through the surface and rupture our psyche.

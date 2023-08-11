@@ -8,6 +8,8 @@ tags: editing writing
 Suppose you have this sentence:
 > It leads us out of the present, leading to a life spent leaning into the future
 
+<!--more-->
+
 Conventional writing wisdom would condemn it for using **leads** and **leading** in the same sentence.
 But, more importantly, it doesn't sound right.
 

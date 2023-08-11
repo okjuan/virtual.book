@@ -6,6 +6,7 @@ tags: decision-making reading
 ---
 
 There is a ridiculous amount of content out there.
+<!--more-->
 The diligence we demand of ourselves to finish the book we're reading is ridiculous too, when you consider how many other books are out there waiting, and how arbitrarily or impulsively you chose this book in the first place.
 
 Am I the only one that neglects their collection of unread books and picks instead a new one from the library or the bookstore?

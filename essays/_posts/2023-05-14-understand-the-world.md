@@ -6,7 +6,7 @@ tags: philosophy poli-sci thinking knowledge
 ---
 
 Several years ago, in the last and lightest semester of my Computer Science degree, I spent a good deal of my free time studying YouTube videos about politics, philosophy, and sociology.
-
+<!--more-->
 One of my favorites was Professor Raymond Geuss's lecture on the process of [Alienation](https://plato.stanford.edu/entries/alienation/).
 In it he distinguishes between two kinds of frameworks: **normative** and **evaluative**.
 Both are frameworks for understanding the world, models that simplify a wild, diverse world into a manageable set of rules and components.

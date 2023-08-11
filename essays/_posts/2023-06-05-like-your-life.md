@@ -7,7 +7,7 @@ tags: time-management mortality mindfulness
 
 This morning I almost got overwhelmed with things I had to do.
 Like when you set your glass down too hard and the wave rises to the rim menacingly.
-
+<!--more-->
 I took a deep breath and I wrote the things down -- things I had to do at work, things I had to do for my upcoming marriage, and things I had to do to enjoy Toronto, where I am for the week.
 Each of these categories overflows with things I could do, as I guess any category does.
 

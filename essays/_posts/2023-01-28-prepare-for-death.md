@@ -6,6 +6,7 @@ tags: mortality time-management prioritization
 ---
 
 Death is coming.
+<!--more-->
 Perhaps not so quickly, but surely.
 What do you do in an exam, when you have 10 questions to answer and one hour to do it?
 You start with the ones worth the most points.

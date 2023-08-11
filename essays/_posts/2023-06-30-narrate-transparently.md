@@ -6,7 +6,7 @@ tags: writing narration point-of-view norman-mailer new-journalism
 ---
 
 I read half of [The Executioner's Song](https://en.wikipedia.org/wiki/The_Executioner%27s_Song) -- Norman Mailer's gargantuan, Pulitzer Prize-winning nonfiction novel about Gary Gilmore -- and figured I could put it down and move on.
-
+<!--more-->
 I knew how the story would end and had read enough of the book to appreciate Mailer as a writer.
 And yet, despite my skepticism of [the value of finishing books](https://okjuan.medium.com/feeling-good-about-ditching-books-1c4633fd87f), a few months on I found myself drawn back in.
 And in my second session with the book I noticed a technique that Mailer uses throughout it.

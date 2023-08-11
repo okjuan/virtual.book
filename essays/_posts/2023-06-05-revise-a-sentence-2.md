@@ -8,6 +8,8 @@ tags: editing writing
 Take this quote by anthropologist Clifford Geertz:
 > One of the most significant facts about humanity may finally be that we all begin with the natural equipment to live a thousand kinds of life but end in the end having lived only one.
 
+<!--more-->
+
 A lovely little idea weighed down by free-loading filler words.
 First of all, the preamble is unnecessary.
 **We all** alone indicates we are talking about humans.

@@ -6,6 +6,7 @@ tags: critical-thinking reading
 ---
 
 I read with haste, crazed by [the amount of content]({{ site.baseurl }}{% post_url /2023-01-28-choose-your-next-book %}) I won't get to unless I hurry.
+<!--more-->
 I try to process quickly, see the sense in what the author is saying, and continue to the next thing.
 I bias towards agreement, and don't distinguish carefully between my confusion and my disagreement.
 

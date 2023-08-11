@@ -6,7 +6,7 @@ tags: imagery cohesiveness writing
 ---
 
 It's important to keep your metaphors from bumping into one another.
-
+<!--more-->
 Take this passage from Oliver Burkeman's book [Four Thousand Weeks: Time Management for Mortals](https://www.goodreads.com/book/show/54785515-four-thousand-weeks):
 > ...most of us were raised [to] prioritize future benefits over current enjoyments. But ultimately it backfires. It **wrenches** us out of the present, leading to a life spent **leaning** into the future, worrying about whether things will work out...
 

@@ -6,6 +6,7 @@ tags: writing new-journalism tom-wolfe hunter-thompson hells-angels
 ---
 
 *(This is a slightly edited excerpt from my piece [The Virtual Book](https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360).)*
+<!--more-->
 
 Decades ago, The New Yorker and other magazines experimented with the journalistic form by introducing literary techniques into it. Writers aspired not just to document scenes but to recreate them for readers to witness. Though some criticized this practice for warping truth through interpretation, some writers flourished in it. Tom Wolfe, a practitioner and evangelist of the method, compiled exemplary articles in his book The New Journalism. According to Wolfe, using techniques of literary realism was like adding electricity into the otherwise mechanical machine of journalism. By using dialogue, [point-of-view]({{ site.baseurl }}{% post_url /2023-06-30-narrate-transparently %}), and symbolism, writers could achieve “absolute involvement of the reader”.
 
