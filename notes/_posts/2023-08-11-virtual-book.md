@@ -6,8 +6,7 @@ permalink: /virtual-book
 tags: writing mediums
 ---
 
-I first started using the term "virtual book" in my essay [The Virtual Book](https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360).
-However, I never defined it.
+I wrote an essay called [The Virtual Book](https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360) but I never defined the term.
 <!--more-->
 By virtual book I mean a book unbound by the traditional and physical constraints of printed books.
 I say 'virtual' because the greatest possibilities I see are in the virtual world of computers.
