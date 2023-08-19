@@ -1,4 +1,4 @@
 ---
 layout: home
-category: journals
+category: journal
 ---
