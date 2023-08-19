@@ -6,6 +6,7 @@ tags: movies writing paul-thomas-anderson episodic-storytelling relationships co
 ---
 
 I just love the writing.
+<!--more-->
 (Except for the very dubious Asian jokes... why twice, Paul, why?)
 As in The Master and There Will Be Bood, beyond writing plot, PTA writes characters and develops a dynamic between them.
 The golf course scene -- Tom Waits leads a crowd, martini glasses in hand, to the 8th hole, stokes a fire in a sand trap, and goads Sean Penn to fly over it on a motorcycle -- isn't just hilarious but also lets Gary and Alana complete another oscillation of their co-dependent cycle.
