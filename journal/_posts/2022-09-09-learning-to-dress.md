@@ -21,8 +21,10 @@ I loved how they looked.
 Especially when they had three stripes on the sleeves.
 My snooty snot-nosed self looked down on anything with four stripes.
 Or, God forbid, five.
-Around that time, Nike started designing bolder, [retro-inspired jerseys](https://cf.ijersey.ru/upload/ttmall/img/20220316/c4c23dd9c310d06fff0a51e549abf2bf.png=z-550,550_f-webp) for Club America, the Mexican soccer team I supported and Cuauhtémoc Blanco played for.
-Intrigued, but devout to the three stripes, I drew and colored imaginary Adidas-branded Club America jerseys and tacked them up on the corkboard above my desk.
+Unfortunately, Club América -- the Mexican soccer team I supported and the one Cuauhtémoc Blanco played for -- wore Nike.
+I dreamt one day they would return to Adidas.
+But then Nike started designing [retro-inspired jerseys](https://cf.ijersey.ru/upload/ttmall/img/20220316/c4c23dd9c310d06fff0a51e549abf2bf.png=z-550,550_f-webp) that caught my eye.
+Intrigued, but devoted to the three stripes, I drew and colored imaginary Adidas-branded Club América jerseys and tacked them up on the corkboard above my desk.
 I can probably still draw both logos from memory.
 The Adidas one is trickier than you’d think.
 
@@ -33,23 +35,25 @@ Did I care?
 Some part of me must’ve known that little moose was bull.
 But at that age intuition gives way easily to the cool kid decree.
 
-A year or two later, I found out we would be moving to the U.S., right in time for me to experience the fabled American institution of middle school.
+Before I had a chance to buy into the hype, my parents announced that we were moving to the States.
+And right in time for me to experience the fabled American institution of middle school.
 That summer, while our parents dealt with the logistics of moving a six-person family from Mexico City to the suburbs of New York, my siblings and I watched nauseating amounts of Nickelodeon and Disney Channel.
 This time it was my older sister staring at me as I took diligent notes from *Ned’s Declassified School Survival Guide*.
-My studious, competitive little self loved neat and simple rules, and relished the idea that they codified everything.
+I loved neat and simple rules, and relished the idea that they codified everything.
 
-Ned’s tips were good, but it was his outfit that influenced me the most.
-The open button-up with a t-shirt underneath was just--mwah.
+Ned’s tips were good, but not nearly as influential as his outfits were.
+Now it would be my turn to strut through the hallways in an open button up with a t-shirt underneath.
+And if the button-up were to have a little moose on the chest, then so be it.
 (It’s fortunate I didn’t discover mirrored aviators until later.
 I would’ve been too powerful.)
 I recreated it with Abercrombie button-ups and striped sweatpants from The Children’s Place.
 (One big stripe was an admissible, if humbler, alternative to the three.)
 On more modest days I played it safe with my long sleeve graphic tee that read, in letters stylized as ice cubes across the chest, _COOL AS ICE_.
 
-On those first few weeks, I swaggered through the halls in my open button-up, savoring my authentique américain lifestyle.
-Unfortunately, the quippy repartee that I anticipated happening in the busy halls wasn’t as natural in the secluded corner of the school, where the sixth grade lockers were.
+On those first few weeks, I swaggered through the halls in my new outfits, savoring my authentique américain lifestyle.
+But, unfortunately, the quippy repartee that I anticipated happening in the busy halls wasn’t as natural in the secluded corner of the school, where the sixth grade lockers were.
 Plus, opening a locker wasn’t the 3-second operation that TV had assured me existed mainly as backdrop for flirting between classes.
-I don’t know at what summer camp all those Nickelodeon teens and pre-teens got their bank-heist finger agility.
+I don’t know at what summer camp all those Nickelodeon teens and teens got their bank-heist finger agility.
 
 Even lunch time was a sobering affair.
 My idealized vision of middle school suffered a severe blow when the ever-grouchy ketchup-haired lunch lady rung up my lunch food at more than the three bucks my mom gave me.
@@ -57,7 +61,7 @@ Apparently I was supposed to look at the prices and add them up to a total, like
 I figured the transaction was more cultural than monetary.
 You give me lunch, I give you lunch money.
 
-But the cool kid crowd whose law I now observed wasn’t concerned with button-ups, graphic tees, meese, or even stripes.
+But the cool kid crowd whose law I now observed wasn’t concerned with button-ups, graphic tees, moose, or even stripes.
 It was all about the shoes.
 Skateboarding shoes, specifically.
 Etnies, DCs, and, for those with bolder taste, [Osiris high tops](https://i.ebayimg.com/images/g/bYsAAOSwFJNkLzje/s-l1600.jpg).
@@ -95,11 +99,11 @@ My kids are unlikely to enjoy the same luck.
 At the peak of my “minimalist” phase in my late teens and early twenties --- as my mom admiringly called it --- I got rid of a lot of stuff.
 Probably too much stuff.
 My dad had to talk me out of getting rid of my school yearbooks.
-One of the things I regret getting rid of is a Club America t-shirt from my days in the youth academy that was signed by then-teen Memo Ochoa, the talented up-and-coming Mexican goalie who, ten or fifteen years later, made outrageous saves [at the 2018 World Cup](https://youtu.be/Cm_pMHQokZo)
+One of the things I regret getting rid of is a Club América t-shirt from my days in the youth academy that was signed by then-teen Memo Ochoa, the talented up-and-coming Mexican goalie who, ten or fifteen years later, made outrageous saves [at the 2018 World Cup](https://youtu.be/Cm_pMHQokZo)
 in Brazil to deny the likes of Neymar.
 I’m not sure it was the real academy, but it was real enough to summon a couple first team players for a meet-and-greet after practice one day.
 Actually, I even got to stand on the field at the legendary Estadio Azteca -- site of Maradona's infamous [Hand of God](https://www.wikiwand.com/en/The_hand_of_God)
-in the 1986 World Cup -- before kickoff at a Club America game.
+in the 1986 World Cup -- before kickoff at a Club América game.
 My teammates and I were lined up to high-five the players as they came out onto the field, but most of them didn’t stretch their arms far enough to make contact with us.
 I remember feeling quite annoyed.
 I guess that was easier than feeling disappointed.
@@ -115,7 +119,7 @@ Because I know him from back in the day, I used to play soccer with him.
 Where did he go?
 
 Sure enough, there he was -- standing in a crowd of parents watching their children on one of the kiddie rides.
-Some of the parents were wearing Club America jerseys, but none of them were looking at him.
+Some of the parents were wearing Club América jerseys, but none of them were looking at him.
 I couldn’t believe nobody recognized him, but then again I barely did, in his dark sunglasses and white t-shirt advertising a splashing Aquafina water bottle.
 A shrewd disguise.
 I guess it also helped that he naturally looked less like a Mexican soccer star and more like a Mexican Tony Soprano.
