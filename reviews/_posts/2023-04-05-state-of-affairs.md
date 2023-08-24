@@ -12,4 +12,4 @@ It is an orientation on marriage and monogamy that considers selfhood, individua
 Do yourself a favor.
 
 It's also written well.
-It's mildly funny and full of clever metaphors.
+It's mildly funny and full of [well-coordinated metaphors]({{ site.baseurl }}{% post_url /2023-03-09-coordinate-metaphors %}).

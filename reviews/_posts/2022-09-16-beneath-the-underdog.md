@@ -6,7 +6,9 @@ permalink: /beneath-the-underdog
 tags: books memoir jazz abuse narcissism
 ---
 
-It started with promise <!--more--> -- I love the tender way Mingus referred to his youthful self, his inner child: "my boy", "baby".
+It started with promise!
+<!--more--> --
+I love the tender way Mingus referred to his youthful self, his inner child: "my boy", "baby".
 My heart broke for the abuse he endured and I looked forward to seeing mature Mingus process it.
 Instead I encountered a man of ugly, paranoiac-narcissistic bravado.
 The book felt like a grossly egotistical, delusional mistreatment of his psychological wounds.
