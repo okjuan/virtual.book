@@ -83,13 +83,13 @@ I didn’t look like I was going out with my fellow 15 year-olds, but like I was
 It was tricky to dress my age given my dad’s impulse to impress his preferences on me and my brother during our gender-segregated trips to the outlet mall.
 (_Pobre niños, I only took them to Tommy Hilfiger, Lacoste, Polo Ralph Lauren, Calvin Klein..._)
 The boys enjoyed an efficient tour through the collared, emblemed world of business casual while the girls enjoyed going shopping.
-(The gleeful shopping spree where I realize my _Ned_ outfit for middle school was casually sponsored by my mom on one of the days where a breach opened in the gender divide, leading into a world of abundant oks and yeah sures.)
+(The gleeful shopping spree where I realized my _Ned_ outfit for middle school was casually sponsored by my mom on one of the days where a breach opened in the gender divide, leading into a world of abundant oks and yeah sures.)
 Luckily for me, my dad also highly approved of Adidas.
 Actually, it was he who gave me the _Impossible is Nothing_ poster that hung on my bedroom wall, featuring a looming Muhammad Ali, an arm-slinged Beckenbauer, and various other figures of iron resolve.
 
 My dad would never have taken us thrift shopping, and yet he supplied me and my brother with some prime vintage pieces.
 He kept some of his clothes for decades, despite the fact they didn’t fit him anymore.
-I suppose he foresaw the possibility of their inheritance, or maybe he collected them for no particular reason along with his racecar magazines and military school uniform.
+I suppose he foresaw the possibility of their inheritance, or maybe he collected them for no practical reason like he did his military school uniform and racecar magazines.
 In our late teens and early twenties, my brother and I mined my dad’s store of 80s and 90s attire for bona fide retro items.
 It was like going thrift shopping, except the old man was no stranger.
 And it was free.
@@ -99,9 +99,8 @@ My kids are unlikely to enjoy the same luck.
 At the peak of my “minimalist” phase in my late teens and early twenties --- as my mom admiringly called it --- I got rid of a lot of stuff.
 Probably too much stuff.
 My dad had to talk me out of getting rid of my school yearbooks.
-One of the things I regret getting rid of is a Club América t-shirt from my days in the youth academy that was signed by then-teen Memo Ochoa, the talented up-and-coming Mexican goalie who, ten or fifteen years later, made outrageous saves [at the 2018 World Cup](https://youtu.be/Cm_pMHQokZo)
-in Brazil to deny the likes of Neymar.
-I’m not sure it was the real academy, but it was real enough to summon a couple first team players for a meet-and-greet after practice one day.
+One of the things I regret getting rid of is a Club América t-shirt signed by a teenage Memo Ochoa, the talented up-and-coming Mexican goalie who, ten or fifteen years later, made outrageous saves [at the 2018 World Cup](https://youtu.be/Cm_pMHQokZo) in Brazil to deny the likes of Neymar.
+I got to meet him when I was eight years old and playing in the Club América youth academy, which was real enough to summon a couple first team players for a meet-and-greet after practice one day.
 Actually, I even got to stand on the field at the legendary Estadio Azteca -- site of Maradona's infamous [Hand of God](https://www.wikiwand.com/en/The_hand_of_God)
 in the 1986 World Cup -- before kickoff at a Club América game.
 My teammates and I were lined up to high-five the players as they came out onto the field, but most of them didn’t stretch their arms far enough to make contact with us.
@@ -125,28 +124,26 @@ A shrewd disguise.
 I guess it also helped that he naturally looked less like a Mexican soccer star and more like a Mexican Tony Soprano.
 I waited for the kiddie ride to end and, as the parents dispersed, I approached him, heart thumping.
 Straight to the point: can I have an autograph?
-He paused without a word, glanced quickly over his shoulders, took the pen my friend’s chofer had given me, found the top corner of my shirt, and signed it.
+He paused, said nothing, glanced quickly over his shoulder, took the pen my friend’s chofer had given me, found the top corner of my shirt, and signed it.
 When I got back to my friends, they couldn’t believe it.
 
-In my university years, some of my friends developed a special affinity for Four Horsemen (4H), our local casual-yet-high-end wear clothing store.
+In my university years, some of my friends developed a special affinity for Four Horsemen (4H), our local casual-yet-high-end clothing store.
 (Street wear?)
 The walls were all white, the clothes were expensive, the music was hip, and the employees even hipper.
 I browsed often but rarely purchased anything.
 And yet I spent hundreds of dollars there.
-All I remember buying is a pair of [New Balances 999s](https://i5.walmartimages.com/asr/a396975e-5179-4c8d-ba54-7f35ad0f9405.991d8e29db17eb16b368646b49a6da9c.jpeg), two pairs of black Chapter pants, and a pair of roomy, pleated, grey, speckled 4H pants.
-I still love that pair of pants.
+All I remember buying is a pair of [New Balances 999s](https://i5.walmartimages.com/asr/a396975e-5179-4c8d-ba54-7f35ad0f9405.991d8e29db17eb16b368646b49a6da9c.jpeg), two pairs of black Chapter pants, and a pair of roomy, pleated, grey, speckled 4H pants, which I still love.
 
 The special emphasis on pants is due to the difficulty I have buying pants that don’t smother my thighs.
 In fact, it was from one of the Four Horsemen workers that I first heard _thick_ as slang, when I was trying on the grey pants.
-It was slightly embarrassing.
+I laughed nervously before escaping back into the fitting room.
 I bought a size up and got a tailor to shorten the waist.
 After years of tapering the end of my employee-discounted Tommy Hilfiger chino pants by folding the hem, those grey pants were a departure.
 Looking at the loose hems in the fitting room, I was doubtful I could pull it off.
-But I took the leap once again.
 
-During a day trip to Vancouver with that same friend group, I ended up splurging on an olive-colored [John Elliott Hooded Villain](https://www.johnelliott.com/cdn/shop/products/HOODED_VILLAIN_OLIVE_06_1424x.jpg?v=1569005291)
-sweater.
-Before its demise, the side-zipper design became popular enough for H&M to mimic and for Ritchie with a T to ridicule in the outro of an Injury Reserve song:
+During a day trip to Vancouver with that same friend group, I ended up splurging on an olive-colored [John Elliott Hooded Villain](https://www.johnelliott.com/cdn/shop/products/HOODED_VILLAIN_OLIVE_06_1424x.jpg?v=1569005291) sweater.
+The side-zipper design surged in popularity, high enough for H&M to mimic, and then crashed back down.
+Ritchie with a T, in the outro of Injury Reserve's "All This Money":
 > I don't even know who's idea it was to put a zipper on the side
 >
 > Like what...
