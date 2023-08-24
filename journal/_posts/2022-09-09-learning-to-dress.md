@@ -48,10 +48,13 @@ And if the button-up were to have a little moose on the chest, then so be it.
 I would’ve been too powerful.)
 I recreated it with Abercrombie button-ups and striped sweatpants from The Children’s Place.
 (One big stripe was an admissible, if humbler, alternative to the three.)
-On more modest days I played it safe with my long sleeve graphic tee that read, in letters stylized as ice cubes across the chest, _COOL AS ICE_.
+On more modest days I wore one of my graphic tees, like my navy blue long-sleeve that read, in letters stylized as ice cubes, _COOL AS ICE_.
+Another favorite was a black short-sleeve with _The Dark Side of the Moon_ album cover on it.
+I knew nothing about Pink Floyd but it seemed like a cool thing to wear.
+Plus, the material was so soft, it was like wearing a pajama top.
 
 On those first few weeks, I swaggered through the halls in my new outfits, savoring my authentique américain lifestyle.
-But, unfortunately, the quippy repartee that I anticipated happening in the busy halls wasn’t as natural in the secluded corner of the school, where the sixth grade lockers were.
+But the quippy repartee that I anticipated happening in the busy halls wasn’t as natural in the secluded corner of the school, where the sixth grade lockers were.
 Plus, opening a locker wasn’t the 3-second operation that TV had assured me existed mainly as backdrop for flirting between classes.
 I don’t know at what summer camp all those Nickelodeon teens and teens got their bank-heist finger agility.
 
