@@ -5,9 +5,9 @@ permalink: /honest-mechanic
 tags: honesty car-salesmen people
 ---
 
-The two young guys standing at the counter had brought in a 2005 Honda Civic for a pre-purchase inspection and Amir had found several issues.
-The two guys want a print-out of the inspection as proof so they can get on their way but Amir doesn't want to give them anything with his shop's name.
+Amir had found several issues with the 2005 Honda Civic that the two young guys standing at the counter had brought in for a pre-purchase inspection.
 <!--more-->
+They wanted a printed proof of the inspection so they can get on their way but Amir doesn't want to give them anything with his shop's name.
 
 > I fail inspections and then people give me bad reviews on Google. All the dealerships in this area hate me! That car right there is from the dealership. I drive it around and when it gets hot, it goes b-b-boom. They tell me, come on, just pass it. They tell me no, no, no, I say no, no, no.
 
