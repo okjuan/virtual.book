@@ -9,7 +9,7 @@ I've been interested in psychoanalysis since at least 2014, when I read about Fr
 Despite the distrust most folks today have for psychoanalysis, I trust it has insights.
 I also find ridiculous Freud's insistence that the Oedipus Complex is not only a universal childhood trauma but _the_ central childhood trauma.
 But I'm more interested in _descriptive_ theories rather than _prescriptive_ ones.
-I am skeptical of being given a blueprint
+I am skeptical of blueprints as exhaustive descriptions but enthusiastic about patterns as incisive tools.
 
 I'm less interested in elaborate psychological theories that peel off from the concrete into their own world.
 I don't want a prescriptive blueprint,
