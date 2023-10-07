@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Tipping Point
+title: The Tipping Point (2000)
 subtitle: by Malcolm Gladwell
 permalink: /the-tipping-point
 tags: books
