@@ -4,6 +4,7 @@ title: Fear and Loathing in Las Vegas (1971)
 subtitle: by Hunter S. Thompson
 permalink: /fear-and-loathing
 tags: writing books
+category: reviews
 ---
 
 An incredibly entertaining read, full of absurd, shocking, and sometimes unbelievable scenes.

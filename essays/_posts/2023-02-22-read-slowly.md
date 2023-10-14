@@ -3,6 +3,7 @@ layout: post
 title: how to read slowly
 permalink: /read-slowly
 tags: learning reading
+category: essays
 ---
 
 Everyone should learn to [leave books unfinished](https://okjuan.medium.com/feeling-good-about-ditching-books-1c4633fd87f).

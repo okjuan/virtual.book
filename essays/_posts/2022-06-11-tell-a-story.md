@@ -3,6 +3,7 @@ layout: post
 title: how to tell a story
 permalink: /tell-a-story
 tags: writing new-journalism tom-wolfe hunter-thompson hells-angels
+category: essays
 ---
 
 *(This is a slightly edited excerpt from my piece [The Virtual Book](https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360).)*

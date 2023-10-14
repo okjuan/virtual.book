@@ -4,6 +4,7 @@ title: How to Talk About Books You Haven't Read (2007)
 subtitle: by Pierre Bayard
 permalink: /how-to-talk-about-books
 tags: books reading memory
+category: reviews
 ---
 
 Overall, the book had some illuminating ideas to share early on, but many others that came later disappointed.

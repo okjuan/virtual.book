@@ -3,6 +3,7 @@ layout: post
 title: There Will Be Blood (2007)
 permalink: /there-will-be-blood
 tags: movies writing paul-thomas-anderson biblical acting
+category: reviews
 ---
 
 The imagery in the opening scenes is fantastic.

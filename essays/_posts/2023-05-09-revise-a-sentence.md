@@ -3,6 +3,7 @@ layout: post
 title: how to revise a sentence
 permalink: /revise-a-sentence
 tags: editing writing
+category: essays
 ---
 
 Suppose you have this sentence:

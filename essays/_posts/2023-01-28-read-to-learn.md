@@ -3,6 +3,7 @@ layout: post
 title: how to read to learn
 permalink: /read-to-learn
 tags: learning reading
+category: essays
 ---
 
 Ever since I read [How to Talk About Books You Haven't Read](https://www.goodreads.com/book/show/1143788.How_to_Talk_About_Books_You_Haven_t_Read?ac=1&from_search=true&qid=dQGK5Adu5Y&rank=1), I've stopped trying to absorb everything I read.

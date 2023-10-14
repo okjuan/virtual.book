@@ -3,6 +3,7 @@ layout: post
 title: how to progress without planning
 permalink: /progress-without-planning
 tags: time-management decision-making work
+category: essays
 ---
 
 The other day I picked a bunch of books from my library and tried to start each of them.

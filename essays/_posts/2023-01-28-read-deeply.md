@@ -3,6 +3,7 @@ layout: post
 title: how to read deeply
 permalink: /read-deeply
 tags: critical-thinking reading
+category: essays
 ---
 
 I read with haste, crazed by [the amount of content]({{ site.baseurl }}{% post_url /2023-01-28-choose-your-next-book %}) I won't get to unless I hurry.

@@ -3,6 +3,7 @@ layout: post
 title: how to like your life
 permalink: /like-your-life
 tags: time-management mortality mindfulness
+category: essays
 ---
 
 This morning I almost got overwhelmed with things I had to do.

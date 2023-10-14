@@ -4,6 +4,7 @@ title: The Meaning of Death (1965)
 subtitle: by Herman Feifel
 permalink: /meaning-of-death
 tags: books mortality death psychology
+category: reviews
 ---
 
 I read a chunk of this.

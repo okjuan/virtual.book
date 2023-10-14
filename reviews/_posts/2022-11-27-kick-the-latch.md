@@ -4,6 +4,7 @@ title: Kick the Latch (2022)
 subtitle: by Kathryn Scanlan
 permalink: /kick-the-latch
 tags: writing books
+category: reviews
 ---
 
 A gem!

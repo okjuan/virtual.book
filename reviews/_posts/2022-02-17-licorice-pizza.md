@@ -3,6 +3,7 @@ layout: post
 title: Licorice Pizza (2021)
 permalink: /licorice-pizza
 tags: movies writing paul-thomas-anderson episodic-storytelling relationships co-dependency insecurity ego racism
+category: reviews
 ---
 
 I just love the writing.

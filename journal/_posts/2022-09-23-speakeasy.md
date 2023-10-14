@@ -5,6 +5,7 @@ subtitle: How to pivot your illegal hangout into an upscale, exclusive lounge.
 note: "Inspiration for writing style: Tom Wolfe's 1970 article <em><a href='https://nymag.com/news/features/46170/'>Radical Chic: That Party at Lenny's</a></em>."
 permalink: /speakeasy
 tags: seattle cocktail-bar places
+category: journal
 ---
 
 As we are finishing our meals, the waiter comes over. It's not to ask us anything, but to bless us with the news that we have completed our time in purgatory and earned our time to ascend. The speakeasy awaits.

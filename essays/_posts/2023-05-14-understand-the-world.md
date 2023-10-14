@@ -3,6 +3,7 @@ layout: post
 title: how to understand the world
 permalink: /understand-the-world
 tags: philosophy poli-sci thinking knowledge
+category: essays
 ---
 
 Several years ago, in the last and lightest semester of my Computer Science degree, I spent a good deal of my free time studying YouTube videos about politics, philosophy, and sociology.

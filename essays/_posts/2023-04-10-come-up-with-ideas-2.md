@@ -3,6 +3,7 @@ layout: post
 title: how to come up with ideas (2)
 permalink: /come-up-with-ideas-2
 tags: creativity memory psychology
+category: essays
 ---
 
 I find it surprisingly easy to whistle a new tune.
