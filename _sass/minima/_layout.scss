@@ -227,11 +227,24 @@
 }
 
 .post-link {
-  display: block;
+  display: inline;
   @include relative-font-size(1.5);
+  width: auto;
 }
 
+.post-title-link {
+  display: inline;
+  width: auto;
+}
 
+.post-category {
+  display: inline;
+  float: right;
+  border: 1px dashed $brand-color;
+  border-width: thin;
+  border-radius: 10px;
+  padding: 2px 5px;
+}
 
 /**
  * Posts
