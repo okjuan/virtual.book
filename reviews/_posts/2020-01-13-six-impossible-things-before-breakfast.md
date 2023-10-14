@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Six Impossible Things Before Breakfast: The Evolutionary Origins of Belief (2011)'
-subtitle: by Lewis Wolpert
+title: Six Impossible Things Before Breakfast (2011)
+subtitle: The Evolutionary Origins of Belief
+subsubtitle: by Lewis Wolpert
 permalink: /six-impossible-things
 tags: books evolution psychology
 category: reviews

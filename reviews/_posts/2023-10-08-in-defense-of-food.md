@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In Defense of Food (2008)
-subtitle: by Michael Pollan
+subsubtitle: by Michael Pollan
 permalink: /in-defense-of-food
 tags: books nutrition diet science health evolution
 category: reviews

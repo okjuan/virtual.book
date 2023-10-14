@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Several Short Sentences About Writing (2012)
-subtitle: by Verlyn Klinkenborg
+subsubtitle: by Verlyn Klinkenborg
 permalink: /several-short-sentences
 tags: writing books
 category: reviews

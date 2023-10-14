@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Promise of Sleep (1999)
-subtitle: by William C. Dement
+subsubtitle: by William C. Dement
 permalink: /promise-of-sleep
 tags: books sleep-science medicine health physiology dreams
 category: reviews

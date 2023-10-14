@@ -1,7 +1,7 @@
 ---
 layout: post
 title: East of Eden (1962)
-subtitle: by John Steinbeck
+subsubtitle: by John Steinbeck
 permalink: /east-of-eden
 tags: writing books biblical story-telling
 category: reviews

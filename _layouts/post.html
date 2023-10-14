@@ -9,6 +9,9 @@ layout: base
     {%- if page.subtitle -%}
     <em><h3 class="post-subtitle">{{ page.subtitle }}</h3></em>
     {%- endif -%}
+    {%- if page.subsubtitle -%}
+    <h4 class="post-subtitle">{{ page.subsubtitle }}</h4>
+    {%- endif -%}
     <p class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">

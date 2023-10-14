@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Herbie Hancock: Possibilities (2014)'
-subtitle: by Herbie Hancock
+subsubtitle: by Herbie Hancock
 permalink: /possibilities
 tags: books memoir jazz
 category: reviews

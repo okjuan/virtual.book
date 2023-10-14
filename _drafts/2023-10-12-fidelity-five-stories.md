@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fidelity: Five Stories (1992)'
-subtitle: by Wendell Berry
+subsubtitle: by Wendell Berry
 permalink: /fidelity
 tags: books fiction literature america farming community
 ---

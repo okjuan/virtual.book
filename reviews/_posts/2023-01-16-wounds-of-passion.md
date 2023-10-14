@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'Wounds of Passion: A Writing Life (1997)'
-subtitle: by bell hooks
+title: Wounds of Passion (1997)
+subtitle: A Writing Life
+subsubtitle: by bell hooks
 permalink: /wounds-of-passion
 tags: books writing poetry relationships abuse trauma memoir feminism misogyny racism
 category: reviews

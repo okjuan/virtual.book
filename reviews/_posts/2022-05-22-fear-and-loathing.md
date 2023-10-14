@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fear and Loathing in Las Vegas (1971)
-subtitle: by Hunter S. Thompson
+subsubtitle: by Hunter S. Thompson
 permalink: /fear-and-loathing
 tags: writing books
 category: reviews
