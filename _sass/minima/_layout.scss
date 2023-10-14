@@ -250,6 +250,13 @@
   width: 85%;
 }
 
+.post-tag-link {
+  color: $brand-color;
+  &:visited {
+    color: $brand-color;
+  }
+}
+
 /**
  * Posts
  */
