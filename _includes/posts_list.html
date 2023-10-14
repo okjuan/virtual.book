@@ -13,7 +13,9 @@
             <span class="post-category">{{ post.category }}</span>
           </div>
           {%- if site.show_excerpts -%}
-            <p class="post-excerpt">{{ post.excerpt | strip_html }}</p>
+            <div class="post-excerpt">
+              {{ post.excerpt }}
+            </div>
           {%- endif -%}
         </li>
       {%- endif -%}
