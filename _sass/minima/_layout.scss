@@ -250,6 +250,15 @@
   width: 85%;
 }
 
+.post-tag {
+  margin: 0px 0px 5px 0px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 85%;
+  overflow: hidden;
+}
+
 .post-tag-link {
   color: $brand-color;
   &:visited {
