@@ -12,7 +12,7 @@
             </h3>
             <span class="post-category">{{ post.category }}</span>
           </div>
-          <p style="margin: 0px">
+          <p style="margin: 0px 0px 5px 0px">
             {%- for tag in post.tags -%}
               {% capture tag_name %}{{ tag }}{% endcapture %}
               <a class="post-tag-link" href="/vbook/tags/{{ tag_name }}">#{{ tag_name }}</a>
