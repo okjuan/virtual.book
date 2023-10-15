@@ -229,7 +229,9 @@
 .post-link {
   display: inline;
   @include relative-font-size(1.5);
-  width: auto;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .post-title-link {
@@ -237,24 +239,13 @@
   width: auto;
 }
 
-.post-category {
-  display: inline;
-  float: right;
-  padding: 2px 5px;
-  transform: translateY(18%);
-}
-
-.post-excerpt {
-  width: 85%;
-}
-
 .post-tag {
   margin: 0px 0px 5px 0px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  width: 85%;
   overflow: hidden;
+  color: $brand-color;
 }
 
 .post-tag-link {
