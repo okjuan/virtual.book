@@ -2,8 +2,8 @@
 layout: post
 title: learning to dress
 permalink: /clothes
-tags: soccer clothing fashion popularity shopping brands hand-me-downs vintage regret
-category: journal
+tags: journal soccer clothing fashion popularity shopping brands hand-me-downs vintage regret
+
 ---
 
 In elementary school I chose my outfits for one thing: recess.

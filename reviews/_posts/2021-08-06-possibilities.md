@@ -3,8 +3,8 @@ layout: post
 title: 'Herbie Hancock: Possibilities (2014)'
 subsubtitle: by Herbie Hancock
 permalink: /possibilities
-tags: books memoir jazz
-category: reviews
+tags: reviews books memoir jazz
+
 ---
 
 The audiobook narrated by Herbie is great.

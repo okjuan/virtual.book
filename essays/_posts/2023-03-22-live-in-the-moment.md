@@ -2,8 +2,8 @@
 layout: post
 title: how to live in the moment
 permalink: /live-in-the-moment
-tags: time-management mortality mindfulness
-category: essays
+tags: essays time-management mortality mindfulness
+
 ---
 
 It is old advice to live now because now is the only time you will ever live.

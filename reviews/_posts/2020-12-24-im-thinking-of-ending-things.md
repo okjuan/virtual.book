@@ -2,8 +2,8 @@
 layout: post
 title: I'm Thinking of Ending Things (2020)
 permalink: /im-thinking-of-ending-things
-tags: movies writing charlie-kaufman movie-adaptations anxiety pettiness ego abuse
-category: reviews
+tags: reviews movies writing charlie-kaufman movie-adaptations anxiety pettiness ego abuse
+
 ---
 
 It is a movie about him, but it is told through her.

@@ -4,8 +4,8 @@ title: Livewired (2020)
 subtitle: The Inside Story of the Ever-Changing Brain
 subsubtitle: by David Eagleman
 permalink: /livewired
-tags: books neuroscience psychology neuroplasticity senses perception
-category: reviews
+tags: reviews books neuroscience psychology neuroplasticity senses perception
+
 ---
 
 Absolutely essential read.

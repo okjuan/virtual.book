@@ -3,8 +3,8 @@ layout: post
 title: Stop Being Reasonable (2019)
 subsubtitle: by Eleanor Gordon-Smith
 permalink: /stop-being-reasonable
-tags: books reasoning beliefs persuasion relationships
-category: reviews
+tags: reviews books reasoning beliefs persuasion relationships
+
 ---
 
 Thoughtful and witty, infusing some ideas about the philosophy of knowledge into real, human struggles and situations.

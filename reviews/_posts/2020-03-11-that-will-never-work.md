@@ -4,8 +4,8 @@ title: 'That Will Never Work (2019)'
 subtitle: The Birth of Netflix and the Amazing Life of an Idea
 subsubtitle: by Marc Randolph
 permalink: /that-will-never-work
-tags: books memoir entrepreneurship
-category: reviews
+tags: reviews books memoir entrepreneurship
+
 ---
 
 I wasn't particularly satisfied with Randolph's writing skills, but the book made for an entertaining 1st person account of the birth of Netflix.

@@ -2,8 +2,8 @@
 layout: post
 title: how to trust yourself
 permalink: /trust-yourself
-tags: honesty bullshit ego
-category: essays
+tags: essays honesty bullshit ego
+
 ---
 
 Once, when I was a Teaching Assistant for a 3rd year Computer Science course, I had to invigilate a couple students while they took a midterm.

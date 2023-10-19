@@ -3,8 +3,8 @@ layout: post
 title: The Meaning of Death (1965)
 subsubtitle: by Herman Feifel
 permalink: /meaning-of-death
-tags: books mortality death psychology
-category: reviews
+tags: reviews books mortality death psychology
+
 ---
 
 I read a chunk of this.

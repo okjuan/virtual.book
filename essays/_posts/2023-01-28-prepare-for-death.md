@@ -2,8 +2,8 @@
 layout: post
 title: how to prepare for death
 permalink: /prepare-for-death
-tags: mortality time-management prioritization
-category: essays
+tags: essays mortality time-management prioritization
+
 ---
 
 Death is coming.

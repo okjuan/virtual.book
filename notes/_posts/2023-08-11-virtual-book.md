@@ -3,8 +3,8 @@ layout: post
 title: what is a virtual book?
 note: "Dedicated to <a href='https://en.wikipedia.org/wiki/Aaron_Swartz'>Aaron Swartz</a>."
 permalink: /virtual-book
-tags: writing mediums
-category: notes
+tags: notes writing mediums
+
 ---
 
 I wrote an essay called [The Virtual Book](https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360) but I never defined the term.

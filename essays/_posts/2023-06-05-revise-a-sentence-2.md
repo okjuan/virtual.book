@@ -2,8 +2,8 @@
 layout: post
 title: how to revise a sentence (2)
 permalink: /revise-a-sentence-2
-tags: editing writing
-category: essays
+tags: essays editing writing
+
 ---
 
 Take this quote by anthropologist Clifford Geertz:

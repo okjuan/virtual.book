@@ -2,8 +2,8 @@
 layout: post
 title: dolor y gloria (2019)
 permalink: /dolor-y-gloria
-tags: movies spanish passages mid-life-crisis sexuality mortality
-category: reviews
+tags: reviews movies spanish passages mid-life-crisis sexuality mortality
+
 ---
 
 I loved the writing, the acting, and the set design.

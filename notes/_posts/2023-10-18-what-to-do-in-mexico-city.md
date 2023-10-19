@@ -2,8 +2,8 @@
 layout: post
 title: what to do in Mexico City
 permalink: /visiting-cdmx
-tags: travel
-category: notes
+tags: notes travel
+
 ---
 
 <!--more-->

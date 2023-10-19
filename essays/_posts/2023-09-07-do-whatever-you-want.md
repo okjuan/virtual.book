@@ -2,8 +2,8 @@
 layout: post
 title: how to do whatever you want
 permalink: /do-whatever
-tags: writing profession career
-category: essays
+tags: essays writing profession career
+
 ---
 
 A not-so-secret desire of mine is to write non-fiction professionally.

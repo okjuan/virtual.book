@@ -2,8 +2,8 @@
 layout: post
 title: Kiki's Delivery Service (1989)
 permalink: /kikis-delivery-service
-tags: movies studio-ghibli coming-of-age
-category: reviews
+tags: reviews movies studio-ghibli coming-of-age
+
 ---
 
 Just so good... a beautiful story about the scary and exciting process of individuating, bridging out of childhood.

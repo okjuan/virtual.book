@@ -3,8 +3,8 @@ layout: post
 title: 'Daring: My Passages (2014)'
 subsubtitle: by Gail Sheehy
 permalink: /daring-my-passages
-tags: writing books memoir new-journalism magazine-journalism
-category: reviews
+tags: reviews writing books memoir new-journalism magazine-journalism
+
 ---
 
 Awesome read about an accomplished writer's career and life.

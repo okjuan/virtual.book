@@ -2,8 +2,8 @@
 layout: post
 title: The Departed (2006)
 permalink: /the-departed
-tags: movies writing scorsese sexism misogyny
-category: reviews
+tags: reviews movies writing scorsese sexism misogyny
+
 ---
 
 My two main problems with this movie are Jack Nicholson's character, Costello, and The Love Interest.

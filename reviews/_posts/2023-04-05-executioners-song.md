@@ -3,8 +3,8 @@ layout: post
 title: The Executioner's Song (1979)
 subsubtitle: by Norman Mailer
 permalink: /executioners-song
-tags: writing books true-crime new-journalism nonfiction-novel norman-mailer
-category: reviews
+tags: reviews writing books true-crime new-journalism nonfiction-novel norman-mailer
+
 ---
 
 I picked up this book to learn about Norman Mailer's writing style.
