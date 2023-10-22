@@ -92,3 +92,7 @@ Are you so sure it is wholly of first order?
 Or have these natural behaviors been hijacked by unconscious, frustrated impulses with other original agendas?
 The agenda, for example, of establishing your self-worth?
 
+---
+
+bits:
+- why do I prefer the aisle seat on planes and buses? I want to be able to get up whenever I want. I suppose this is not unrelated to my need for an exit out of things like relationships and commitments.
