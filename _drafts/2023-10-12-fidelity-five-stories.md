@@ -36,7 +36,7 @@ Those of us lucky to live in community ought to know that it is a foundation bui
 ### story 2: A Jonquil for Mary Penn
 
 A great example of expressionism: external representation of internal state.
-And a great example of imbuing the setting with the meaning of the story in a way that doesn't need to be _thought_, doesn't require decoding, but is instead _felt_.
+And a great example of imbuing the setting with the meaning of the story in a way that doesn't need to be interpretted rationally, but is instead _felt_.
 
 ### story 3: Making It Home
 

@@ -4,7 +4,6 @@ I don't find the pop-spiritual mantra "Be present" helpful.
 People like to offer it as a balm for negativity.
 Don't grumble and complain, look around you and appreciate all the good things.
 Be grateful.
-Don't focus on the negative.
 Listen to the birds singing and the breeze blowing, soak up the shining sun.
 
 But what if there are no birds, no breeze, and no sun?
