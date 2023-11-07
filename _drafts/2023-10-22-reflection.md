@@ -1,0 +1,3 @@
+- got married
+- got Vancouver apt
+- went to Mexico
