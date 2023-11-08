@@ -6,49 +6,60 @@ permalink: /fidelity
 tags: books fiction literature america farming community
 ---
 
-That tens of millions of Americans voted for Trump should not just concern us.
-It should also interest us.
+I'd recommend this book to anyone who, like me, wants to better understand the values and politics of rural America through literature.
 <!--more-->
+Berry does a great job at representing a culture and its values through story.
 
-### story 1: Pray Without Ceasing
+Stories I and IV are longer, the others are shorter.
 
-Out of the five, this one is most complex in technique.
-There are two stories: the primary one, which happened decades earlier, and a secondary one, which is unfolding in the present.
-    In the present, the main character..
-    The main story is told to the main character by his grandmother
-    The main story is about the main character's grandfather grandmother
-    Berry frames the main story
-TODO: explain
+### I. Pray Without Ceasing
 
-The complicated structure is not just for show.
-It's constructed so that it will click into place at the story's climax.
-We learn that the main character lives because of the forgiveness his forefathers bore.
+One of the longer ones and the most complicated in narrative structure.
+But its complexity pays off in the last couple pages.
+It's interesting to study for its technique.
 
-This is a deliberate choice.
-The story doesn't climax with the murder or the subsequent suicide.
-A writer must assemble their pieces so that the jewel is centermost.
+A man visits his grandparents and finally hears the story of how his great-grandfather was murdered by his best friend.
+The grandmother tells the story but we read it as a long flashback.
+(So long that Berry has to remind us partway through that it is a flashback by interrupting it with dialogue between the grandmother and the grandson.)
+With help from important figures in his small community, the grandfather overcomes his initial rage and urge for revenge.
+His restraint prevents the incident from destroying the relationship between the two families.
+A generation later, offspring of the two families end up marrying and creating a new family which is descended from both murderer and victim.
+Including our protagonist.
+We learn this at the very end, which makes for a second, unexpected climax and which reveals Berry's purpose for framing one story within the other.
 
-The killer fails to trust in his community and, in a rage, stretches it to its limits, threatening to tear it apart.
-But it stays integral.
-Through forgiveness, the community survives.
-Those of us lucky to live in community ought to know that it is a foundation built from labor and love.
+### II. A Jonquil for Mary Penn
 
-### story 2: A Jonquil for Mary Penn
+One of my favorites.
+Simple, short, and worth more than its length.
+It is a great example of how to imbue meaning into a story so that it doesn't need to be interpretted rationally, but is instead _felt_.
 
-A great example of expressionism: external representation of internal state.
-And a great example of imbuing the setting with the meaning of the story in a way that doesn't need to be interpretted rationally, but is instead _felt_.
+Mary Penn is sick and wallowing.
+At first, we think her feelings are true: she is alone and she lacks love and care.
+But slowly we realize her small community is a good one, and we wonder what exactly is the cause of her despair.
+In the end, we, along with Mary, are reassured that her husband and her friends care for her deeply and attentively.
 
-### story 3: Making It Home
+We feel her sadness and loneliness in the darkness of the early morning and in the coldness of the wind, and then we feel her joy when we she reawakens in the warmth of her bed to a sun-filled room and her dear friend knitting in the rocking chair.
 
-Art Rowanberry's tendency "[not to use a machine to do something that he could do himself]" echoes Berry's controversial declaration that he would never use a computer.
+### III Making It Home
 
-The moment most imprinted in my mind is when Art stops to wash and shave at the creek.
-The quiet of the woods,
-    the coldness of the water on the skin,
-    the feeling of self-sufficiency at improvising a solution,
-    the love expressed in marching home,
-    the pride of returning home clean and shaven.
+Like _A Jonquil for Mary Penn_, this story is very straightforward.
+A soldier returns to his father's farm.
+Instead of waiting for the morning bus, he sets off on foot.
+(The character's resolution against using a machine to do something that he could do himself echoes Berry's provocative promise that he would never use a computer.)
+He walks until dark, sleeps in a church, and sets off again in the morning.
+The moment most imprinted in my mind comes when he nears the farm and stops to wash and shave in a creek.
+He lies in the sun to warm back up and falls asleep.
+When he wakes, he sets off to complete his journey.
+The scene where he is greeted by his father and his brother is understated but deep with emotion.
 
-### story 4: Fidelity
+### IV. Fidelity
 
-### story 5: Are You All Right?
+Another long story.
+This one is also more complex than most because it takes various different perspectives.
+This is also one where Berry speaks an explicit political opinion through his characters.
+I greatly appreciated its criticism of the absurd and anti-human aspects of bureaucracy and legal morality.
+
+### V. Are You All Right?
+
+This story celebrates the subtle ways love and beauty appear in the mundane when one lives a life in nature and among friends.
+And, like _Pray Without Ceasing_, it ends with a twist that deepens the meaning of the story.
