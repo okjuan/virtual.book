@@ -22,6 +22,8 @@ Websites I recommend:
 - [paulgraham.com/articles](http://www.paulgraham.com/articles.html)
 - [hintjens.com](http://hintjens.com/)
 - [oliverburkeman.com/posts](https://www.oliverburkeman.com/posts)
+- [hackernews.com](https://hackernews.com/)
+- [lobste.rs](https://lobste.rs/)
 
 ---
 
