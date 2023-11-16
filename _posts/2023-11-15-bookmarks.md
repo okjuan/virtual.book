@@ -11,6 +11,7 @@ This page is inspired by Viktor Lofgren's [The Small Website Discoverability Cri
 Websites I recommend:
 
 - [okjuan.me](https://okjuan.me/) ;-)
+- [mentalnodes.com](https://www.mentalnodes.com/)
 - [joelonsoftware.com](https://www.joelonsoftware.com/)
 - [I.M. Wright](https://imwrightshardcode.com/)
 - [sive.rs](https://sive.rs/)
