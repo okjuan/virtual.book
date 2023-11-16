@@ -16,7 +16,7 @@ On the way back to my table, I passed a wall emblazoned with the brewery's promi
 
 Soon, the band settled back behind their instruments for the second half of the set, this time joined by a singer and Freddy 'Fuego' Gonzalez on trombone. Freddy introduced the singer and warned us we didn’t know what we were in for. It was clear mere seconds into "Feeling Good" that Freddy wasn't talking her up. Here was not only a talented singer but a performer with a presence befitting a stage the size of this whole taproom. And yet here she was singing mere feet from the wooden benches where we sat drinking. Singing for free, for the community.
 
-Next, the band launched into a version of "Fever" infused with a Buena Vista Social Club-style rhythm. The singer swayed and stepped as she sang, but the small crowd was too shy to be beckoned up onto their feet. I grooved in my seat, head bopping, foot bouncing. The song ended but the singer hadn't given up on us. As the band started playing the slow, unmistakable intro to "Stand By Me", the singer started recruiting dancers one by one.
+Next, the band launched into a version of "Fever" infused with a Buena Vista Social Club-style rhythm. The singer swayed and stepped as she sang, but the small crowd was too shy to be beckoned up onto their feet. I grooved in my seat, head bopping, foot bouncing. The song ended but the singer hadn't given up on us. As the band started playing the slow, unmistakable intro to "Stand By Me", the singer started recruiting us one by one.
 
 > And you, you're bopping your head, that means you have rhythm.
 
