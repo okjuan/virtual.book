@@ -6,7 +6,7 @@ tags: journal honesty car-salesmen people
 
 ---
 
-Amir had found several issues with the 2005 Honda Civic that the two young guys standing at the counter had brought in for a pre-purchase inspection.
+The two young guys standing at the counter had brought in an old Honda Civic for a pre-purchase inspection, and Amir had found several issues with it.
 <!--more-->
 They wanted a printed proof of the inspection so they can get on their way but Amir doesn't want to give them anything with his shop's name.
 
