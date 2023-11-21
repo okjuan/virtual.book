@@ -40,7 +40,7 @@ layout: base
         {% endfor %}
     </span>
 
-    {%- assign backlinks = page.url | backlink -%}
+    {%- assign backlinks = page | backlink -%}
     {%- if backlinks -%}
       &mdash; <span>{{ backlinks }}</span>
     {%- endif -%}
