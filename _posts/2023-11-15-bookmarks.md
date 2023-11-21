@@ -38,6 +38,8 @@ Websites that organize their work as an interconnected network:
 Websites that, over the last year or two, I've come across and liked enough to save for looking at later.
 
 ### tech, life, & career
+- [tommi.space](https://tommi.space/home/)
+- [benjamincongdon.me](https://benjamincongdon.me/blog)
 - [schier.co](https://schier.co/blog)
 - [blog.pragmaticengineer.com](https://blog.pragmaticengineer.com/)
 - [remotemanifesto.com](https://remotemanifesto.com/)
@@ -45,6 +47,7 @@ Websites that, over the last year or two, I've come across and liked enough to s
 - [pothix.com](https://pothix.com/)
 
 ### blogs / personal
+- [maggieappleton.com](https://maggieappleton.com)
 - [maylikhoe.com](https://maylikhoe.com/)
 - [tegowerk.eu](https://tegowerk.eu/)
 
