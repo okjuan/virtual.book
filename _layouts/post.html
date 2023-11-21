@@ -40,16 +40,21 @@ layout: base
         {% endfor %}
     </span>
 
+    {%- assign backlinks = page.url | backlink -%}
+    {%- if backlinks -%}
+      &mdash; <span>{{ backlinks }}</span>
+    {%- endif -%}
+
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
 
-    <hr />
-
     {%- if page.note -%}
-    <h6 class="post-note">{{ page.note }}</h6>
+      <hr />
+      <h6 class="post-note">{{ page.note }}</h6>
     {%- endif -%}
+
   </div>
 
   {%- if site.disqus.shortname -%}
