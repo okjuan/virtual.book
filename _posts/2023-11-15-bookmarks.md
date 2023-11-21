@@ -8,7 +8,7 @@ tags: notes books career blogging writing
 This page is inspired by Viktor Lofgren's [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/) and Tom Critchlow's [list of digital bookshelves](https://tomcritchlow.com/wiki/books/bookshelves/).
 <!--more-->
 
-Websites I recommend:
+Websites I'm most interested in:
 
 - [okjuan.me/vbook](https://okjuan.me/vbook) ;-)
 - [daniel.industries/blog](https://www.daniel.industries/blog/)
@@ -24,8 +24,9 @@ Websites I recommend:
 - [oliverburkeman.com/posts](https://www.oliverburkeman.com/posts)
 - [hackernews.com](https://hackernews.com/)
 - [lobste.rs](https://lobste.rs/)
+- [meltingasphalt.com](https://meltingasphalt.com/)
 
-Websites that organize their work as an interconnected network:
+A particular type of website that I'm interested in: those that organize their content as an interconnected network:
 - [andymatuschak.org](https://andymatuschak.org/)
 - [mentalnodes.com](https://www.mentalnodes.com/)
 - [tomcritchlow.com](https://tomcritchlow.com/)
