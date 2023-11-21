@@ -10,14 +10,13 @@ This page is inspired by Viktor Lofgren's [The Small Website Discoverability Cri
 
 Websites I recommend:
 
-- [okjuan.me](https://okjuan.me/) ;-)
-- [mentalnodes.com](https://www.mentalnodes.com/)
+- [okjuan.me/vbook](https://okjuan.me/vbook) ;-)
+- [daniel.industries/blog](https://www.daniel.industries/blog/)
+- [jaredigital.com](https://www.jaredigital.com/archive)
 - [joelonsoftware.com](https://www.joelonsoftware.com/)
 - [I.M. Wright](https://imwrightshardcode.com/)
 - [sive.rs](https://sive.rs/)
-- [tomcritchlow.com](https://tomcritchlow.com/)
 - [macwright.com](https://macwright.com/)
-- [andymatuschak.org](https://andymatuschak.org/)
 - [pudding.cool](https://pudding.cool)
 - [blog.codinghorror.com](https://blog.codinghorror.com)
 - [paulgraham.com/articles](http://www.paulgraham.com/articles.html)
@@ -25,6 +24,14 @@ Websites I recommend:
 - [oliverburkeman.com/posts](https://www.oliverburkeman.com/posts)
 - [hackernews.com](https://hackernews.com/)
 - [lobste.rs](https://lobste.rs/)
+
+Websites that organize their work as an interconnected network:
+- [andymatuschak.org](https://andymatuschak.org/)
+- [mentalnodes.com](https://www.mentalnodes.com/)
+- [tomcritchlow.com](https://tomcritchlow.com/)
+- [raghu.cc](https://raghu.cc/)
+- [garden.rahulrajeev.net](https://garden.rahulrajeev.net/starts-here)
+- also see: [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 
 ---
 
