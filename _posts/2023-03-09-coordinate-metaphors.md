@@ -8,7 +8,7 @@ tags: essays imagery cohesiveness writing
 
 It's important to keep your metaphors from bumping into one another.
 <!--more-->
-Take this passage from Oliver Burkeman's book [Four Thousand Weeks: Time Management for Mortals](https://www.goodreads.com/book/show/54785515-four-thousand-weeks):
+Take this passage from Oliver Burkeman's book [Four Thousand Weeks: Time Management for Mortals]({{site.baseurl}}{% post_url /2023-03-17-four-thousand-weeks %}):
 > ...most of us were raised [to] prioritize future benefits over current enjoyments. But ultimately it backfires. It **wrenches** us out of the present, leading to a life spent **leaning** into the future, worrying about whether things will work out...
 
 If we are **wrenched** out of the present, how are we only **leaning** into the future?
@@ -28,4 +28,4 @@ We can't use **leads** because that would clash with **leading** in the second p
 To pick a solution, test it against the problem.
 You know you've found a solution when the two images flow into each other or click into place like neighboring puzzle pieces.
 
-If you enjoy analyzing sentences closely like this, check out the last section of [Several Short Sentences About Writing](https://www.goodreads.com/en/book/show/13155290), where Klinkenborg considers "Some Practical Problems" with sentences written by his students.
+If you enjoy analyzing sentences closely like this, check out the last section of [Several Short Sentences About Writing]({{site.baseurl}}{% post_url /2023-02-25-several-short-sentences %}), where Klinkenborg considers "Some Practical Problems" with sentences written by his students.

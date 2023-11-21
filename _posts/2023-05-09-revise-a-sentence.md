@@ -26,4 +26,4 @@ Is that better?
 Or is there is still something off?
 If you're not sure, leave it for now and read through the draft later.
 
-In the words of writer [Verlyn Klinkenborg](https://www.goodreads.com/en/book/show/13155290): _Read until your ear detects a problem - a subtle disturbance. Stop there._
+In the words of writer [Verlyn Klinkenborg]({{site.baseurl}}{% post_url /2023-02-25-several-short-sentences %}): _Read until your ear detects a problem - a subtle disturbance. Stop there._
