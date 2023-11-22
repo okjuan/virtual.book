@@ -38,6 +38,10 @@ A particular type of website that I'm interested in: those that organize their c
 
 Websites that, over the last year or two, I've come across and liked enough to save for looking at later.
 
+### tech people interested in literature
+- [okjuan.me/vbook](https://okjuan.me/vbook) ;-)
+- [substack.com/@simonsarris](https://substack.com/@simonsarris)
+
 ### tech, life, & career
 - [ln.hixie.ch](https://ln.hixie.ch/)
 - [tommi.space](https://tommi.space/home/)
