@@ -39,6 +39,7 @@ A particular type of website that I'm interested in: those that organize their c
 Websites that, over the last year or two, I've come across and liked enough to save for looking at later.
 
 ### tech, life, & career
+- [ln.hixie.ch](https://ln.hixie.ch/)
 - [tommi.space](https://tommi.space/home/)
 - [benjamincongdon.me](https://benjamincongdon.me/blog)
 - [schier.co](https://schier.co/blog)
