@@ -35,3 +35,5 @@ The reader leaves not with memorizable facts, but a secondhand experience:
 > I was standing in the midst of about a hundred vigilantes…as I looked around I saw that many carried wooden clubs and others had hunting knives on their belts.
 > They didn’t seem mean, but they were obviously keyed up and ready to bust some heads…under these circumstances the only neutrals were the tourists, who were easily identifiable.
 > On my way out of town I wondered if anybody in Bass Lake might take one of my aspen-leaf checks for a fluorescent Hawaiian beach suit and some stylish sandals.
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/ccyu44rsaZo?si=GrmEsJii0uc98ZuL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
