@@ -2,7 +2,7 @@
 layout: post
 title: bookmarks
 permalink: /bookmarks
-tags: notes books career blogging writing
+tags: notes career blogging writing
 ---
 
 This page is inspired by Viktor Lofgren's [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/) and Tom Critchlow's [list of digital bookshelves](https://tomcritchlow.com/wiki/books/bookshelves/).
