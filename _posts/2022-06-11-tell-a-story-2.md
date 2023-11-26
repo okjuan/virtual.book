@@ -35,6 +35,6 @@ Pieces like _The New Yorker_’s [recent one](https://www.newyorker.com/magazine
 Why work so hard? Is this the writer’s job or the reader’s? The piece leaves a faint impression compared to _Affairs of the Art_, a short film available on _The New Yorker_’s YouTube channel: a shiver-inducing yet hilarious piece that combines writing, narration, drawings, sound effects, and music.
 
 This is [not]({{site.baseurl}}{% post_url /2023-03-09-justify-writing %}) to say we abandon writing.
-But can we compensate for its weaknesses by exploring other formats?
+But can we compensate for its weaknesses by [exploring other formats]({{site.baseurl}}{% post_url /2022-06-11-show-instead-of-telling %})?
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/bAX9_rDvO_c?si=-KdSp76aXrly-Kc-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
