@@ -23,7 +23,7 @@ In the introduction to his new book, [Our America](https://www.penguinrandomhous
 > Are the troops tramping, the cannons firing, the leaves rustling? Is the bat cracking, the crowd cheering?…it has been my essential responsibility in every film I’ve made to try to animate that moment, to bring it alive.
 
 Like Burns, YouTube video essayists offer us raw material instead of flattening it into words.
-Thomas Flight’s __Why Are David Lynch Movies Like That?__ is dense with samples of Lynch’s works, and much better for it.
+Thomas Flight’s _Why Are David Lynch Movies Like That?_ is dense with samples of Lynch’s works, and much better for it.
 His description of Lynch’s worst work as “still [radiating] a unique quality” would be abstract, unclear, if it weren’t spoken over clips from Dune.
 Dubbing audio over video is so common on YouTube that it’s easy to overlook how well it works.
 Imagine [What Song Are You Listening To?](https://youtu.be/tvHRUY0tBcs) videos without the song snippets: suddenly it would be as awkward to watch as it probably was to record.
@@ -31,8 +31,8 @@ Imagine [What Song Are You Listening To?](https://youtu.be/tvHRUY0tBcs) videos w
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/v0T2aE7QQSs?si=WIz2ov9r8JU1EVAZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Like authors, journalists and essayists insist on writing things the reader needs to see or hear.
-Pieces like __The New Yorker__’s [recent one](https://www.newyorker.com/magazine/2022/02/28/florine-stettheimer-artist-book-review-barbara-bloemink) on painter Florine Stettheimer lack samples of the visual art they talk about, leaving the reader to collect descriptions of the painter’s style — “feathery, ornamental…faux-naïf, fluorescent” — and try to hold them, as they spill out of mind like water out of cupped hands, until they can look up her paintings.
-Why work so hard? Is this the writer’s job or the reader’s? The piece leaves a faint impression compared to __Affairs of the Art__, a short film available on __The New Yorker__’s YouTube channel: a shiver-inducing yet hilarious piece that combines writing, narration, drawings, sound effects, and music.
+Pieces like _The New Yorker_’s [recent one](https://www.newyorker.com/magazine/2022/02/28/florine-stettheimer-artist-book-review-barbara-bloemink) on painter Florine Stettheimer lack samples of the visual art they talk about, leaving the reader to collect descriptions of the painter’s style — “feathery, ornamental…faux-naïf, fluorescent” — and try to hold them, as they spill out of mind like water out of cupped hands, until they can look up her paintings.
+Why work so hard? Is this the writer’s job or the reader’s? The piece leaves a faint impression compared to _Affairs of the Art_, a short film available on _The New Yorker_’s YouTube channel: a shiver-inducing yet hilarious piece that combines writing, narration, drawings, sound effects, and music.
 
 This is [not]({{site.baseurl}}{% post_url /2023-03-09-justify-writing %}) to say we abandon writing.
 But can we compensate for its weaknesses by exploring other formats?
