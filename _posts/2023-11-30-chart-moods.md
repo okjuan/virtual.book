@@ -20,7 +20,7 @@ It is similar to _productive_ vs _absorptive_, but it's possible to be absorptiv
 
 ---
 
-After determining that you're in an absoptive-passive mood, you can figure out whether you want to do your passive absorbing alone or with other people.
+After determining that you want to watch a movie -- a fine choice when one is feeling absorptive-passive -- you can figure out whether you want to do your passive absorbing alone or with other people.
 
 &#8592; individual &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; social &#8594;
 
