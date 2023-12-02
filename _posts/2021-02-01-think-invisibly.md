@@ -74,17 +74,15 @@ Like Poincaré and Pilkington, McCarthy has talked about the mysterious experien
 > Or I knew that I knew the answer.
 > It took me a minute or so to put it together.
 
-McCarthy often talks about the Night Shift, the period when we sleep and the invisible thinker works.
-Once again, Karl Pilkington agrees.
-From his book The Moaning of Life:
+McCarthy often talks about the Night Shift, the period when we sleep and the invisible thinker takes over.
+Pilkington agrees -- from his book The Moaning of Life:
 
 > I think I’m more intelligent in my dreams than I am when I’m awake… A few months ago I went to bed with a problem, fell asleep thinking about it and when I woke up I had a solution.
 
 The invisible thinker rules this hidden world where our creativity lives.
-Though it fulfills our requests for mundane details, it’s more than a database or a computer program.
 It collaborates with us to devise and improvise, and it even thinks for itself.
-It roams freely when relieved from its duty, eager to satisfy its own curiosity.
-Deepening our understanding with our internal agent heightens our creative potential.
+When relieved from its duty as our advisor, it roams freely, eager to satisfy its own curiosity.
+We heighten our creative potential when we deepen understanding with our internal agent.
 Especially if we don’t just ask but also listen.
 
 > Behind your thoughts and feelings, my brother, there stands a mighty ruler, an unknown sage — whose name is self. In your body he dwells; he is your body. There is more reason in your body than in your best wisdom.
