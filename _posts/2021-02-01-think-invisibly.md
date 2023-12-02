@@ -86,3 +86,7 @@ It collaborates with us to devise and improvise, and it even thinks for itself.
 It roams freely when relieved from its duty, eager to satisfy its own curiosity.
 Deepening our understanding with our internal agent heightens our creative potential.
 Especially if we don’t just ask but also listen.
+
+> Behind your thoughts and feelings, my brother, there stands a mighty ruler, an unknown sage — whose name is self. In your body he dwells; he is your body. There is more reason in your body than in your best wisdom.
+>
+> Friedrich Nietzsche, _Thus Spake Zarathustra_ (Kauffman translation, 1954, p.146)
