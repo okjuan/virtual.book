@@ -24,12 +24,10 @@ Or in the words of [Cormac McCarthy](https://www.santafe.edu/news-center/news/co
 
 > Writing is like taking dictation.
 
-On this topic, Karl Pilkington echoes both McCarthy...
+On this topic, Karl Pilkington echoes both McCarthy and King:
 
 > If you just talk, I find that your mouth...comes out with stuff.
-
-And King:
-
+>
 > If you sit there and try and use your brain to do it, it doesn't work the same. Just -- just keep talking, just keep your -- keep your -- keep your mouth talking...and eventually, it will come out with something pretty good.
 
 If what these accomplished men say is true and we don't come up with our own ideas... [who does?]({{site.baseurl}}{% post_url /2021-02-01-think-invisibly %})
