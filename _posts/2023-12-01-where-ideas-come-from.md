@@ -13,7 +13,7 @@ Don't come up with the plot of your story, says Stephen King.
 The plot isn't yours to invent.
 It's yours to discover:
 
-> My basic belief about the making of stories is that they pretty much make themselves. The job of the writer is to give them a place to grow, and to transcribe them of course...I believe stories are found things, like fossils in the ground...Stories are relics, part of an undiscovered, pre-existing world. The writer's job is to use the tools...to get as much of each one out of the ground intact as possible.
+> My basic belief about the making of stories is that they pretty much make themselves. The job of the writer is to give them a place to grow, and to transcribe them of course...I believe stories are found things, like fossils in the ground...Stories are relics, part of an undiscovered, pre-existing world. The writer's job is to use [their] tools...to get as much of each one out of the ground intact as possible.
 
 Other prolific writers agree.
 David Lynch fishes his ideas out of the depths of his subconscious:
