@@ -61,10 +61,14 @@ From [Dageraad's website](https://dageraadbrewing.com/beers/new-slang-5/):
 > 
 > For New Slang 5, we really wanted to dial in the thiols. By mash-hopping one batch, we allowed the thiolizing yeast to express more of the potent fruit notes before blending with a dry-hopped batch to add back in classic IPA hop character using Rakau, Vic Secret and Laurel hops. The result is a smooth, lightly juicy IPA with a fruit and floral nose backed by lush notes of melon and passionfruit and a mellow resin character.
 
-### Cold Crash IPA, Victoria, BC
+### Cold Crash Cold IPA, Victoria, BC
 
 From [Category 12's website](https://www.category12beer.com/beer/cold-crash/):
 
 > Cold Crash is an incredibly smooth and satisfying marriage of tropical fruit notes and light, bright malt. A cold fermentation provides a crisp lager-like finish, allowing us to showcase the aromas of Cryopop and Citra hops to shine through.
 
 I really like Category 12 beers, and this one's my favorite so far.
+
+It turns out 'Cold IPA' is a particular type of IPA.
+According to [Firestone Walker Brewing Company](https://www.firestonebeer.com/what-are-cold-ipas):
+> A Cold IPA is an IPA that is brewed with lager yeasts at colder temperatures, creating a crisp, drinkable yet generously hopped India Pale Ale
