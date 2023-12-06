@@ -14,4 +14,4 @@ In his book _On Writing_, Stephen King recounts how he broke through the writer'
 
 Fellow American novelist Cormac McCarthy and many other creatives tell [similar anecdotes]({{site.baseurl}}{% post_url /2021-02-01-think-invisibly %}) of receiving a solution to a conundrum from an invisible source inside their mind.
 Consistently, the conundrum was something the person had been mulling over in their conscious mind before their subsconscious found the solution.
-Tech entrepreneur Paul Graham talks about the importance of keeping the conundrum at [the top of your mind](http://www.paulgraham.com/top.html).
+Tech entrepreneur Paul Graham talks about the importance of keeping the right conundrum at [the top of your mind](http://www.paulgraham.com/top.html).
