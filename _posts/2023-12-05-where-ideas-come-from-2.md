@@ -8,6 +8,6 @@ tags: notes writing subconscious creativity
 > There was this little voice whispering to me that the book was really good, and if I didn't finish, I would regret it forever.
 <!--more-->
 
-Also in his book _On Writing_, Stephen King recounts how he broke through writer's block he encountered 500 pages into his new book _The Stand_:
+In his book _On Writing_, Stephen King recounts how he broke through the writer's block he encountered 500 pages into writing his book _The Stand_:
 
 > I started taking long walks...looking at the same old trees and the same old chattering ill-natured jays and squirrels. Boredom can be a very good thing for someone in a creative jam. I spent those walks being bored and thinking about my gigantic boondoggle of a manuscript. For weeks, I got exactly nowhere in my thinking. It all just seemed too hard, too fucking complex. I had run out too many plot lines and they were in danger of becoming snarled... I circled the problem again and again, beat my fists on it, knocked my head against it. And then, one day when I was thinking of  nothing much at all, the answer came to me. It arrived whole and complete, gift-wrapped, you could say, in a single bright flash. I ran home and jotted it down on paper...I was terrified of forgetting.
