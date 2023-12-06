@@ -60,3 +60,11 @@ From [Dageraad's website](https://dageraadbrewing.com/beers/new-slang-5/):
 > A new language of yeast-driven IPA is emerging and Dageraad wants to add to the vocabulary. These IPAs are driven by new strains of yeast that can transform odorless compounds in hops and grain into vividly fruity thiols, changing understated old world hops into fruit bombs.
 > 
 > For New Slang 5, we really wanted to dial in the thiols. By mash-hopping one batch, we allowed the thiolizing yeast to express more of the potent fruit notes before blending with a dry-hopped batch to add back in classic IPA hop character using Rakau, Vic Secret and Laurel hops. The result is a smooth, lightly juicy IPA with a fruit and floral nose backed by lush notes of melon and passionfruit and a mellow resin character.
+
+### Cold Crash IPA, Victoria, BC
+
+From [Category 12's website](https://www.category12beer.com/beer/cold-crash/):
+
+> Cold Crash is an incredibly smooth and satisfying marriage of tropical fruit notes and light, bright malt. A cold fermentation provides a crisp lager-like finish, allowing us to showcase the aromas of Cryopop and Citra hops to shine through.
+
+I really like Category 12 beers, and this one's my favorite so far.
