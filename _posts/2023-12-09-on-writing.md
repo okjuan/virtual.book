@@ -11,6 +11,8 @@ Half memoir, half advice for aspiring fiction writers.
 Both good.
 <!--more-->
 
+I enjoy and mostly trust his [writing advice]({{site.baseurl}}{% post_url /2023-12-09-king-writing-advice %}).
+
 ### for god's sake, make it virtual!
 
 This is yet [another]({{site.baseurl}}{% post_url /2021-08-06-possibilities %}) book that should be made [virtual]({{site.baseurl}}{% post_url /2023-08-11-virtual-book %}).
