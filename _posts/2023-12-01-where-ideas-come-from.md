@@ -5,7 +5,7 @@ permalink: /where-ideas-come-from
 tags: notes writing subconscious creativity
 ---
 
-Don't come up with the plot of your story, says Stephen King.
+Don't come up with the plot of your story, [says Stephen King]({{site.baseurl}}{% post_url /2023-12-09-on-writing %}).
 <!--more-->
 
 > Plotting and the spontaneity of real creation aren't compatible.
