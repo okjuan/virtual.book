@@ -13,8 +13,6 @@ Both good.
 
 I enjoy and mostly trust his [writing advice]({{site.baseurl}}{% post_url /2023-12-09-king-writing-advice %}).
 
-### for god's sake, make it virtual!
-
 This is yet [another]({{site.baseurl}}{% post_url /2021-08-06-possibilities %}) book that should be made [virtual]({{site.baseurl}}{% post_url /2023-08-11-virtual-book %}).
 
 It consists of three distinct parts: a memoir of King's life; advice for fiction writers; and a vignette about King's near-death experience.
