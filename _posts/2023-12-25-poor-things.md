@@ -23,4 +23,4 @@ We didn't need to be told, we could already sense it from his character and the 
 For me, the story-telling spell breaks momentarily when I feel like the writers are trying to tell me something.
 It reminds me that I'm watching a fiction designed by storytellers.
 But I'm a bit picky about this.
-I had a similar problem with the writing in [Barbarian]{{site.baseurl}}{% post_url /2022-08-06-barbarian %}).
+I had a similar problem with the writing in [Barbarian]({{site.baseurl}}{% post_url /2022-08-06-barbarian %}).
