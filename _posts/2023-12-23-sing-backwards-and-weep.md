@@ -10,10 +10,10 @@ My second attempt to review a book while I read it instead of waiting until I fi
 <!--more-->
 
 This book's average Goodreads rating is 4.33, which is high.
-But 40 ratings -- less than 1% of the total -- gave it only one star out of five.
+But 40 ratings (which amount to less than 1% of the total) gave it only one star out of five.
 Many of these folks complain that Lanegan portrays himself as an ultimate macho man, beating betas on his way to seducing any woman he pleases.
 To me this seems like a crude interpretation of Lanegan's tone.
-I suppose these readers didn't stick around until chapter seven, when Lanegan gets explicit about his patheticness:
+I suppose these readers didn't stick around until the end of chapter seven, where Lanegan gets explicit about his patheticness:
 
 > My only way to deal with what I deemed an attack (and I might deem anything an attack in those days) was to attack more aggressively in return. The level of hostility in my offensive depended on my level of fear. Fear of being caught, fear of having to tell the truth, fear of being exposed as the lying, cheating fraud I was. But it was the fear of showing my true heart, at times either so full it might burst or so empty I could cry, that hounded me most viciously.
 >
