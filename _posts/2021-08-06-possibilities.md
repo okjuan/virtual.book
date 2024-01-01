@@ -14,6 +14,6 @@ It's not a beautifully written memoir like Patti Smith's _Just Kids_ or Tara Wes
 It's fascinating to see how Herbie's collaborations pushed his career forward and how he [reinvented himself]({{site.baseurl}}{% post_url /2022-06-11-reinvent-yourself %}) over and over, always curious about whether something could be done.
 Herbie shows how openness, curiosity, and determination can keep your work interesting for a long, long time.
 
-My main complaint is about [the format]({{site.baseurl}}{% post_url /2023-08-11-virtual-book %}).
+My main complaint is about [the format]({{site.baseurl}}{% post_url /2022-06-11-tell-a-story-2 %}).
 Herbie's music was nowhere to be found, not even in the audiobook.
-And his descriptions are a [poor alternative]({{site.baseurl}}{% post_url /2022-06-11-tell-a-story-2 %}).
+And his descriptions are a poor alternative.
