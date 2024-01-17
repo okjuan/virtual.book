@@ -6,24 +6,24 @@ permalink: /stella-maris
 tags: reviews books fiction literature
 ---
 
-I'm 65% into this book and so far it has consisted only of dialogue between two people, psychiatrist and voluntarily institutionalized patient.
-Nothing else.
+I'm 120 pages into this book and so far it has consisted purely of dialogue between a psychiatrist and a patient who has voluntarily checked herself in.
 <!--more-->
-Dialogue between these two I expect will fill the rest of the book as well.
-It's an exciting endeavor to witness Cormac take on.
+Dialogue between these two I expect will fill the rest of the book.
+It's an exciting endeavor to witness Cormac attempt.
 
-McCarthy published this book alongside _The Passenger_ in 2022 as a "companion novel" alternatively known as _The Passenger #2_.
-I chose to try this one first though because among its topics are math and philosophy.
-This one is set chronologically after _The Passenger_ but reading the two in order does not seem imperative,
-this impression assembled from the fragments of scantily skimmed book summaries.
-(Aside: movie trailers are even worse.
+He published this book alongside _The Passenger_ in 2022 as a "companion novel" known also as _The Passenger #2_.
+I tried this one first though because among its topics are math and philosophy.
+It is set chronologically after _The Passenger_, but my impression, assembled from fragments of scantily skimmed book summaries, is that reading them in either order is fine.
+
+(Even more than novel summaries I avoid movie trailers.
 They reveal far too much.
-I'd much prefer a trailer that was a short sample of the movie instead of a crude story summary undermining its telling.)
+I'd be happy to watch them if instead of crudely summarizing the story and undermining its telling they showed a short sample of the movie.
+A scene at most and no more.)
 
-This book is clearly a product of and perhaps a tribute to the years Cormac spent at the Santa Fe Institute (SFI) discussing consciousness, mathematics, physics, language, and philosophy with scientists and researchers.
-Much of what the protagonist says -- about the unconscious, Wittgenstein, Heidegger, mathematics  -- Cormac himself says in conversation with SFI's David Krakauer in [this interview](https://youtu.be/HrUy1Vn2KdI?si=awtdDfdZqwE7qzfS) from 2017, which serves as good companion material to the companion novel.
+This book is clearly a product of the years Cormac spent at the Santa Fe Institute (SFI) in conversation with scientists and researchers discussing consciousness, mathematics, physics, language, and philosophy.
+Much of what the protagonist Alicia says -- about the unconscious, Wittgenstein, Heidegger, mathematics  -- Cormac himself says in conversation with SFI's President David Krakauer in [this interview](https://youtu.be/HrUy1Vn2KdI?si=awtdDfdZqwE7qzfS) from 2017.
+The interview is good companion material to the companion novel.
 
-After I finish this book I intend to read -- in addition to _The Passenger_ -- [A Dialogue on Personal Identity and Immortality](https://www.goodreads.com/book/show/782783.A_Dialogue_on_Personal_Identity_and_Immortality), in which a philosopher lying on his deathbed argues against the likelihood of an afterlife.
-It is similar to _Stella Maris_ not only in form and subject matter but also in situation: death looms over the protagonist.
-
-I also intend to watch Nolan's _Oppenheimer_.
+This book reminds me of another, which I intend to return to when I finish this one: [A Dialogue on Personal Identity and Immortality](https://www.goodreads.com/book/show/782783.A_Dialogue_on_Personal_Identity_and_Immortality), in which a philosopher lying on his deathbed argues with his friends against the likelihood of an afterlife.
+In _Stella Maris_ death also looms -- not just over the protagonist but also its author.
+Cormac died six months after this final publication.
