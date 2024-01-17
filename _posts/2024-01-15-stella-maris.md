@@ -3,7 +3,7 @@ layout: post
 title: 'Stella Maris (2022)'
 subsubtitle: by Cormac McCarthy
 permalink: /stella-maris
-tags: reviews books fiction literature
+tags: reviews books fiction literature philosophy mathematics science subconscious mortality
 ---
 
 I'm 120 pages into this book and so far it has consisted purely of dialogue between a psychiatrist and a patient who has voluntarily checked herself in.
