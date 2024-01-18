@@ -26,7 +26,7 @@ module Jekyll
         # ---
         # 1. '&' is the safe navigation operator, which is like the '?.' operator in JS
         # 2. '?' is a convention for methods that return a boolean; it doesn't actually do anything
-        if post&.content&.include?(post_file_name) || post&.content&.include?(target_post.url)
+        if post&.content&.include?(post_file_name) || post&.content&.include?("#{site.baseurl}#{target_post.url}")
           if post&.url != target_post.url
             # Ruby notes
             # ---
