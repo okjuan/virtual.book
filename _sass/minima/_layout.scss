@@ -1,7 +1,14 @@
 body {
-  font-family: 'EB Garamond', serif;
-  font-size: 16px;
-  letter-spacing: 0.75px;
+  font-family: 'Merriweather', serif;
+}
+
+strong {
+  font-weight: 900;
+}
+
+em, i {
+  font-family: 'Merriweather', serif;
+  font-style: oblique;
 }
 
 /**
