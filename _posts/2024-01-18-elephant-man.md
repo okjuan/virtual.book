@@ -2,7 +2,7 @@
 layout: post
 title: 'The Elephant Man (1980)'
 permalink: /elephant-man
-tags: reviews movies
+tags: reviews movies trauma abuse disease
 ---
 
 John Hurt's performance resonated with me like wine lingers in your gut.
