@@ -12,7 +12,7 @@ The prosthetics are impressive, but it is Hurt's acting that brings them to life
 
 The movie has its flaws.
 It moves slowly and rather sloppily ends the story of the devious night porter.
-Apart from the last one, the sequences with the porter are brilliantly written.
+Apart from the last one, however, the sequences with the porter are brilliantly written.
 For much of the movie, he is an anonymous, unpredictable figure that pays cruel visits to the Elephant Man at night.
 No hospital staff is ever there to witness it and the Elephant Man never says a word about it.
 Is he is a projection of the Elephant Man's terror?
