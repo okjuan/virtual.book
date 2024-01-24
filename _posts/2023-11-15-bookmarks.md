@@ -54,6 +54,7 @@ A particular type of website that I'm interested in are those that organize thei
 - [joelonsoftware.com](https://www.joelonsoftware.com/)
 
 ### tech, life, & career
+- [marginalia.nu](https://www.marginalia.nu/)
 - [macwright.com](https://macwright.com/)
 - [hintjens.com](http://hintjens.com/)
 - [sive.rs](https://sive.rs/)
