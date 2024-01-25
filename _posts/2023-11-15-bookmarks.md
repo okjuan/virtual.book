@@ -9,7 +9,8 @@ This page is inspired by Viktor Lofgren's [The Small Website Discoverability Cri
 <!--more-->
 
 ### zettelkasten websites / digital gardens
-A particular type of website that I'm interested in are those that organize their content as an interconnected network:
+I'm particularly interested in websites that organize their content as an interconnected network:
+- [okjuan.me/vbook](https://okjuan.me/vbook) ;-)
 - [andymatuschak.org](https://andymatuschak.org/)
 - [mentalnodes.com](https://www.mentalnodes.com/)
 - [tomcritchlow.com](https://tomcritchlow.com/)
