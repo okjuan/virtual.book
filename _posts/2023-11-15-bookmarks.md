@@ -48,6 +48,7 @@ I'm particularly interested in websites that organize their content as an interc
 - [robinsloan.com](https://www.robinsloan.com/)
 - [substack.com/@simonsarris](https://substack.com/@simonsarris)
 - [meltingasphalt.com](https://meltingasphalt.com/)
+- [julian.digital](https://julian.digital/)
 
 ### tech
 - [hackernews.com](https://hackernews.com/)
