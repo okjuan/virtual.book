@@ -6,7 +6,6 @@ tags: journal places people resorts
 ---
 
 It was the coldest weekend of winter so naturally we went swimming.
-Outdoors.
 <!--more-->
 Hunched against the cold in our hotel bathrobes we crunched over the snow between pools in our slippers, looking for the hottest one.
 Of course, it turned out to be the one everyone was crowded into.
