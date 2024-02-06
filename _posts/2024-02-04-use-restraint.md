@@ -29,9 +29,15 @@ In it you can hear only our voices and the sound of the beach.
 </div>
 
 I stripped the audio from the video and kept that instead, reducing its size 100 times.
-Inspired, I tried the same for a video I took of dogs playing at Volunteer Park in Seattle.
-The video was not particularly interesting, but the audio captured a playful conversation between Z and I as we looked on.
-I repeated the process and the result was not only much cheaper to store but also more evocative.
+Inspired, I tried the same for a video I took that same trip of a live band at River Cafe, where we had dinner.
+The result was not only much cheaper to store but also more evocative.
+
+<div class="audio-container">
+    <audio controls>
+    <source src="assets/riverCafe.puertoVallarta.xmas2021.m4a" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+</div>
 
 Audio is not just a good alternative to video when storage is scarce, it is, sometimes, a superior medium.
 Sure, we've all heard it, Less is More -- but how so?
