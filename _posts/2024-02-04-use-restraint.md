@@ -11,9 +11,10 @@ It's a collection of audio recordings that don't have much to do with each other
 They're strangely engaging.
 Although I haven't listened to the show in a while, I cherish it as a testament to the power of pure audio as a medium.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5VRm0WCkq5jyZKAJwQ2Ak7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6DMi5pfmhczWFjimkBDHsW?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div id="use-restraint-iframes">
+    <iframe src="https://open.spotify.com/embed/episode/5VRm0WCkq5jyZKAJwQ2Ak7?utm_source=generator&theme=0" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <iframe src="https://open.spotify.com/embed/episode/6DMi5pfmhczWFjimkBDHsW?utm_source=generator" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
 
 Recently during my routine cleaning of Google storage forced by their 15GB max and my determination to stay in the free tier, I came across a video that was all black.
 It was 1 minute and 34 seconds long and had retained its place in my Google Photos purely due to its audio.

@@ -16,6 +16,19 @@ em, i {
   padding: 20px 0;
 }
 
+#use-restraint-iframes {
+  display: flex;
+  justify-content: space-between;
+}
+
+#use-restraint-iframes iframe {
+  border-radius: 12px;
+  padding: 10px 10px 10px 0;
+  width: 50%;
+  height: 85px;
+  border: none;
+}
+
 /**
  * Site header
  */
