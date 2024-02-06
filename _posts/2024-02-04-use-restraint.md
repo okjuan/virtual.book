@@ -16,20 +16,10 @@ It was 1 minute and 34 seconds long and had retained its place in my Google Phot
 I had recorded it purposefully with my phone in my pocket during a recent Christmas trip I took with my mom and younger sister to Puerto Vallarta.
 In it you can hear only our voices and the sound of the beach.
 
-My mom speaking in Spanish:
-> If I yell shoes, run.
-
-You can hear the amusement in her voice.
-My sister replies from a distance:
-> What?
->
-> If I yell shoes, run.
-
-For a second nothing but the ocean and then:
-> Shoes!
-
-Then my mom giggling and my phone moving in my pocket while I hurry for my shoes.
-For another minute the recording continues with the sound of waves and my mom's cheerful chatter.
+<audio controls>
+  <source src="assets/momRecording.puertoVallarta.xmas2021.m4a" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 I stripped the audio from the video and kept that instead, reducing its size 100 times.
 Inspired, I tried the same for a video I took of dogs playing at Volunteer Park in Seattle.
