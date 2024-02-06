@@ -5,9 +5,8 @@ permalink: /hot-springs
 tags: journal places people resorts
 ---
 
-It was the coldest weekend of winter so naturally we went swimming.
+Hunched against the cold in our hotel bathrobes and slippers we crunched over the snow between the pools, looking for the hottest one.
 <!--more-->
-Hunched against the cold in our hotel bathrobes we crunched over the snow between pools in our slippers, looking for the hottest one.
 Of course, it turned out to be the one everyone was crowded into.
 For a few hours we crouched in the hot water avoiding eye contact with the multitude around us -- a family reunion, couples on anniversary weekend getaways -- trying to convince Z's mom and stepdad that renting was a [better option than buying](https://macwright.com/2023/12/21/homeownership) in their current circumstances.
 
