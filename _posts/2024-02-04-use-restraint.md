@@ -8,8 +8,8 @@ tags: essays writing mediums audio psychology hemingway
 Even though Spotify categorizes it as a podcast, [_Random Tape_](https://open.spotify.com/show/6YZiV6je3CH8KWk1TcO8tL?si=306eaafdfacf4135) is something else.
 <!--more-->
 It's a collection of audio recordings that don't have much to do with each other apart from having fallen into the hands of David Weinberg.
-They're strangely engaging, a testament to the power of pure audio as a medium.
-I haven't listened to the podcast in a while, but haven't forgotten its lesson.
+They're strangely engaging.
+Although I haven't listened to the show in a while, I cherish it as a testament to the power of pure audio as a medium.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5VRm0WCkq5jyZKAJwQ2Ak7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
