@@ -9,7 +9,7 @@ Even though Spotify categorizes it as a podcast, [_Random Tape_](https://open.sp
 <!--more-->
 It's a collection of audio recordings that don't have much to do with each other apart from having fallen into the hands of David Weinberg.
 They're strangely engaging.
-Although I haven't listened to the show in a while, I cherish it as a testament to the power of pure audio as a medium.
+I haven't listened to the show in a while but I cherish it as a testament to the power of pure audio as a medium.
 
 <div id="use-restraint-iframes">
     <iframe src="https://open.spotify.com/embed/episode/5VRm0WCkq5jyZKAJwQ2Ak7?utm_source=generator&theme=0" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
