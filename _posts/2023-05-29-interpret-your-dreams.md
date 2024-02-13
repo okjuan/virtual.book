@@ -36,7 +36,7 @@ He offers a clever answer: the brain is old, but language is new.
 And, just like we prefer to communicate in our native tongue, our brain prefers to express itself through imagery.
 
 But this idea, stirring as it is, might be no more accurate than Freud's.
-In his book [Livewired]({{site.baseurl}}{% post_url /2023-07-28-livewired %}), neuroscientist David Eagleman proposes a theory of dreams that suggests a rather different answer to the Kekulé Problem.
+In his book {% post_url_with_hover_card Livewired | 2023-07-28-livewired %}, neuroscientist David Eagleman proposes a theory of dreams that suggests a rather different answer to the Kekulé Problem.
 He proposes that the brain activity responsible for dreams, which targets the parts of the brain typically used for vision, exists to maintain our sense of sight.
 Without this scheduled strengthening exercise, it could be overtaken by other, neuron-hungry brain processes that don't depend on light of day to stay active.
 If this is true, then the answer to the Kekulé Problem is less mysterious.

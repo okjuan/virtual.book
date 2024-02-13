@@ -5,7 +5,7 @@ permalink: /writing-how-to-work-2
 tags: journal writing
 ---
 
-Notes about style and process of writing [how to work #2]({{site.baseurl}}{% post_url /2023-01-22-work-2 %}).
+Notes about style and process of writing {% post_url_with_hover_card how to work #2 | 2023-01-22-work-2 %}.
 <!--more-->
 
 I started this piece months ago, alongside others that I still have not published.

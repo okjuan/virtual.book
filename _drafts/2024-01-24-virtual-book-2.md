@@ -31,10 +31,10 @@ can be [brought to life]()
 
 
 
-### [The Story]({{site.baseurl}}{% post_url /2022-06-11-reinvent-yourself %}).
+### {% post_url_with_hover_card The Story | 2022-06-11-reinvent-yourself %}.
 
-### [The Medium]({{site.baseurl}}{% post_url /2022-06-11-tell-a-story-2 %}).
+### {% post_url_with_hover_card The Medium | 2022-06-11-tell-a-story-2 %}.
 
-### [Literary Devices]({{site.baseurl}}{% post_url /2022-06-11-tell-a-story %}).
+### {% post_url_with_hover_card Literary Devices | 2022-06-11-tell-a-story %}.
 
-### [New Devices]({{site.baseurl}}{% post_url /2022-06-11-show-instead-of-telling %}).
+### {% post_url_with_hover_card New Devices | 2022-06-11-show-instead-of-telling %}.

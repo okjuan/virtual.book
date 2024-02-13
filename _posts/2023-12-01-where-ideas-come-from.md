@@ -5,7 +5,7 @@ permalink: /where-ideas-come-from
 tags: notes writing subconscious creativity
 ---
 
-Don't come up with the plot of your story, [says Stephen King]({{site.baseurl}}{% post_url /2023-12-09-on-writing %}).
+Don't come up with the plot of your story, {% post_url_with_hover_card says Stephen King | 2023-12-09-on-writing %}.
 <!--more-->
 
 > Plotting and the spontaneity of real creation aren't compatible.
@@ -30,4 +30,4 @@ On this topic, Karl Pilkington echoes both McCarthy and King:
 >
 > If you sit there and try and use your brain to do it, it doesn't work the same. Just -- just keep talking, just keep your -- keep your -- keep your mouth talking...and eventually, it will come out with something pretty good.
 
-If what these accomplished men say is true and we don't come up with our own ideas... [who does?]({{site.baseurl}}{% post_url /2021-02-01-think-invisibly %})
+If what these accomplished men say is true and we don't come up with our own ideas... {% post_url_with_hover_card who does? | 2021-02-01-think-invisibly %}

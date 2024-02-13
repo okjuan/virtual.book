@@ -53,4 +53,4 @@ The restraint in his writing is so strong that it is sometimes radical.
 He wrote with a plainness that risks boring the reader but often succeeds at stirring their curiosity and drawing them in.
 This is intentional.
 Hemingway makes more from less by leaving plenty of space for the reader's imagination to fill in details from their personal bank of sensory images.
-If the writer [provides too much]({{site.baseurl}}{% post_url /2021-01-10-make.instead.of.describing %}), they block the reader's unique contribution.
+If the writer {% post_url_with_hover_card provides too much | 2021-01-10-make.instead.of.describing %}, they block the reader's unique contribution.

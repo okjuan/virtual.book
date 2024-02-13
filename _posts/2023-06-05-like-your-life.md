@@ -32,7 +32,7 @@ This is an answer to know and confront.
 
 But if these activities are good, if they satisfy your expectations of life-worthy activities, then why don't they satisfy you?
 Is their ugliness your own mortality being reflected back at you?
-Will you [make peace with it]({{ site.baseurl }}{% post_url /2023-03-22-live-in-the-moment %})?
+Will you {% post_url_with_hover_card make peace with it | 2023-03-22-live-in-the-moment %}?
 
 Or is their ugliness coming from their will to control you?
 Does it make you squirm to think that you have handed over the reigns?

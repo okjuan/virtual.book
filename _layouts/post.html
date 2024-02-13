@@ -48,7 +48,12 @@ layout: base
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
+
+    {{ content
+        | replace: '<span class="hover-link"', '</p><span class="hover-link"'
+        | replace: '<span class="hover-card-container"><span class="hover-card">', '<div class="hover-card-container"><div class="hover-card">'
+        | replace: '</span></span><span id="HOVERCARDEND"></span>', '</div></div><p>'
+    }}
 
     {%- if page.note -%}
       <hr />

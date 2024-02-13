@@ -6,7 +6,7 @@ permalink: /sing-backwards-and-weep
 tags: reviews books memoir addiction violence music rock seattle washington
 ---
 
-My [second attempt]({{site.baseurl}}{% post_url /2023-11-23-infinite-jest %}) to review a book while I read it instead of waiting until I finish it.
+My {% post_url_with_hover_card second attempt | 2023-11-23-infinite-jest %} to review a book while I read it instead of waiting until I finish it.
 <!--more-->
 
 This book's average Goodreads rating is 4.33, which is high.

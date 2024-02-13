@@ -6,7 +6,7 @@ tags: essays learning reading
 
 ---
 
-Everyone should learn to [leave books unfinished]({{site.baseurl}}{% post_url /2020-01-12-ditch-books %}).
+Everyone should learn to {% post_url_with_hover_card leave books unfinished | 2020-01-12-ditch-books %}.
 <!--more-->
 We should also fight the urge to read books quickly.
 If a book grabs your attention and pulls you in, go ahead.
