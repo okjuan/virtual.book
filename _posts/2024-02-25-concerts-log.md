@@ -42,7 +42,7 @@ Log of concerts I've attended.
 
 | Rating | Artist | City | Country | Venue | Date |
 | - | - | - | - | - | - |
-| &#x2605; &#x2605; | DOMI & JD Beck | Seattle, WA | USA | Nectar Lounge | 11/07/2022 |
+| &#x2605; &#x2605; | DOMi & JD BECK | Seattle, WA | USA | Nectar Lounge | 11/07/2022 |
 | Stereolab &#x2605; &#x2605; Fievel is Glaque &#x2605; &#x2605; &#x2605; | Stereolab (2nd), with Fievel is Glaque | Seattle, WA | USA | Showbox | 09/25/2022 |
 | &#x2605; &#x2605; | Loving, with Sam Burton | Seattle, WA | USA | Madame Lou's | 08/06/2022 |
 | &#x2605; &#x2605; | Sharon Van Etten, Angel Olsen, Julien Baker | Redmond, WA | USA | Marymoor Park | 08/03/2022 |
