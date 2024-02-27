@@ -51,7 +51,7 @@ Log of concerts I've attended.
 
 | Rating | Artist | City | Country | Venue | Date |
 | - | - | - | - | - | - |
-| &#x2605; &#x2605; | Injury Reserve, with Slauson Malone 1 | Seattle, WA | USA | Neumos | 11/07/2021 |
+| &#x2605; &#x2605; | Injury Reserve, with Slauson Malone 1 ([recounted on fattystrap](https://www.fattystrap.com/article/injury-reserve-by-the-time-i-get-to-phoenix-tour-neumos)) | Seattle, WA | USA | Neumos | 11/07/2021 |
 | &#x2605; &#x2605; &#x2605; | Kiefer (2nd) | Seattle, WA | USA | Neumos | 10/05/2021 |
 | &#x2605; &#x2605; &#x2605; | Herbie Hancock | Seattle, WA | USA | Paramount Theatre | 09/21/2021 |
 
