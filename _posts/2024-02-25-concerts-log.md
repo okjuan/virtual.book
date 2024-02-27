@@ -7,7 +7,6 @@ tags: journal music live-music
 
 Log of concerts I've attended.
 <!--more-->
-### Ratings
 
 &#x2605; &#x2605; &#x2605; = Wanna see them again!
 
@@ -16,8 +15,6 @@ Log of concerts I've attended.
 &#x2605; = Ok
 
 &#x2606; = Disappointing
-
-### Concert Log
 
 #### 2024
 
