@@ -8,6 +8,10 @@ tags: notes career blogging writing
 This page is inspired by Viktor Lofgren's [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/) and Tom Critchlow's [list of digital bookshelves](https://tomcritchlow.com/wiki/books/bookshelves/).
 <!--more-->
 
+### regional
+
+- [Capitol Hill Seattle Blog](https://www.capitolhillseattle.com/): I love this site. It's ulta-local, specific, detailed, and **crowd-sourced**!
+
 ### zettelkasten websites / digital gardens
 I'm particularly interested in websites that organize their content as an interconnected network:
 - [okjuan.me/vbook](https://okjuan.me/vbook) ;-)
