@@ -12,7 +12,8 @@ module Jekyll
       site = context.registers[:site]
       post = site.posts.docs.find { |p| File.basename(p.basename, ".md") == @post_name }
       if post
-        "<span class='hover-link'><a href='#{site.baseurl}#{post.permalink}'>#{@text}</a><span class='hover-card'>TODO</span></span>"
+        stripped_content = post.content.gsub(/<\/?p>/, '').gsub(/\n\n/, '<br>')
+        "<span class='hover-link'><a href='#{site.baseurl}#{post.permalink}'>#{@text}</a><span class='hover-card'><strong>#{post.title}</strong><br>#{stripped_content}</span></span>"
       else
         puts "Post not found: @post_name=#{@post_name}"
       end
