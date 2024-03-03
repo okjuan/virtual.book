@@ -4,7 +4,7 @@
       {%- if page.category == nil or post.path contains page.category -%}
         <li>
           <span class="post-meta">{{ post.date | date: date_format }}</span>
-          <div>
+          <div class="post-title-link-container">
             <h3 class="post-title-link">
               <a class="post-link" href="{{ post.url | relative_url }}">
                 {{ post.title }}
