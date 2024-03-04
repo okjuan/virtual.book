@@ -5,9 +5,9 @@ permalink: /coordinate-metaphors-2
 tags: essays imagery cohesiveness writing
 ---
 
-Here's an example of coordinated metaphors, something I wish [other writers]({{site.baseurl}}{% post_url /2023-03-09-coordinate-metaphors %}) used more often.
+Here's an example of coordinated metaphors, something I wish {% post_url_with_hover_card other writers | 2023-03-09-coordinate-metaphors %} used more often.
 <!--more-->
-It's an excerpt from [how to work #2]({{site.baseurl}}{% post_url /2023-01-22-work-2 %}), my essay about choosing your next activity based on your current energy level:
+It's an excerpt from {% post_url_with_hover_card how to work #2 | 2023-01-22-work-2 %}, my essay about choosing your next activity based on your current energy level:
 > Adapting to the ebb and flow of your capacity makes you not only more efficient, but happier. **Your efforts bear more fruit because you know when the moment is ripe, and you learn to savor small victories when nothing bigger is within reach.**
 
 In the second sentence, I try to create a single, fluid image in the reader's mind by coordinating the metaphors **bear more fruit**, **moment is ripe**, **savor small victories**, and **within reach**.
@@ -28,7 +28,7 @@ This works especially because the third sentence in the paragraph also contains 
 
 These images coordinate not only between themselves but also with a key idea of the essay: there is peace in respecting and abiding by rules of nature.
 
-But, again, I may be at odds with potential readers of [how to work #2]({{site.baseurl}}{% post_url /2023-01-22-work-2 %}).
+But, again, I may be at odds with potential readers of {% post_url_with_hover_card how to work #2 | 2023-01-22-work-2 %}.
 I suppose the feeling comes also from the literal images of nature I included in the original version I posted [on Medium](https://okjuan.medium.com/is-this-working-2-4343dc4594eb).
 
 

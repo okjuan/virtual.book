@@ -20,6 +20,6 @@ Little-to-no dialogue.
 
 Topics: feminism, misogyny, racism, intersectionality, childhood trauma, abuse, the craft of writing, poetry, aesthetics of life, relationships, "free love".
 
-Related works in my eyes: Just Kids by Patti Smith and [Educated]({{site.baseurl}}{% post_url /2020-04-26-educated %}) by Tara Westover.
+Related works in my eyes: Just Kids by Patti Smith and {% post_url_with_hover_card Educated | 2020-04-26-educated %} by Tara Westover.
 Like Patti Smith's __Just Kids__, this book tells of artists building and mutually nurturing each other's lives as artists.
 Like Tara Westover's __Educated__, this book tells of the labor of carving out a woman's career in academia and the related development of her intellect and personhood; of journeying towards the light of independence and self-actualization out of the shadow of childhood trauma.

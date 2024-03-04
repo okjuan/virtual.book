@@ -37,7 +37,7 @@ Grow your vocabulary.
 
 ### writing process
 
-Don't come up with the plot of your story, [discover it]({{site.baseurl}}{% post_url /2023-12-09-on-writing %}).
+Don't come up with the plot of your story, {% post_url_with_hover_card discover it | 2023-12-09-on-writing %}.
 Start with an interesting situation.
 Put your character in it and see how they react.
 

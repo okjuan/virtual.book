@@ -6,17 +6,17 @@ permalink: /show-instead-of-telling
 tags: essays mediums story-telling education interfaces
 ---
 
-A modern torchbearer of [Thompson’s immersion journalism]({{site.baseurl}}{% post_url /2022-06-11-tell-a-story %}) is comedian-journalist [Andrew Callaghan](https://www.youtube.com/channel/UC-AQKm7HUNMmxjdS371MSwg).
+A modern torchbearer of {% post_url_with_hover_card Thompson’s immersion journalism | 2022-06-11-tell-a-story %} is comedian-journalist [Andrew Callaghan](https://www.youtube.com/channel/UC-AQKm7HUNMmxjdS371MSwg).
 <!--more-->
 He roams America in his RV interviewing the country’s kookiest characters and recording their antics.
 Like Thompson, Callaghan throws himself into the action.
 With false innocence, he encourages his subjects to rant and reveal their quirks and delusions.
 In [Return to Tallega](https://youtu.be/6tuYIXi6nTQ), Callaghan shows the unhinged debauchery of beer-soaked racing festivals of the American South much like Thompson did with [The Kentucky Derby is Decadent and Depraved](https://en.wikipedia.org/wiki/The_Kentucky_Derby_Is_Decadent_and_Depraved).
-Tom Wolfe compared the techniques of literary realism [to electricity]({{site.baseurl}}{% post_url /2022-06-11-tell-a-story %}) in the otherwise mechanical machine of journalism; he might’ve enjoyed seeing Callaghan modernize the practice with literal electricity.
+Tom Wolfe compared the techniques of literary realism {% post_url_with_hover_card to electricity | 2022-06-11-tell-a-story %} in the otherwise mechanical machine of journalism; he might’ve enjoyed seeing Callaghan modernize the practice with literal electricity.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/iq71Cb2jEIE?si=19k-GwHRoh0TPF-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Ironically, the old writing principle _show don’t tell_ can lead us [beyond words]({{site.baseurl}}{% post_url /2022-06-11-tell-a-story-2 %}) as it has [The Pudding](https://pudding.cool/): a digital publication specializing in ‘visual essays’ developed by ‘Journalist-Engineers’ that write both prose and source code to create their articles.
+Ironically, the old writing principle _show don’t tell_ can lead us {% post_url_with_hover_card beyond words | 2022-06-11-tell-a-story-2 %} as it has [The Pudding](https://pudding.cool/): a digital publication specializing in ‘visual essays’ developed by ‘Journalist-Engineers’ that write both prose and source code to create their articles.
 Their piece [_How Music Taste Evolved_](https://pudding.cool/2017/03/music-history/), more app than article, lets the user click through pop music history to hear snippets of songs that topped the charts from 1958 until 2016.
 Instead of forcing you to read about the contrast between the swaying, dreamy sound of [Smoke Gets In Your Eyes](https://youtu.be/57tK6aQS_H0) and the youthful pep of [Stagger Lee](https://youtu.be/FCPutYaGFlE), it lets you hear it.
 And if you’re not interested in pop music from early 1959, then you can leap forward to whatever decade interests you.
@@ -51,5 +51,5 @@ What if the author then goes back and rewrites previous parts of the novel to sh
 
 Long before the birth of the digital world, writers like Hunter S. Thompson breached conventional forms to create new experiences for readers.
 And writers can continue to experiment within the book-bound format without intervention from outer disciplines.
-But they could also work with designers and engineers to create literature’s equivalent to musical technology like synthesizers and drum machines — the tools that Herbie Hancock used to [reinvent his art]({{site.baseurl}}{% post_url /2022-06-11-reinvent-yourself %}) time and time again.
+But they could also work with designers and engineers to create literature’s equivalent to musical technology like synthesizers and drum machines — the tools that Herbie Hancock used to {% post_url_with_hover_card reinvent his art | 2022-06-11-reinvent-yourself %} time and time again.
 If we give artists creative technology, we’ll get back experiences we didn’t even know we were missing.

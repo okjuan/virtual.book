@@ -11,7 +11,7 @@ tags: reviews books memoir entrepreneurship
 I wasn't particularly satisfied with Randolph's writing skills, but the book made for an entertaining 1st person account of the birth of Netflix.
 <!--more-->
 
-Compared to memoirs like [Educated]({{site.baseurl}}{% post_url /2020-04-26-educated %}) and _Becoming_, this book doesn't paint a vivid image of what it was like to be the author at a particular part of their life.
+Compared to memoirs like {% post_url_with_hover_card Educated | 2020-04-26-educated %} and _Becoming_, this book doesn't paint a vivid image of what it was like to be the author at a particular part of their life.
 
 Moreover, as a reader, I feel like I'm hearing Randolph reminisce and indulge casually about his time as Netflix CEO and President.
 He muses somewhat lazily about lessons one can take away from his experiences.

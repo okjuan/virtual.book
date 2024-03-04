@@ -12,7 +12,7 @@ Embrace this moment because it is the only one in reach.
 But the advice resonates only so deeply with me.
 I find many nows made for trading, worthy of giving up for what I can get later.
 
-To this cliche [Oliver Burkeman]({{site.baseurl}}{% post_url /2023-03-17-four-thousand-weeks %}) adds a darker harmony with a note of his own.
+To this cliche {% post_url_with_hover_card Oliver Burkeman | 2023-03-17-four-thousand-weeks %} adds a darker harmony with a note of his own.
 You will never make the most of your time.
 It is painfully short and any bid for optimal use of it is doomed.
 Suddenly the original cliche is not about changing your attitude but about accepting that you get what you get.

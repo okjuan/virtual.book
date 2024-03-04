@@ -5,7 +5,7 @@ permalink: /chart-moods
 tags: essays moods time-management energy
 ---
 
-Learning to pick between [_productive_ and _absorptive_]({{site.baseurl}}{% post_url /2021-04-25-work %}) activities based on my current mood and energy level has helped me notice, for example, when I should try to write instead of reading.
+Learning to pick between {% post_url_with_hover_card _productive_ and _absorptive_ | 2021-04-25-work %} activities based on my current mood and energy level has helped me notice, for example, when I should try to write instead of reading.
 <!--more-->
 
 &#8592; productive &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; absorptive &#8594;
@@ -51,7 +51,7 @@ In life, you have to do some planning, and you can do that better if you learn h
 Notice which activities are expensive for you.
 Make time after those for your regenerative activites.
 Whether you're more introverted or extroverted, take note of how often you need social interaction to keep a healthy balance.
-Whether you're a morning person or a night owl, dedicate your expensive mood to [meaningful, important work]({{site.baseurl}}{% post_url /2023-01-22-work-2 %}).
+Whether you're a morning person or a night owl, dedicate your expensive mood to {% post_url_with_hover_card meaningful, important work | 2023-01-22-work-2 %}.
 If producing is important to you, dedicate time to absorbing as well.
 As Stephen King writes in his book _On Writing: A Memoir of the Craft_:
 > Reading is the creative center of a writer's life.

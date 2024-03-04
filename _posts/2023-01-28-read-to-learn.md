@@ -8,7 +8,7 @@ tags: essays learning reading
 
 Ever since I read [How to Talk About Books You Haven't Read](https://www.goodreads.com/book/show/1143788.How_to_Talk_About_Books_You_Haven_t_Read?ac=1&from_search=true&qid=dQGK5Adu5Y&rank=1), I've stopped trying to absorb everything I read.
 <!--more-->
-I often [ditch a book]({{site.baseurl}}{% post_url /2020-01-12-ditch-books %}) without finishing it because I know I'm going to forget most of it anyway.
+I often {% post_url_with_hover_card ditch a book | 2020-01-12-ditch-books %} without finishing it because I know I'm going to forget most of it anyway.
 I also don't try to read for hours in a row unless I'm engrossed.
 At a certain point, it just becomes information binging.
 Better to chew on a good morsel, digest it, and move on.

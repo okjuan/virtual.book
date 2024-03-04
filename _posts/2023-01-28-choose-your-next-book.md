@@ -13,4 +13,4 @@ The diligence we demand of ourselves to finish the book we're reading is ridicul
 Am I the only one that neglects their collection of unread books and picks instead a new one from the library or the bookstore?
 
 I've learned to sample books, try them without committing, abandon them, plunge into them if they beckon me.
-I have ideas of where I want to go but also an aversion to planning, so I rely on [coherent impulses]({{ site.baseurl }}{% post_url /2023-01-28-progress-without-planning %}) to choose the next step.
+I have ideas of where I want to go but also an aversion to planning, so I rely on {% post_url_with_hover_card coherent impulses | 2023-01-28-progress-without-planning %} to choose the next step.

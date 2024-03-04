@@ -11,9 +11,9 @@ Half memoir, half advice for aspiring fiction writers.
 Both good.
 <!--more-->
 
-I enjoy and mostly trust his [writing advice]({{site.baseurl}}{% post_url /2023-12-09-king-writing-advice %}).
+I enjoy and mostly trust his {% post_url_with_hover_card writing advice | 2023-12-09-king-writing-advice %}.
 
-This is yet [another]({{site.baseurl}}{% post_url /2021-08-06-possibilities %}) book that should be made [virtual]({{site.baseurl}}{% post_url /2023-08-11-virtual-book %}).
+This is yet {% post_url_with_hover_card another | 2021-08-06-possibilities %} book that should be made {% post_url_with_hover_card virtual | 2023-08-11-virtual-book %}.
 
 It consists of three distinct parts: a memoir of King's life; advice for fiction writers; and a vignette about King's near-death experience.
 (Really, it consists of two different types of writing: memoir and practical advice.)

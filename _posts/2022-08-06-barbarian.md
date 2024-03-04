@@ -16,4 +16,4 @@ Don't say it!
 It's already there in the story!
 
 Spelling it out reminds the audience that they're watching something written by somebody and pulls them out.
-Don't describe it -- [make it]({{ site.baseurl }}{% post_url /2021-01-10-make.instead.of.describing %})!
+Don't describe it -- {% post_url_with_hover_card make it | 2021-01-10-make.instead.of.describing %}!
