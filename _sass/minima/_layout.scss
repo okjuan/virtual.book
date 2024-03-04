@@ -417,6 +417,10 @@ em, i {
   display: inline-block;
 }
 
+.hover-card-title {
+    font-size: $base-font-size * 1.25;
+}
+
 /**
  * Grid helpers
  */
