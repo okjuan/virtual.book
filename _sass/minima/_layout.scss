@@ -311,6 +311,11 @@ em, i {
 .post-content {
   margin-bottom: $spacing-unit;
 
+  p {
+    display: inline;
+    // TODO: preserve line breaks
+  }
+
   h1, h2, h3, h4, h5, h6 { margin-top: $spacing-unit }
 
   h2 {
@@ -400,22 +405,28 @@ em, i {
   background-color: $background-color;
   border: 1px solid $border-color-01;
   border-radius: 10px;
-  top: 1.75em;
+  top: 0.75em;
   left: 0;
   padding: 1em;
   overflow: hidden;
   overflow-y: auto;
-  max-width: 75vw;
+  width: 30vw;
   max-height: 30vh;
-  min-width: 50vw;
   height: auto;
   white-space: normal;
   overflow-wrap: break-word;
   box-shadow: 0px 0px 0px 1px $border-color-02;
 }
 
-.hover-link:hover .hover-card {
+.hover-card-container {
+  position: relative;
   display: inline-block;
+}
+
+.hover-link:hover + .hover-card-container {
+  .hover-card {
+    display: block;
+  }
 }
 
 .hover-card-title {

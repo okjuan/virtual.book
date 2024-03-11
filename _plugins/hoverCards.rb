@@ -12,10 +12,9 @@ module Jekyll
       site = context.registers[:site]
       post = site.posts.docs.find { |p| File.basename(p.basename, ".md") == @post_name }
       if post
-        stripped_content = post.content.gsub(/<\/?p>/, '').gsub(/\n\n/, '<br>')
-        "<span class='hover-link'><a href='#{site.baseurl}#{post.permalink}'>#{@text}</a><span class='hover-card'><strong class='hover-card-title'>#{post.title}</strong><br>#{stripped_content}</span></span>"
+        "<a id='#{post.id}' class='internal-site-link' href='#{site.baseurl}#{post.permalink}'>#{@text}</a>"
       else
-        puts "Post not found: @post_name=#{@post_name}"
+        puts "ERROR:\n\tPost not found: @post_name=#{@post_name}\nERROR\n"
       end
     end
   end
