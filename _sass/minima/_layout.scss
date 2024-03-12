@@ -447,9 +447,8 @@ em, i {
   display: inline-block;
 }
 
-.hover-link:hover + .hover-card-container .hover-card,
-.hover-card-container:hover .hover-card,
-.hover-card:hover .hover-card {
+.hover-link:hover + .hover-card-container > .hover-card,
+.hover-card:hover {
   display: block;
 }
 
