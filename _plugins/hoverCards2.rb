@@ -23,10 +23,12 @@ module Jekyll
     def insertHoverCards(post, site)
         post.output = post.output.gsub(/<a id="(.*?)" class="internal-site-link"(.*?)<\/a>/) do
           id = $1
+          restOfLink = $2
           linked_post = site.posts.docs.find { |post| post.id == id }
           title = linked_post.data['title']
-          content = linked_post.content
-          "</p><a class='hover-link' #{$2}</a><div class='hover-card-container'><div class='hover-card'><strong class='hover-card-title'>#{title}</strong><br>#{content}</div></div><p>"
+          content_match = linked_post.output.match(/<main class="page-content(.*?)>(.*?)<\/main>/m)
+          content = content_match ? content_match[2] : ''
+          "</p><a class='hover-link' #{restOfLink}</a><div class='hover-card-container'><div class='hover-card'>#{content}</div></div><p>"
         end
     end
   end
