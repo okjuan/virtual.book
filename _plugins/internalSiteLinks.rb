@@ -1,5 +1,5 @@
 module Jekyll
-  class HoverCardTag < Liquid::Tag
+  class InternalSiteLink < Liquid::Tag
 
     def initialize(tag_name, input, tokens)
       super
@@ -20,4 +20,4 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_tag('post_url_with_hover_card', Jekyll::HoverCardTag)
+Liquid::Template.register_tag('post_url_with_hover_card', Jekyll::InternalSiteLink)
