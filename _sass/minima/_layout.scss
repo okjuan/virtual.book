@@ -400,7 +400,27 @@ em, i {
 }
 
 .hover-link {
+  position: relative;
   display: inline;
+}
+
+.hover-link::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 150%;
+  height: 10px; /* Adjust as needed to cover the gap */
+}
+
+.hover-card::before {
+  content: "";
+  position: absolute;
+  top: -2em;
+  left: -2em;
+  width: 110%;
+  height: 2em;
+  background-color: transparent;
 }
 
 .hover-card {
@@ -410,7 +430,6 @@ em, i {
   border: 1px solid $border-color-01;
   border-radius: 10px;
   top: 0.75em;
-  left: 0;
   padding: 1em;
   overflow: hidden;
   overflow-y: auto;
@@ -428,7 +447,9 @@ em, i {
   display: inline-block;
 }
 
-.hover-link:hover + .hover-card-container > .hover-card {
+.hover-link:hover + .hover-card-container .hover-card,
+.hover-card-container:hover .hover-card,
+.hover-card:hover .hover-card {
   display: block;
 }
 
