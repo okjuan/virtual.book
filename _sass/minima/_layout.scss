@@ -414,8 +414,9 @@ em, i {
   padding: 1em;
   overflow: hidden;
   overflow-y: auto;
-  width: 30vw;
-  max-height: 30vh;
+  min-width: 30vw;
+  max-width: 50vw;
+  max-height: 50vh;
   height: auto;
   white-space: normal;
   overflow-wrap: break-word;
