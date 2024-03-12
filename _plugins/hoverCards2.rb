@@ -9,6 +9,8 @@ module Jekyll
         Jekyll::Hooks.register :site, :post_render do |site|
             site.posts.docs.each do |post|
                 preserveParagraphs(post)
+            end
+            site.posts.docs.each do |post|
                 insertHoverCards(post, site)
             end
         end
