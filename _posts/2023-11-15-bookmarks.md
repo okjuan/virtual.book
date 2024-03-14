@@ -28,10 +28,16 @@ I'm particularly interested in websites that organize their content as an interc
 ### productivity and time management
 - [oliverburkeman.com/posts](https://www.oliverburkeman.com/posts)
 
+### psychology, productivity, etc
+- [nesslabs.com](https://nesslabs.com/best)
+
 ### blogs / personal
 - [maggieappleton.com](https://maggieappleton.com)
 - [maylikhoe.com](https://maylikhoe.com/)
 - [tegowerk.eu](https://tegowerk.eu/)
+
+### philosophy, economics, etc
+- [tacticaltypos.net](https://tacticaltypos.net/)
 
 ### art & life
 - [ameliagreenhall.com](https://ameliagreenhall.com/blog)
@@ -54,10 +60,15 @@ I'm particularly interested in websites that organize their content as an interc
 - [meltingasphalt.com](https://meltingasphalt.com/)
 - [julian.digital](https://julian.digital/)
 
+### tech people
+- [joelonsoftware.com](https://www.joelonsoftware.com/)
+- [adamwiggins.com](https://adamwiggins.com/making-computers-better/)
+- [markmcgranaghan.com](https://markmcgranaghan.com/)
+
 ### tech
+- [inkandswitch.com](https://www.inkandswitch.com/)
 - [hackernews.com](https://hackernews.com/)
 - [lobste.rs](https://lobste.rs/)
-- [joelonsoftware.com](https://www.joelonsoftware.com/)
 
 ### tech, life, & career
 - [marginalia.nu](https://www.marginalia.nu/)
