@@ -8,7 +8,7 @@ tags: reviews movies trauma abuse disease
 John Hurt's performance resonated with me like wine lingers in your gut.
 <!--more-->
 There is such a tenderness in the way he speaks to the few who are kind to him.
-The prosthetics are impressive, but it is Hurt's acting that brings them to life.
+The prosthetics are impressive, and Hurt's acting brings them to life.
 
 The movie has its flaws.
 It moves slowly and rather sloppily ends the story of the devious night porter.
