@@ -414,8 +414,10 @@ em, i {
   visibility: hidden;
 }
 
-.hover-link:hover::after {
-  visibility: visible;
+@media (hover: hover) {
+  .hover-link:hover::after {
+    visibility: visible;
+  }
 }
 
 .hover-card::before {
@@ -453,9 +455,11 @@ em, i {
   display: inline-block;
 }
 
-.hover-link:hover + .hover-card-container > .hover-card,
-.hover-card:hover {
-  display: block;
+@media (hover: hover) {
+  .hover-link:hover + .hover-card-container > .hover-card,
+  .hover-card:hover {
+    display: block;
+  }
 }
 
 .hover-card-title {
