@@ -407,10 +407,15 @@ em, i {
 .hover-link::after {
   content: "";
   position: absolute;
-  top: 100%;
+  top: 0;
   left: 0;
-  width: 150%;
-  height: 10px; /* Adjust as needed to cover the gap */
+  width: 130%;
+  height: 250%;
+  visibility: hidden;
+}
+
+.hover-link:hover::after {
+  visibility: visible;
 }
 
 .hover-card::before {
