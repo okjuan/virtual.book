@@ -47,4 +47,4 @@ In 1973, months after releasing his last _Mwandishi_ record, Herbie released the
 _Actual Proof_, a song from the second Headhunters album, is named after Nichiren Buddhism’s promise to benefit one’s earthly life.
 
 <br/>
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/reCo-EfiuD8?si=JMfHrN8wbWpVS52o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="border-radius:12px" width="100%" height="400" src="https://www.youtube.com/embed/reCo-EfiuD8?si=JMfHrN8wbWpVS52o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
