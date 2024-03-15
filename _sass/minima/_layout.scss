@@ -407,10 +407,18 @@ em, i {
 .hover-link::after {
   content: "";
   position: absolute;
-  top: 100%;
-  left: 0;
-  width: 150%;
-  height: 10px; /* Adjust as needed to cover the gap */
+  top: 50%;
+  left: 50%;
+  width: 160%;
+  height: 400%;
+  visibility: hidden;
+  transform: translate(-50%, -50%);
+}
+
+@media (hover: hover) {
+  .hover-link:hover::after {
+    visibility: visible;
+  }
 }
 
 .hover-card::before {
@@ -430,7 +438,7 @@ em, i {
   background-color: $background-color;
   border: 1px solid $border-color-01;
   border-radius: 10px;
-  top: 0.75em;
+  margin: 0.75em;
   padding: 1em;
   overflow: hidden;
   overflow-y: auto;
@@ -448,9 +456,11 @@ em, i {
   display: inline-block;
 }
 
-.hover-link:hover + .hover-card-container > .hover-card,
-.hover-card:hover {
-  display: block;
+@media (hover: hover) {
+  .hover-link:hover + .hover-card-container > .hover-card,
+  .hover-card:hover {
+    display: block;
+  }
 }
 
 .hover-card-title {
