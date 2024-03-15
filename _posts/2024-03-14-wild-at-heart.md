@@ -18,17 +18,19 @@ The color and composition of the scenes where the meddling mother, Marietta Fort
 Good acting all around, but Dafoe's and Ladd's performances were my favorite.
 The scene where Marietta paints her whole face in lipstick is amazing.
 
-The scenes where Lula is assaulted are very disturbing even though they are not particularly graphic, especially when compared with other moments in the film.
-I learned from Lynch's biography-memoir _Room to Dream_ that he removed a very gruesome moment from the original cut following a "mass exodus" of a test audience that had otherwise been at the edge of their seats.
+The scenes where Lula is assaulted are disturbing, though they are not the most graphic in the film.
+In his biography-memoir _Room to Dream_, Lynch tells the story of having to remove a very gruesome moment from the original cut of the film following more than one "mass exodus" during test screenings, including one when the test audience had been otherwise on the edge of their seats.
 
 Another aspect of Lynch's work that some will find offputting is its disregard for reality.
 Scenes move at a surprisingly slow pace.
 Dialogue can feel stilted.
 Characters pose in unnatural positions.
 These oddities are not a result of incompetence, they're deliberate choices.
-Early in the movie, an audience member grabs the microphone from the stage and starts crooning like Elvis.
-The metal band plays along, backing him with syrupy guitar and flawless vocal harmonies.
+Early in the movie, Sailor interrupts a metal band midsong to confront a guy coming onto Lula, and, after he overpowers him and forces an apology, he accepts the microphone from the band's singer and starts crooning like Elvis.
+The band backs him wth flawless vocal harmonies.
 
 Lynch doesn't try to depict reality with his movies.
 He'll use cars from the 50s, outfits from the 80s, and hairstyles from the 90s at same time if he wants to.
 What matters is that he captures the right mood, the right feel, and that he stays true to the ideas that {% post_url_with_hover_card come to him | 2021-02-01-think-invisibly %}.
+
+<iframe style="border-radius:12px" width="100%" height="400" src="https://www.youtube.com/embed/UPYxcwwE5bU?si=3qvaJRHT1piXGmFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
