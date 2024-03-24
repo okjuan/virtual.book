@@ -11,3 +11,4 @@ tags: notes imagery cohesiveness writing
 From Ed Caesar's [tribute to Cormac McCarthy](https://www.newyorker.com/culture/postscript/cormac-mccarthys-narrative-wisdom), following the author's death in June 2023.
 
 Notice the coordination of **flames**, **fire**, and **extinguished**.
+Also notice that each of the images must work by itself so that their coordination does not devolve into a cheesy theme.
