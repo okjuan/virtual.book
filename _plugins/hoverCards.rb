@@ -1,3 +1,5 @@
+require 'nokogiri'
+
 module Jekyll
   class HoverCards < Jekyll::Generator
     safe true
@@ -26,7 +28,17 @@ module Jekyll
           restOfLink = $2
           linked_post = site.posts.docs.find { |post| post.id == id }
           title = linked_post.data['title']
-          content_match = linked_post.output.match(/<main class="page-content(.*?)>(.*?)<\/main>/m)
+
+          doc = Nokogiri::HTML::DocumentFragment.parse(linked_post.output)
+          # Remove 'internal-site-link' class from all a tags
+          doc.css('a.internal-site-link').each do |link|
+              link['class'] = link['class'].split(' ').reject { |c| c == 'internal-site-link' }.join(' ')
+          end
+
+          # Remove all .hover-card-container divs and their descendants
+          doc.search('.hover-card-container').remove
+
+          content_match = doc.to_html.match(/<main class="page-content(.*?)>(.*?)<\/main>/m)
           content = content_match ? content_match[2] : ''
           "</p><a class='hover-link' #{restOfLink}</a><div class='hover-card-container'><div class='hover-card'>#{content}</div></div><p>"
         end
