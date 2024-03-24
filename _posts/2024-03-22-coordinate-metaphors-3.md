@@ -8,6 +8,6 @@ tags: notes imagery cohesiveness writing
 > ...looking again in the old books, I find so much pleasure in the authority of [Cormac McCarthy's] voice, and the wisdom that flames out from his pages, and it is painful to imagine that such a fire has been extinguished.
 <!--more-->
 
-This from Ed Caesar's [tribute to Cormac McCarthy](https://www.newyorker.com/culture/postscript/cormac-mccarthys-narrative-wisdom), following the author's death in June 2023.
+From Ed Caesar's [tribute to Cormac McCarthy](https://www.newyorker.com/culture/postscript/cormac-mccarthys-narrative-wisdom), following the author's death in June 2023.
 
 Notice the coordination of **flames**, **fire**, and **extinguished**.
