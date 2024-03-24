@@ -19,7 +19,22 @@ module Jekyll
     end
 
     def preserveParagraphs(post)
-        post.output = post.output.gsub(/<p>(.*?)<\/p>/m, '<div class="paragraph"><p>\1</p></div>')
+        doc = Nokogiri::HTML::DocumentFragment.parse(post.output)
+
+        # Select all p elements and all p elements that have a div.paragraph ancestor
+        all_p_elements = doc.css('p')
+        p_elements_in_paragraph = doc.css('div.paragraph p')
+
+        # Get all p elements that don't have a div.paragraph ancestor
+        p_elements_not_in_paragraph = all_p_elements - p_elements_in_paragraph
+
+        p_elements_not_in_paragraph.each do |p|
+            # Wrap the p element in a div.paragraph element
+            p.replace("<div class='paragraph'>#{p.to_html}</div>")
+        end
+
+        # Convert the modified document back into a string
+        post.output = doc.to_html
     end
 
     def insertHoverCards(post, site)
