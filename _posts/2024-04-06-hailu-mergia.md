@@ -39,7 +39,7 @@ When the song ended, they just stood there and clapped.
 
 Then I noticed a guy in front of me and Isaac shifting and glancing restlessly at the two employees and conferring with his friends about something.
 I figured he must have noticed too.
-At the end of the next song, I leaned forward and asked them, trying to speak over the noise of the crowd.
+At the end of the next song, I leaned forward and asked him, trying to speak over the noise of the crowd.
 _It's ridiculous!_ he said to me immediately.
 After a few moments I realized he was talking about the huge fan at the end of the corridor blowing air into the venue from outside.
 He was just cold.
