@@ -44,8 +44,7 @@ _It's ridiculous!_ he said to me immediately.
 After a moment I realized he was talking about the huge fan at the end of the corridor blowing air into the venue from outside.
 He was just cold.
 
-We decided to move away from the stage to hear how it sounded from the rest of the room.
-As another song began, we waded diagonally through the crowd towards the bar, listening as we went.
+Isaac needed to go to the bathroom and I still held out hope that the music would sound better farther from the stage, so we waded diagonally through the crowd towards the bar, listening as we went.
 We agreed.
 No difference.
 
