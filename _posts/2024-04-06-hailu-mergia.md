@@ -62,4 +62,5 @@ I was on the brink of giving up but then I tried again, this time ignoring her i
 It worked, finally.
 
 With my new record in hand, I went with Isaac to the back of the venue to listen from a third vantage point.
+Nope.
 Still no chords.
