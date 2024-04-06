@@ -19,11 +19,13 @@ Maybe our position under them was deceiving and it sounded good farther out on t
 
 But by the third or fourth song, Isaac and I realized we were thinking the same thing.
 Something was wrong.
-In the middle of a song we saw Hailu turn a knob on his keyboard up and down with a puzzled look like one does when the volume isn't working.
+In the middle of a song we saw Hailu turn a keyboard knob left and right with a puzzled look like one does when the volume isn't working.
 The other two band members, the bassist and the drummer, seemed to sense something too.
 The three of them exchanged looks but did not betray much worry.
 When the song ended, the crowd clapped and whooed enthusiastically.
-Then the next song started.
+I waited for Hailu to say something to someone about the keyboard.
+He didn't.
+They went on to the next song.
 
 Standing a few feet to Hailu's left, we were in the perfect position to watch his left hand playing mute accompaniment.
 We could hear every note he played with his right hand on the upper keyboard, and even some of the notes he played on the right half of the faulty keyboard, but almost nothing from the left hand, which mostly played silent chords on the left half.
