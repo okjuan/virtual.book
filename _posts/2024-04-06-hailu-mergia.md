@@ -55,7 +55,7 @@ I changed the subject.
 
 They were selling _Lala Belu_ on vinyl but didn't accept debit, credit, cash, or Venmo, so I spent the next several minutes downloading PayPal and trying to set it up.
 I stood aside and the woman continued selling copies of the record to people that came up.
-While I battled with multifactor authentication and her confusing instructions -- __no, you can't do it that way because of the currency exchange__ -- people kept coming up and buying records until there was only one left.
+While I battled with multifactor authentication and her confusing instructions -- _no, you can't do it that way because of the currency exchange_ -- people kept coming up and buying records until there was only one left.
 Another guy came up wanting to buy the record.
 The woman apologized and said whoever paid for it first could have it.
 I was on the brink of giving up but then I tried again, this time ignoring her instructions.
