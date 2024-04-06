@@ -53,7 +53,7 @@ I commented to the woman working there about our suspicion that half of Hailu's 
 She reacted with concern, but then said that her boyfriend was in charge of the sound and that he was a pro.
 I changed the subject.
 
-They were selling _Lala Belu_ on vinyl but didn't accept debit, credit, cash, or Venmo, so I spent the next several minutes downloading and trying to set up PayPal.
+They were selling _Lala Belu_ on vinyl but didn't accept debit, credit, cash, or Venmo, so I spent the next several minutes downloading PayPal and trying to set it up.
 I stood aside as the woman continued selling copies of the record to people that came up.
 While I battled with multifactor authentication and her confusing instructions -- __no, you can't do it that way because of the currency exchange__ -- people kept coming up and buying records until there was only one left.
 Another guy came up wanting to buy the record.
