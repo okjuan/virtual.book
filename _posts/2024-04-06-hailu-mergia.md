@@ -27,8 +27,8 @@ I waited for Hailu to say something to someone about the keyboard.
 He didn't.
 They went on to the next song.
 
-Standing a few feet to Hailu's left, we were in the perfect position to watch his left hand playing mute accompaniment.
-We could hear every note he played with his right hand on the upper keyboard, and even some of the notes he played on the right half of the faulty keyboard, but almost nothing from the left hand, which mostly played silent chords on the left half.
+Standing a few feet to Hailu's left, we were in the perfect position to watch his left hand play mute accompaniment.
+We could hear every note he played with his right hand on the upper keyboard, and even some of the notes he played on the right half of the faulty keyboard, but almost nothing from the left hand pressing futile chords into the left half.
 
 After the fifth or sixth song, I approached an employee standing security next to the stage to tell him.
 He leaned in and listened to me and nodded without looking up.
