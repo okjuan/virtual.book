@@ -5,8 +5,18 @@ permalink: /hailu-mergia
 tags: journal seattle live-music music
 ---
 
-My friend Isaac and I showed up close to scheduled showtime, but Hailu and his bandmates didn't for another hour, almost two.
+I first read about Hailu Mergia in Pitchfork's [The 200 Best Albums of the 2010s](https://pitchfork.com/features/lists-and-guides/the-200-best-albums-of-the-2010s), which listed his 2018 album _Lala Belu_ at 185th.
 <!--more-->
+But my favorite Hailu album quickly became and has remained his 1978 album, _Wede Harer Guzo_.
+It's that rare and precious kind of music that's somehow nostalgic on first listen.
+I adore even the album cover, which is a scan of the original tape cover art set against a solid magenta background.
+This time, late 2019 and early 2020, was a fertile time of music discovery for me.
+
+It's been five years and I still listen to Hailu routinely, and so does my friend Isaac, who was my roommate at the time and is Ethiopian like Hailu.
+So, in January, when Isaac got a Spotify notification that Hailu was playing a concert in Seattle in March, we bought tickets instantly.
+Soon afterwards, it sold out.
+
+We showed up close to scheduled showtime, but Hailu and his bandmates didn't for another hour, almost two.
 On "Habesha Time," as Isaac anticipated of his fellow Ethiopians.
 Nonetheless, the crowd roared as the band came on stage and started the show.
 
