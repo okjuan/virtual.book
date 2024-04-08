@@ -10,7 +10,7 @@ I first read about Hailu Mergia in Pitchfork's [The 200 Best Albums of the 2010s
 But my favorite Hailu album quickly became and has remained his 1978 album, _Wede Harer Guzo_.
 It's that rare and precious kind of music that's somehow nostalgic on first listen.
 I adore even the album cover, which is a scan of the original tape cover art set against a solid magenta background.
-This time, late 2019 and early 2020, was a fertile time of music discovery for me.
+Late {% post_url_with_hover_card 2019 | 2019-12-28-jazz-soul-gems-2019 %} and early {% post_url_with_hover_card 2020 | 2020-12-27-9-songs-not-from-2020 %} was a fertile time of music discovery for me.
 
 It's been five years and I still listen to Hailu routinely, and so does my friend Isaac, who was my roommate at the time and is Ethiopian like Hailu.
 So, in January, when Isaac got a Spotify notification that Hailu was playing a concert in Seattle in March, we bought tickets instantly.
