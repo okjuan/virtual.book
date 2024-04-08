@@ -21,7 +21,7 @@ Log of concerts I've attended.
 | Rating | Artist | City | Country | Venue | Date |
 | - | - | - | - | - | - |
 | | Nate Smith, Kiefer (3rd), & Carrtoons | Seattle, WA | USA | Nectar Lounge | 05/16/2024 |
-| | Hailu Mergia | Seattle, WA | USA | Tractor Tavern | 03/01/2024 |
+| &#x2605; | {% post_url_with_hover_card Hailu Mergia | 2024-04-06-hailu-mergia %} | Seattle, WA | USA | Tractor Tavern | 03/01/2024 |
 | &#x2605; &#x2605; &#x2605; | Vieux Farka Touré | Vancouver, BC | Canada | York Theatre | 02/23/2024 |
 
 #### 2023
