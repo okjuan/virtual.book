@@ -1,3 +1,4 @@
+const hovercardBufferPx = 5;
 var observer = new IntersectionObserver(function(entries) {
   entries.forEach(function(entry) {
     if (!entry.target.classList.contains('hover-card')) {
@@ -12,6 +13,7 @@ var observer = new IntersectionObserver(function(entries) {
             return;
         }
         const container = hoverCard.closest('.hover-card-container');
+        const hoverCardContainerRect = container.getBoundingClientRect();
         var correspondingHoverLink = container.parentElement.querySelector('.hover-link');
         var linkRect = correspondingHoverLink.getBoundingClientRect();
         var linkCenterX = linkRect.left + linkRect.width / 2;
@@ -22,18 +24,25 @@ var observer = new IntersectionObserver(function(entries) {
           ? linkCenterY < viewportCenterY ? 'top left' : 'bottom left'
           : linkCenterY < viewportCenterY ? 'top right' : 'bottom right';
         if (linkQuadrant === 'top left') {
-          // revert to default
-          hoverCard.style.top = '0px';
-          hoverCard.style.right = '0px;'
+          hoverCard.style.top = hovercardBufferPx + 'px';
+          hoverCard.style.left = hovercardBufferPx + 'px';
+          hoverCard.style.right = 'auto';
         } else if (linkQuadrant === 'bottom left') {
-          hoverCard.style.top = '-' + (hoverCardRect.height + linkRect.height) + 'px';
-          hoverCard.style.right = '0px;'
+          hoverCard.style.top = 'auto';
+          // "container" of hovercard has 0 area and its position does not line up with either the top or bottom of the hover link
+          hoverCard.style.bottom = (hoverCardContainerRect.top - linkRect.top) + hovercardBufferPx + 'px';
+          hoverCard.style.left = hovercardBufferPx + 'px';
+          hoverCard.style.right = 'auto';
         } else if (linkQuadrant === 'bottom right') {
-          hoverCard.style.top = '-' + (hoverCardRect.height + linkRect.height) + 'px';
-          hoverCard.style.right = linkRect.width + 'px';
+          hoverCard.style.top = 'auto';
+          // "container" of hovercard has 0 area and its position does not line up with either the top or bottom of the hover link
+          hoverCard.style.bottom = (hoverCardContainerRect.top - linkRect.top) + hovercardBufferPx + 'px';
+          hoverCard.style.left = 'auto';
+          hoverCard.style.right = linkRect.width + hovercardBufferPx + 'px';
         } else if (linkQuadrant === 'top right') {
-          hoverCard.style.top = '0px';
-          hoverCard.style.right = linkRect.width + 'px';
+          hoverCard.style.top = hovercardBufferPx + 'px';
+          hoverCard.style.left = 'auto';
+          hoverCard.style.right = linkRect.width + hovercardBufferPx + 'px';
         }
       });
     }
