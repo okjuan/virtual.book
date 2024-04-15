@@ -39,9 +39,9 @@ module Jekyll
 
     def insertHoverCards(post, site)
         post.output = post.output.gsub(/<a id="(.*?)" class="internal-site-link"(.*?)<\/a>/) do
-          id = $1
+          post_name = $1
           restOfLink = $2
-          linked_post = site.posts.docs.find { |post| post.id == id }
+          linked_post = site.posts.docs.find { |post| File.basename(post.basename, ".md") == post_name }
           title = linked_post.data['title']
 
           doc = Nokogiri::HTML::DocumentFragment.parse(linked_post.output)
