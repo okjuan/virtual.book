@@ -12,7 +12,7 @@ module Jekyll
       site = context.registers[:site]
       post = site.posts.docs.find { |p| File.basename(p.basename, ".md") == @post_name }
       if post
-        "<a id='#{post.id}' class='internal-site-link' href='#{site.baseurl}#{post.permalink}'>#{@text}</a>"
+        "<a id='#{@post_name}' class='internal-site-link' href='#{site.baseurl}#{post.permalink}'>#{@text}</a>"
       else
         puts "ERROR:\n\tPost not found: @post_name=#{@post_name}\nERROR\n"
       end
