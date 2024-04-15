@@ -23,24 +23,19 @@ var observer = new IntersectionObserver(function(entries) {
         var linkQuadrant = linkCenterX < viewportCenterX
           ? linkCenterY < viewportCenterY ? 'top left' : 'bottom left'
           : linkCenterY < viewportCenterY ? 'top right' : 'bottom right';
-        if (linkQuadrant === 'top left') {
+
+        if (linkQuadrant.startsWith('top')) {
           hoverCard.style.top = hovercardBufferPx + 'px';
-          hoverCard.style.left = hovercardBufferPx + 'px';
-          hoverCard.style.right = 'auto';
-        } else if (linkQuadrant === 'bottom left') {
+        } else {
           hoverCard.style.top = 'auto';
           // "container" of hovercard has 0 area and its position does not line up with either the top or bottom of the hover link
           hoverCard.style.bottom = (hoverCardContainerRect.top - linkRect.top) + hovercardBufferPx + 'px';
+        }
+
+        if (linkQuadrant.endsWith('left')) {
           hoverCard.style.left = hovercardBufferPx + 'px';
           hoverCard.style.right = 'auto';
-        } else if (linkQuadrant === 'bottom right') {
-          hoverCard.style.top = 'auto';
-          // "container" of hovercard has 0 area and its position does not line up with either the top or bottom of the hover link
-          hoverCard.style.bottom = (hoverCardContainerRect.top - linkRect.top) + hovercardBufferPx + 'px';
-          hoverCard.style.left = 'auto';
-          hoverCard.style.right = linkRect.width + hovercardBufferPx + 'px';
-        } else if (linkQuadrant === 'top right') {
-          hoverCard.style.top = hovercardBufferPx + 'px';
+        } else {
           hoverCard.style.left = 'auto';
           hoverCard.style.right = linkRect.width + hovercardBufferPx + 'px';
         }
