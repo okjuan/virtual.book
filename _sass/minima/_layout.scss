@@ -438,7 +438,8 @@ em, i {
   background-color: $background-color;
   border: 1px solid $border-color-01;
   border-radius: 10px;
-  margin: 0.75em;
+  left: 5px; // hovercardBufferPx in post.js
+  top: 5px; // hovercardBufferPx in post.js
   padding: 1em;
   overflow: hidden;
   overflow-y: auto;
