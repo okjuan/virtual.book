@@ -6,8 +6,8 @@ var observer = new IntersectionObserver(function(entries) {
     const hoverCard = entry.target;
     if (hoverCard.style.display != 'none') {
       window.requestAnimationFrame(function() {
-        var rect = hoverCard.getBoundingClientRect();
-        var fullyInView = rect.top >= 0 && rect.left >= 0 && rect.bottom <= window.innerHeight && rect.right <= window.innerWidth;
+        var hoverCardRect = hoverCard.getBoundingClientRect();
+        var fullyInView = hoverCardRect.top >= 0 && hoverCardRect.left >= 0 && hoverCardRect.bottom <= window.innerHeight && hoverCardRect.right <= window.innerWidth;
         if (fullyInView) {
             return;
         }
@@ -26,10 +26,10 @@ var observer = new IntersectionObserver(function(entries) {
           hoverCard.style.top = '0px';
           hoverCard.style.right = '0px;'
         } else if (linkQuadrant === 'bottom left') {
-          hoverCard.style.top = '-' + (rect.height + linkRect.height) + 'px';
+          hoverCard.style.top = '-' + (hoverCardRect.height + linkRect.height) + 'px';
           hoverCard.style.right = '0px;'
         } else if (linkQuadrant === 'bottom right') {
-          hoverCard.style.top = '-' + (rect.height + linkRect.height) + 'px';
+          hoverCard.style.top = '-' + (hoverCardRect.height + linkRect.height) + 'px';
           hoverCard.style.right = linkRect.width + 'px';
         } else if (linkQuadrant === 'top right') {
           hoverCard.style.top = '0px';
