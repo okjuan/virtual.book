@@ -5,7 +5,7 @@ permalink: /vieux-farka-toure
 tags: journal concerts live-music
 ---
 
-On a late evening walk on my own I walked past a theatre that I knew nothing about.
+Walking on a late evening on my own I passed a theatre I knew nothing about.
 <!--more-->
 I looked up what shows they had coming up and saw that Vieux Farka Touré was playing that week.
 I confirmed that he was the artist who had released a collaborative album with Khruangbin and mulled over buying tickets before realizing it was sold out.
