@@ -26,4 +26,4 @@ It can seem corny or gimmicky to muse about the unlikeliness of life, but it's u
 As our life progresses, the array of people you may become narrows and narrows until finally there are no more possibilities.
 You can't live more than one life, but you can live as a number of people, various versions of yourself.
 Who those people are depends greatly on luck beyond your control, but also on the opportunities to transform to which we offer ourselves.
-It isn't just design and foresight we need to realize ourselves, but courage to toss ourselves into the fire and let it forge of us what it will.
+It isn't just design and foresight we need to realize ourselves, but knowledge and acceptance of our susceptibility to external forces and the resulting courage to toss ourselves into the fire and let it forge of us what it will.
