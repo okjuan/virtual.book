@@ -19,9 +19,9 @@ We had another roommate lined up, but he backed out.
 
 Of course, this is only one of many _ifs_.
 She would've never moved in if we hadn't met her through my wife's Bumble BFF friend, who my wife only met because she was visiting me so frequently in Seattle.
-And my wife would've never been in Seattle to befriend anyone if I hadn't gone back to my mom's house in Victoria during the summer of 2020, which only happened because of a global pandemic called Covid-19.
+And my wife would've never been in Seattle to befriend anyone if I hadn't stayed in Victoria for the summer of 2020, which only happened because of a global pandemic called Covid-19.
 
-So many of the stable and essential aspects of our lives lay their roots through the most tenuous strands of chance and circumstance.
+Before they lay their roots so many of the stable and essential elements of our lives come into them through the most tenuous strands of chance and circumstance.
 It can seem corny or gimmicky to muse about the unlikeliness of life, but it's useful to consider because it's true.
 As your life progresses, the array of people you may become shrinks and narrows until finally there are no more possibilities.
 You can't live more than one life, but you can live as a number of people, various versions of yourself.
