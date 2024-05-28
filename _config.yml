@@ -31,13 +31,6 @@ show_excerpts: true
 
 excerpt_separator: <!--more-->
 
-plugins:
-  - jekyll-last-modified-at
-
-# Optional. The default date format, used if none is specified in the tag.
-last-modified-at:
-    date-format: '%d-%b-%y'
-
 defaults:
   - scope:
       type: tags  # select all tag pages

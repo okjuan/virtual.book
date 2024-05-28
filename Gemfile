@@ -26,8 +26,6 @@ group :jekyll_plugins do
   # - https://stackoverflow.com/questions/68518590/does-minima-dark-skin-work-on-github-ages
   gem "jekyll-remote-theme"
   gem "jekyll-seo-tag"
-
-  gem "jekyll-last-modified-at"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
