@@ -2,7 +2,7 @@
 layout: post
 title: "how things lead to other things"
 permalink: /things-lead-to-things
-tags: notes writing life chance fate
+tags: writing life chance fate
 ---
 
 Our roommate started dating our neighbor a couple months ago and it's going great.
