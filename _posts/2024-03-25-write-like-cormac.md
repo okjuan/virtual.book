@@ -8,7 +8,7 @@ tags: notes writing literature
 The main reason I read Cormac McCarthy is to experience and learn from his writing craft.
 <!--more-->
 
-Here is his description of two salvage divers investigating a sunken airplane at the beginning of his penultimate novel, _The Passenger_:
+Here is his description of two salvage divers investigating a sunken airplane at the beginning of his penultimate novel, {% post_url_with_hover_card _The Passenger_ | 2024-06-15-the-passenger %}:
 > Oiler had cut away the latching mechanism and the door stood open.
 > He was just inside the plane crouched against the bulkhead.
 > He gestured with his head and Western pulled up in the door and Oiler shone his light down the aircraft aisle.

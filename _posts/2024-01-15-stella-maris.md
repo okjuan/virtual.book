@@ -11,7 +11,7 @@ I'm 120 pages into this book and so far it has consisted purely of dialogue betw
 Dialogue between these two I expect will fill the rest of the book.
 It's an exciting endeavor to witness Cormac attempt.
 
-He published this book alongside _The Passenger_ in 2022 as a "companion novel" known also as _The Passenger #2_.
+He published this book alongside {% post_url_with_hover_card _The Passenger_ | 2024-06-15-the-passenger %} in 2022 as a "companion novel" known also as _The Passenger #2_.
 I tried this one first though because among its topics are math and philosophy.
 It is set chronologically after _The Passenger_, but my impression, assembled from fragments of scantily skimmed book summaries, is that reading them in either order is fine.
 
