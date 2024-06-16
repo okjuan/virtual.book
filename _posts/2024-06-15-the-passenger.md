@@ -47,7 +47,7 @@ Here, from page 184, is one of the most memorable:
 > Dont be afraid for me, she had written.
 > When has death ever harmed anyone?
 
-The prose, of course, is a major reason I keep picking up books written by McCarthy.
+The prose is a major reason I keep picking up books written by McCarthy.
 Who else writes like this?
 
 Here, from pages 115 and 116, is another striking example of McCarthy's prose -- a description of the scenes following the dropping of the atomic bombs in Japan:
