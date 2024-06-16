@@ -13,20 +13,20 @@ It remains an anonymous threat hanging over the protagonist's head, a darkling m
 It's a confounding book, and one that I would be thrilled to see adapted into film by David Lynch.
 
 It is never clear who is after the protagonist, Bobby, or why.
-It seems at first related to his witnessing a suspicious scene in a sunken airplane while working as a salvage diver.
-Later, it appears that anonymous authorities are after his father's old papers.
-Mysterious men pay visits but never do much other than ask questions.
+It seems at first related to his presence at a suspicious scene in a sunken airplane, which he encountered while working as a salvage diver.
+Later, it seems that anonymous authorities are after his father's old papers.
+Mysterious men pay visits and ask questions but never do much more.
 Some of Bobby's papers are seized.
 His cat disappears.
 His car get confiscated.
 The persecution seems endorsed by or operated through the US government, but it's carried out obliquely and underhandedly.
 
-Bobby seems to live his life as a sort of penance.
-All throughout the novel, he is in limbo, with an apparent ambivalence towards life that has him constantly approaching and evading danger, all the while awaiting death.
+Persecution aside, Bobby seems to live his life in penance.
+He is stuck in limbo, confined by his apparent ambivalence towards life, which has him constantly approaching and evading danger, all the while awaiting death.
 He camps out for a while in a shed near a deserted beach.
 When his stalkers seem to be closing in, he flees from New Orleans to Idaho and squats in a derelict house in the freezing cold.
-In the end, he settles in the southern coast of Spain, living alone in the loft inside a windmill.
-Here, in the quiet, removed from his usual ambit -- eating, drinking, and conversing with friends -- the pitch of his grief reaches shrieking, hallucinatory levels, setting the stage for quasi-spiritual moments of revelation.
+In the end, he settles in the southern coast of Spain, holed up in a windmill with a crumbling roof.
+In the quiet of these exiles, without the comfort of shared food, drink, and conversation, the pitch of his grief reaches shrieking, hallucinatory levels, setting the stage for quasi-spiritual moments of revelation.
 
 The most potent aspect of this book is probably its mood, which reflects the hopeless remorse that Bobby feels.
 Remorse for the unholy devastation of Hiroshima and Nagasaki that his father and mother helped engineer.
@@ -34,8 +34,8 @@ Regret for his helplessness before the great mysteries of mathematics and physic
 In these Bobby seems to bear the burden not just for himself and his family, but for all of humanity.
 Principally, however, Bobby's remorse and grief are for his inability to prevent his sister's suicide and their inability to enact the deep, incestuous love between them.
 
-The other great boon, the main reason I keep coming back to Cormac's books, is the prose.
-Here is an excerpt from page 184, describing a dream Bobby has of his sister Alicia:
+Throughout the book, Cormac depicts Bobby's agonizing internal conflict regarding his feelings for his sister.
+Here, from page 184, is one of the most memorable:
 > In his dreams of her she wore at times a smile he tried to remember and she would say to him almost in a chant words he could scarcely follow.
 > He knew that her lovely face would soon exist nowhere save in his memories and in his dreams and soon after that nowehere at all.
 > She came in half nude trailing sarsenet or perhaps just her Grecian sheeting crossing a stone stage in the smoking footlamps or she would push back the cowl of her robe and her blonde hair would fall about her face as she bent to him where he lay in the damp and clammy sheets and whisper to him I'd have been your shadowlane, the keeper of that house alone wherein your soul is safe.
@@ -47,7 +47,11 @@ Here is an excerpt from page 184, describing a dream Bobby has of his sister Ali
 > Dont be afraid for me, she had written.
 > When has death ever harmed anyone?
 
-Here is his description of the scenes following the dropping of the atomic bombs in Japan, from pages 115 and 116:
+The prose, of course, is a major reason I keep picking up books written by McCarthy.
+Who else writes like this?
+
+Here, from pages 115 and 116, is another striking example of McCarthy's prose -- a description of the scenes following the dropping of the atomic bombs in Japan:
+
 > There were people who escaped from Hiroshima and rushed to Nagasaki to see that their loved ones were safe.
 > Arriving just in time to be incinerated.
 > He went there after the war with a team of scientists.
@@ -75,7 +79,10 @@ Here is his description of the scenes following the dropping of the atomic bombs
 > Then the unspeakable noise.
 > They saw birds in the dawn sky ignite and explode soundlessly and fall in long arcs earthward like burning party favors.
 
+McCarthy doesn't make it clear what "truth" the mushroom cloud embodied, but it is certainly not a comforting one.
+
 Later, on pages 175 and 176, he describes a factory where uranium was prepared for the bombs:
+
 > His mother was nineteen when she went to work at Y-12, the electromagnetic separation plant.
 > One of the three processes for the separation of the uranium 235 isotope.
 > The workers were driven out to the compound in buses, bumping over the rough graded road, through dust or mud given the weather.
@@ -93,3 +100,6 @@ Later, on pages 175 and 176, he describes a factory where uranium was prepared f
 > Measuring them a hundred thousand times each second.
 > The magnets that propelled them were seven feet in diameter and the windings were of solid silver fabricated from fiteen thousands tons of it borrowed from the US Treasury because all the copper had already gone into the war effort.
 > An older woman told her that the first day with the women all at their stations and having no least notion what any of this was about the engineers had thrown the consecutive switches and an enormous dynamo hum filled the hall and hairpins in their hundreds shot from the women's heads and crossed the room like hornets.
+
+That last sentence is exquisitely crafted.
+Fifty eight words, no comma, no ambiguity, all vivid.
