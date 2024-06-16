@@ -87,3 +87,7 @@ page 184:
 He drops apostrophes from contractions like **didnt** but keeps them in **I'm** and **I'll**, presumably to avoid ambiguity.
 He never uses semicolons.
 Nor does he use quotation marks -- not even in dialogue.
+
+---
+
+> God’s own mudlark trudging cloaked and muttering the barren selvage of some nameless desolation where the cold sidereal sea breaks and seethes and the storms howl in from out of that black and heaving alcahest
