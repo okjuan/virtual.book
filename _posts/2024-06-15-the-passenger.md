@@ -9,17 +9,17 @@ tags: reviews books fiction literature
 This novel is like a long, restless dream of ineffable deadlock.
 <!--more-->
 Tension builds along one plotline, but then neither resolves nor dissipates completely.
-It remains an anonymous threat hanging over the protagonist Bobby's head, a darkling mystery suspended, never precipitating.
+It remains an anonymous threat hanging over the protagonist's head, a darkling mystery suspended, never precipitating.
 It's a confounding book, and one that I would be thrilled to see adapted into film by David Lynch.
 
-It is never clear who is after Bobby and why.
+It is never clear who is after the protagonist, Bobby, or why.
 It seems at first related to his witnessing a suspicious scene in a sunken airplane while working as a salvage diver.
 Later, it appears that anonymous authorities are after his father's old papers.
 Mysterious men pay visits but never do much other than ask questions.
 Some of Bobby's papers are seized.
 His cat disappears.
 His car get confiscated.
-The persecution seems endorsed by or operated through the US government, but it's carried out obliquely and illegitimately.
+The persecution seems endorsed by or operated through the US government, but it's carried out obliquely and underhandedly.
 
 Bobby seems to live his life as a sort of penance.
 All throughout the novel, he is in limbo, with an apparent ambivalence towards life that has him constantly approaching and evading danger, all the while awaiting death.
