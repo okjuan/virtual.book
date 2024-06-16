@@ -24,6 +24,6 @@ This book is clearly a product of the years Cormac spent at the Santa Fe Institu
 Much of what the protagonist Alicia says -- about the unconscious, Wittgenstein, Heidegger, mathematics  -- Cormac himself says in conversation with SFI's President David Krakauer in [this interview](https://youtu.be/HrUy1Vn2KdI?si=awtdDfdZqwE7qzfS) from 2017.
 The interview is good companion material to the companion novel.
 
-This book reminds me of another, which I intend to return to when I finish this one: [A Dialogue on Personal Identity and Immortality](https://www.goodreads.com/book/show/782783.A_Dialogue_on_Personal_Identity_and_Immortality), in which a philosopher lying on his deathbed argues with his friends against the likelihood of an afterlife.
+This book reminds me of another, which I intend to return to when I finish this one: [A Dialogue on Personal Identity and Immortality](https://www.goodreads.com/book/show/782783.A_Dialogue_on_Personal_Identity_and_Immortality), in which a philosopher lying on her deathbed argues with her friend against the likelihood of an afterlife.
 In _Stella Maris_ death also looms -- not just over the protagonist but also its author.
 Cormac died six months after this final publication.
