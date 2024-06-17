@@ -6,8 +6,7 @@ permalink: /the-passenger
 tags: reviews books fiction literature
 ---
 
-This novel is like a long, restless dream.
-A deadlock.
+This novel is like a long, restless dream deadlocked on guilt and desire.
 <!--more-->
 Tension builds along one plotline, but then neither resolves nor dissipates completely.
 It remains an anonymous threat hanging over the protagonist's head, a darkling mystery suspended, never precipitating.
