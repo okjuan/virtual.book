@@ -8,21 +8,21 @@ tags: reviews books fiction literature
 
 This novel is like a long, restless dream about a man paralyzed by his guilt and his grief.
 <!--more-->
-Tension builds along one plotline, but then neither resolves nor dissipates completely.
+Along one plotline tension builds, but then neither resolves nor dissipates completely.
 It remains an anonymous threat hanging over the protagonist's head, a darkling mystery suspended, never precipitating.
 It's a confounding book, and one that I would be thrilled to see adapted into film by David Lynch.
 
 It is never clear who is after the protagonist, Bobby, or why.
 It seems at first related to his presence at a suspicious scene in a sunken airplane, which he encountered while working as a salvage diver.
 Later, it seems that anonymous authorities are after his father's old papers.
-Mysterious men pay visits and ask questions but never do much more.
-Some of Bobby's papers are seized.
+Mysterious men pay periodic visits and ask questions.
+Some of Bobby's belongings are stolen.
 His cat disappears.
 His car get confiscated.
-The persecution seems endorsed by or operated through the US government, but it's carried out obliquely and underhandedly.
+The persecution seems operated through the US government, but it's carried out obliquely and underhandedly.
 
-Persecution aside, Bobby seems to live his life in penance.
-He is stuck in limbo, confined by his apparent ambivalence towards life, which has him constantly approaching and evading danger, all the while awaiting death.
+Regardless, Bobby lives his life as if in penance.
+He is stuck in limbo, confined by his apparent ambivalence towards life, which has him constantly approaching and evading danger, all the while awaiting his death.
 He camps out for a while in a shed near a deserted beach.
 When his stalkers seem to be closing in, he flees from New Orleans to Idaho and squats in a derelict house in the freezing cold.
 In the end, he settles in the southern coast of Spain, holed up in a windmill with a crumbling roof.
@@ -48,7 +48,7 @@ Here, from page 184, is one of the most memorable:
 > When has death ever harmed anyone?
 
 The prose is a major reason I keep picking up books written by McCarthy.
-Who else writes like this?
+Who else {% post_url_with_hover_card writes like this | 2022-09-09-learning-to-dress %}?
 
 Here, from pages 115 and 116, is another striking example of McCarthy's prose -- a description of the scenes following the dropping of the atomic bombs in Japan:
 
@@ -102,4 +102,4 @@ Later, on pages 175 and 176, he describes a factory where uranium was prepared f
 > An older woman told her that the first day with the women all at their stations and having no least notion what any of this was about the engineers had thrown the consecutive switches and an enormous dynamo hum filled the hall and hairpins in their hundreds shot from the women's heads and crossed the room like hornets.
 
 That last sentence is exquisitely crafted.
-Fifty eight words, no comma, no ambiguity, all vivid.
+A tremendously vivid scene realized in fifty eight words assembled fluidly without any interrupting punctuation.
