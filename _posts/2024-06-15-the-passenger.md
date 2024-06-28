@@ -37,7 +37,7 @@ Principally, however, Bobby's remorse and grief are for his inability to prevent
 Throughout the book, Cormac depicts Bobby's agonizing internal conflict regarding his feelings for his sister.
 Here, from page 184, is one of the most memorable:
 > In his dreams of her she wore at times a smile he tried to remember and she would say to him almost in a chant words he could scarcely follow.
-> He knew that her lovely face would soon exist nowhere save in his memories and in his dreams and soon after that nowehere at all.
+> He knew that her lovely face would soon exist nowhere save in his memories and in his dreams and soon after that nowhere at all.
 > She came in half nude trailing sarsenet or perhaps just her Grecian sheeting crossing a stone stage in the smoking footlamps or she would push back the cowl of her robe and her blonde hair would fall about her face as she bent to him where he lay in the damp and clammy sheets and whisper to him I'd have been your shadowlane, the keeper of that house alone wherein your soul is safe.
 > And all the while a clangor like the labor of a foundry and dark figures in silhouette about the alchemic fires, the ash and the smoke.
 > The floor lay littered with the stillborn forms of their efforts and still they labored on, the raw halfsentient mud quivering red in the autoclave.
@@ -48,7 +48,7 @@ Here, from page 184, is one of the most memorable:
 > When has death ever harmed anyone?
 
 The prose is a major reason I keep picking up books written by McCarthy.
-Who else {% post_url_with_hover_card writes like this | 2022-09-09-learning-to-dress %}?
+Who else {% post_url_with_hover_card writes like this | 2024-03-25-write-like-cormac.md %}?
 
 Here, from pages 115 and 116, is another striking example of McCarthy's prose -- a description of the scenes following the dropping of the atomic bombs in Japan:
 
