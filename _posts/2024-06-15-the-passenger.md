@@ -48,7 +48,7 @@ Here, from page 184, is one of the most memorable:
 > When has death ever harmed anyone?
 
 The prose is a major reason I keep picking up books written by McCarthy.
-Who else {% post_url_with_hover_card writes like this | 2024-03-25-write-like-cormac.md %}?
+Who else {% post_url_with_hover_card writes like this | 2024-03-25-write-like-cormac %}?
 
 Here, from pages 115 and 116, is another striking example of McCarthy's prose -- a description of the scenes following the dropping of the atomic bombs in Japan:
 
