@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-09-03
 layout: post
 title: a writing exercise
 permalink: /writing-exercise

@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-01-24
 layout: post
 title: "writing <i>The Virtual Book</i>"
 permalink: /writing-the-virtual-book

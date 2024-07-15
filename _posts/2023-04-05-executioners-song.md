@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-03-12
 layout: post
 title: The Executioner's Song (1979)
 subsubtitle: by Norman Mailer

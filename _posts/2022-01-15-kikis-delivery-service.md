@@ -1,4 +1,5 @@
 ---
+modified_date: 2023-10-19
 layout: post
 title: Kiki's Delivery Service (1989)
 permalink: /kikis-delivery-service

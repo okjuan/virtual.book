@@ -1,4 +1,5 @@
 ---
+modified_date: 2023-11-22
 layout: post
 title: "how to come up with ideas #2"
 permalink: /come-up-with-ideas-2

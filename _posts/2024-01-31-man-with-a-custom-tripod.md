@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-02-01
 layout: post
 title: man with a custom tripod
 permalink: /man-with-a-custom-tripod

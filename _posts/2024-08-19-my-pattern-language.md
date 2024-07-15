@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-08-31
 layout: post
 title: my pattern language
 permalink: /my-pattern-language

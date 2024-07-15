@@ -1,4 +1,5 @@
 ---
+modified_date: 2023-11-07
 layout: post
 title: In Defense of Food (2008)
 subsubtitle: by Michael Pollan

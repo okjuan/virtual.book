@@ -1,4 +1,5 @@
 ---
+modified_date: 2023-10-19
 layout: post
 title: 'Daring: My Passages (2014)'
 subsubtitle: by Gail Sheehy

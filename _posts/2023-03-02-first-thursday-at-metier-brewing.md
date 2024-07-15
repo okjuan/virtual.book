@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-02-26
 layout: post
 title: first thursday at metier brewing
 permalink: /metier-brewing

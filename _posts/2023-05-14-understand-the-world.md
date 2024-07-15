@@ -1,4 +1,5 @@
 ---
+modified_date: 2023-10-19
 layout: post
 title: how to understand the world
 permalink: /understand-the-world

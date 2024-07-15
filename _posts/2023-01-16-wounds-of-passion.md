@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-03-12
 layout: post
 title: Wounds of Passion (1997)
 subtitle: A Writing Life

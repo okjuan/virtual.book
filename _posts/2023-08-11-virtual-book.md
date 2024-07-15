@@ -1,4 +1,5 @@
 ---
+modified_date: 2023-11-15
 layout: post
 title: what is a virtual book?
 note: "Dedicated to <a href='https://en.wikipedia.org/wiki/Aaron_Swartz'>Aaron Swartz</a>."
