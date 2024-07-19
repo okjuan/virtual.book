@@ -54,13 +54,12 @@ If this book is no longer doing it for you, move on.
 There are millions of other books and many of them are better than this one.
 If you can cut your losses and push through the unpleasantness that comes with doing so, you've likely made the optimal choice.
 
-### Pick Any Other Reason
-#### So You Can Read Other Books
+### Read Other Books
 If you feel guilty about not finishing a book you're currently reading, you probably won't start a new book.
 And so, if the book you're reading loses your interest, you'll end up losing steam and maybe reading no book at all.
 Unless it is important to you to finish this specific book, why not move on and keep your momentum going? By leaving a book unfinished and feeling good about it, you allow yourself to start a new book with excitement instead of guilt.
 
-#### You're Not Absorbing Much Anymore
+### You're Not Absorbing Much Anymore
 We've all finished reading a paragraph only to realize that we didn't absorb much of the information at all.
 It can happen when we're having trouble focusing, but it can also happen when you've lost interest.
 That's okay.
@@ -68,12 +67,12 @@ It might be time to move on.
 Life is long, you can come back to this book in some weeks, months, or even years if it's a book you think is worth reading eventually.
 By moving on, you are valuing results above all else.
 
-#### To Sacrifice Depth for Breadth
+### Sacrifice Depth for Breadth
 If you learn to ditch books with confidence, you'll cover more variety of material.
 I think this is true not only because you start the next book sooner, but also because you avoid the reading slump you'll inevitably hit when you've committed to a book that you have no interest in reading.
 By moving on to another book, you're covering more ground when it isn't worth staying put and drilling down for more.
 
-#### Because It’s Actually Not Worth Your Time
+### It’s Not Worth Your Time
 You might benefit a lot from a book early on, but less so in later chapters.
 Perhaps you’ve effectively satisfied your curiosity, or maybe the book’s value is distributed unevenly across its sections.
 Regardless, you’re facing [diminishing returns](https://en.wikipedia.org/wiki/Diminishing_returns) and the book might not be worth your time anymore.
