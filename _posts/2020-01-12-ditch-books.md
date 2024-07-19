@@ -47,8 +47,7 @@ Sometimes, you benefit by leaving a book unfinished and moving on to another ins
 In that case, by quitting the book, you're overriding a psychological flaw and making a more rational choice.
 
 The **sunk-cost fallacy**, as defined in [Thinking, Fast & Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman is:
-
-The decision to invest additional resources in a losing account, when better investments are available.
+> The decision to invest additional resources in a losing account, when better investments are available.
 
 We fall prey to this error when we stick stubbornly with a book just because of the time we've already sunk into it.
 If this book is no longer doing it for you, move on.
