@@ -33,4 +33,4 @@ Lynch doesn't try to depict reality with his movies.
 He'll use cars from the 50s, outfits from the 80s, and hairstyles from the 90s at same time if he wants to.
 What matters is that he captures the right mood, the right feel, and that he stays true to the ideas that {% post_url_with_hover_card come to him | 2021-02-01-think-invisibly %}.
 
-<iframe style="border-radius:12px" width="100%" height="400" src="https://www.youtube.com/embed/UPYxcwwE5bU?si=3qvaJRHT1piXGmFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="border-radius:12px; margin-bottom: 15px;" width="100%" height="400" src="https://www.youtube.com/embed/UPYxcwwE5bU?si=3qvaJRHT1piXGmFt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

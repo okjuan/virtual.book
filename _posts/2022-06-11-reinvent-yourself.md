@@ -12,7 +12,7 @@ It eases in with watery synths and a muted trumpet, then a jagged riff played si
 The repetition of the riff becomes our steadying grip as the pace quickens and more instruments enter the flurry, each swirling in its own direction.
 For thirteen minutes, we follow Herbie and his crew as they chase the thrill of charting new territory.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1sVytlU6dIAsqTh7nvvYDN?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px; margin-bottom: 15px;" src="https://open.spotify.com/embed/track/1sVytlU6dIAsqTh7nvvYDN?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Navigating Herbie’s diverse discography is just as difficult.
 A musical genius with a tinkering habit, Herbie composed jazz standards like [_Cantaloupe Island_](https://open.spotify.com/track/0sCeNwt8xRCMR4NhKpMyBe?si=16f0f4368bd24909) in the 60s, made [funk classics](https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR?si=344c6dba0713440b) in the 70s, and brought [DJ scratching](https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So?si=a598e86bedcb4510) into the mainstream in the 80s.
@@ -47,4 +47,4 @@ In 1973, months after releasing his last _Mwandishi_ record, Herbie released the
 _Actual Proof_, a song from the second Headhunters album, is named after Nichiren Buddhism’s promise to benefit one’s earthly life.
 
 <br/>
-<iframe style="border-radius:12px" width="100%" height="400" src="https://www.youtube.com/embed/reCo-EfiuD8?si=JMfHrN8wbWpVS52o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="border-radius:12px; margin-bottom: 15px;" width="100%" height="400" src="https://www.youtube.com/embed/reCo-EfiuD8?si=JMfHrN8wbWpVS52o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

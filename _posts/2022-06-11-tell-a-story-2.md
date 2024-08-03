@@ -28,7 +28,7 @@ His description of Lynch’s worst work as “still [radiating] a unique quality
 Dubbing audio over video is so common on YouTube that it’s easy to overlook how well it works.
 Imagine [What Song Are You Listening To?](https://youtu.be/tvHRUY0tBcs) videos without the song snippets: suddenly it would be as awkward to watch as it probably was to record.
 
-<iframe style="border-radius:12px" width="100%" height="400" src="https://www.youtube.com/embed/v0T2aE7QQSs?si=WIz2ov9r8JU1EVAZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="border-radius:12px; margin-bottom: 15px;" width="100%" height="400" src="https://www.youtube.com/embed/v0T2aE7QQSs?si=WIz2ov9r8JU1EVAZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Like authors, journalists and essayists insist on writing things the reader needs to see or hear.
 Pieces like _The New Yorker_’s [recent one](https://www.newyorker.com/magazine/2022/02/28/florine-stettheimer-artist-book-review-barbara-bloemink) on painter Florine Stettheimer lack samples of the visual art they talk about, leaving the reader to collect descriptions of the painter’s style — “feathery, ornamental…faux-naïf, fluorescent” — and try to hold them, as they spill out of mind like water out of cupped hands, until they can look up her paintings.
@@ -37,4 +37,4 @@ Why work so hard? Is this the writer’s job or the reader’s? The piece leaves
 This is {% post_url_with_hover_card not | 2023-03-09-justify-writing %} to say we abandon writing.
 But can we compensate for its weaknesses by {% post_url_with_hover_card exploring other formats | 2022-06-11-show-instead-of-telling %}?
 
-<iframe style="border-radius:12px" width="100%" height="400" src="https://www.youtube.com/embed/bAX9_rDvO_c?si=-KdSp76aXrly-Kc-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="border-radius:12px; margin-bottom: 15px;" width="100%" height="400" src="https://www.youtube.com/embed/bAX9_rDvO_c?si=-KdSp76aXrly-Kc-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -19,4 +19,4 @@ All the instruments sounded great, especially the percussion and the guitar, but
 I've since returned to _Ali_, his album with Khruangbin, and confirmed that it doesn't do his voice justice.
 Live it was spellbinding.
 
-<iframe style="border-radius:12px" width="100%" height="400" src="https://www.youtube.com/embed/18YKj7oF76g?si=dVnr1D1wsZQ9wG66" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="border-radius:12px; margin-bottom: 15px;" width="100%" height="400" src="https://www.youtube.com/embed/18YKj7oF76g?si=dVnr1D1wsZQ9wG66" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
