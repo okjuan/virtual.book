@@ -29,3 +29,6 @@ I intended them to be placeholders, but they may hold their place after all.
 I think I can leave it as it is, at least for now.
 It communicates Bob's buoyant spirit and his delightful way of speaking, which is the main reason I wanted to write this piece.
 It's good enough to post.
+
+Now it's the following morning and I'm making small edits.
+Tweaking phrasing, rewriting one sentence, and capitalizing the first letter of phrases when Bob was quoting others.
