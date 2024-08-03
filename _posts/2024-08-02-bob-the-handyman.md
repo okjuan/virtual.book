@@ -59,7 +59,7 @@ I mean, does she write fiction or non-fiction?
 His wife had written a story about him pushing his son around in a stroller.
 > I was pushing Sam, he was about five years old, in big circles for hours, and he was loving it, all the big trees... up in Carnation.
 
-He told me that his wife had a website where she posted her writing.
+He told me that his wife had a [website](https://anniegrosshans.website/) where she posted her writing.
 I tried the URL he gave me, but it didn't work.
 He came and stood next to my desk, his brow furrowed and head slouching as I typed what he dictated into the URL bar until we got it right.
 > That's her! There she is, my sweetheart!
