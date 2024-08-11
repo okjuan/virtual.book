@@ -10,9 +10,9 @@ What makes Martin Tyler a good commentator?
 
 _(This is a work in progress.)_
 
-He is one of the most recognizable voices of football commentary and has been, for decades, commentating football matches of the English Premier League and UEFA Champions League.
+He is one of the most recognizable voices in football commentary and has been, for decades, commentating football matches of the English Premier League and UEFA Champions League.
 He was voted the FA Premier League Commentator of the Decade in 2003.
-So memorable is his distinct voice that it left an indelible mark in soccer-obsessed childhood in Mexico City, Saturday and Sunday mornings of which I spent playing [FIFA](https://omni.wikiwand.com/en/articles/FIFA_(video_game_series)) on Xbox, to which he lent his voice from 2005 until 2019.
+So memorable is his distinct voice that it left an indelible mark in my soccer-obsessed childhood in Mexico City, Saturday and Sunday mornings of which I spent playing [FIFA](https://omni.wikiwand.com/en/articles/FIFA_(video_game_series)) on Xbox, to which he lent his voice from 2005 until 2019.
 What makes him so good?
 
 First of all, he's nice to listen to.
@@ -22,16 +22,18 @@ His accent is agreeable, his voice is deep and distinctive, and he speaks in lei
 However, mostly pleasing is his eloquence.
 > [Hull City] got their early grip on [the game]. Of course, it's been loosened. Of course, the longer it goes on, you tend to feel, as a seasoned football watcher, that class will out, and there's a bit more class sprinkled in the Arsenal team than the Hull ranks.
 
-Condensed in this small sample are various techniques that make Martin Tyler a stylish orator.
+Condensed in this small sample are four techniques that make Martin Tyler a stylish orator.
 
-One is parallelism -- e.g. sequential statements starting with **Of course** -- which he uses **a lot**.
-Another is his coordination of metaphors: Hull's **grip** being **loosened**.
-He varies how he words things: **the Arsenal team** v.s. **the Hull ranks**.
-Interesting phrasing: **class will out**, which I had to look up to understand.
+# Technique I: Parallelism
 
-After Hull City, shockingly, score a second goal before ten minutes have elapsed:
-> Well, Curtis Davies scored in the fifth round win against Brighton, he scored in the quarter-final win against Sunderland, and he's now scored to give Steve Bruce... well, it's more than a dream, if there is such a thing! It's an unbelievable beginning for the overwhelming underdogs, underdogs with a real bite in them though.
+One of the techniques, which he uses a lot, is parallelism.
+Exemplified in sequential statements starting with **Of course**.
+> Of course, it's been loosened. Of course, the longer it goes on...
 
+Another sample that shows Tyler's use of parallelism:
+> Well, Curtis Davies scored in the fifth round win against Brighton, he scored in the quarter-final win against Sunderland, and he's now scored to give Steve Bruce... well, it's more than a dream, if there is such a thing!
+
+The whole match abounds with examples of parallelism.
 Notice his dual use of **classic** in his reaction to Santi Cazorla's free kick goal:
 > Santi Cazorla! Arsenal one, Hull two. A class free kick, and we're headed for a classic FA Cup final.
 
@@ -41,28 +43,15 @@ A couple minutes later:
 When Arsenal completes their comeback from trailing by two goals to leading by one:
 > The damage seems to be repaired, the comeback looks to be complete.
 
-> Arsenal have never been outside of North London to get to this final in North London.
-Textually, this looks like clunky redundance.
-But when he says it, Tyler emphasizes **get**, which splits the statement into two, symmetrical pieces.
-It's also a subtle way to signal that he intended the repetition, which prevents the listener from interpreting it as clumnsiness.
-
 He even does it when replying the second commentator, who says:
 > It's not the most severe tackle you've ever seen.
 Tyler responds:
 > And it's not the most severe punishment that you've ever seen.
 
-As for **class will out** -- I had to turn up the volume and replay a couple times to make sure I'd heart Martin Tyler right.
-He clearly says **class will out**.
-I googled around and found [this definition](https://en.wiktionary.org/wiki/out#Verb) of **out** as a verb:
-> to become public, revealed, or apparent.
-There is even an example from another football commentator:
-> In those opening minutes City looked like a team that were not ready for Celtic's intensity. They looked a bit shocked to be involved in a fight. Class will out, though.
-
-Tyler's commentary is engaging in part due to his playful and interesting phrases:
-> They will be feeling the pain of a lack of gain, if you like.
-
-When Hull City are losing by one goal in the last few minutes and the camera cuts to Hull's manager, who is wearing long sleeve button up shirt on a sunny day in mid-May:
-> What has Steve Bruce got up those sleeves of his.
+> Arsenal have never been outside of North London to get to this final in North London.
+Textually, this looks like clunky redundance.
+But when he says it, Tyler emphasizes **get**, which splits the statement into two, symmetrical pieces.
+It's also a subtle way to signal that he intended the repetition, which prevents the listener from interpreting it as clumnsiness.
 
 This also highlights another subtle detail of good commentating: addressing what is shown on screen.
 Most of the broadcast consists of
@@ -73,6 +62,28 @@ Tyler contrasts between the mood of Arsenal fans and Hull City fans:
 > Well, they were quiet for a long time, and they were in full voice.
 He says the first part of the sentence when the broadcast shows Arsenal fans leaping and dancing with joy, and then, when it suddenly cuts to a closeup shot of two dejected Hull city fans, he says the second part.
 He delivers the line with such ease that it's easy to forget that he is reacting in real time to what is being shown on screen.
+
+# Technique II: coordination of metaphors
+Another of his techniques, something I've written a lot about, is his coordination of metaphors: Hull's **grip** being **loosened**.
+
+He continues, finishing with a coordinated metaphor:
+> It's an unbelievable beginning for the overwhelming underdogs, underdogs with a real bite in them though.
+
+# Techinque III: variety and playfulness of phrasing
+
+He also varies how he words things: **the Arsenal team** v.s. **the Hull ranks**.
+
+Finally, he uses interesting phrases: **class will out**, which I didn't understand.
+I googled around and found [this definition](https://en.wiktionary.org/wiki/out#Verb) of **out** as a verb:
+> to become public, revealed, or apparent.
+There is even an example from another football commentator:
+> In those opening minutes City looked like a team that were not ready for Celtic's intensity. They looked a bit shocked to be involved in a fight. Class will out, though.
+
+Tyler's commentary is engaging in part due to his playful and interesting phrases:
+> They will be feeling the pain of a lack of gain, if you like.
+
+When Hull City are losing by one goal in the last few minutes and the camera cuts to Hull's manager, who is wearing long sleeve button up shirt on a sunny day in mid-May:
+> What has Steve Bruce got up those sleeves of his.
 
 Variation
 > It's difficult for the referees in the cup final, we've seen it down the years. They want to give everybody a chance. There's been very few dismissals in this prestigious occasion.
@@ -92,6 +103,8 @@ Shortly afterwards, as Davies trots towards his opponent's penalty box, in prepa
 
 Speaking about players sitting on the bench, Tyler says:
 > Maynor Figueroa, you have to feel for him.
+
+# Excitement / Peter Drury
 
 When Aaron Ramsey scores the winning goal in Extra Time, Tyler exclaims:
 > Oh, brilliantly taken! Absolutely brilliantly taken by Aaron Ramsey! He's got one right! And Arsenal finally lead, deep into extra time!
