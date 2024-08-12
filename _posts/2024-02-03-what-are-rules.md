@@ -20,8 +20,8 @@ This move seems normal because of its ubiquity.
 Casual players usually know it.
 And yet they are more baffled by _en passant_, which, compared to castling, is only a small deviation from the core rules.
 
-Once we know the rules of a game, we accept them and quit questioning.
-The better you internalize the rules, the more easily you can abide by them and get to the business of playing the game.
+Once we know the rules of a game, we accept and quit questioning them.
+We are naturally incentivized to do so, since, the better we internalize the rules, the more easily we can abide by them and get to the business of playing the game.
 But games are full of weird rules.
 In basketball, there's a limit of how long the attacking team can have posession in the other team's end.
 Oh, okay.
