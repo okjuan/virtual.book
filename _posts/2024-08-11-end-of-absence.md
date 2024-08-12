@@ -6,7 +6,7 @@ permalink: /end-of-absence
 tags: reviews books technology psychology
 ---
 
-In his book _The End Of Absence_, Michael Harris laments the everpresence of digital technology.
+In his book [_The End Of Absence_](https://www.goodreads.com/book/show/20821373-the-end-of-absence), Michael Harris laments the everpresence of digital technology.
 <!--more-->
 He writes stylishly and gracefully, but he struggles to get a grip on the argument he wants to make.
 I feel his yearning for mindfulness and relate to his distrust for apps and devices that leech on our attention for profit, but I balk at his dismay at seeing a toddler attempt to zoom in on the cover of a magazine as if it were an iPad screen.
