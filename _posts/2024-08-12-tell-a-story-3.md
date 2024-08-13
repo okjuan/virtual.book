@@ -21,7 +21,8 @@ My [suspension of disbelief](https://omni.wikiwand.com/en/articles/Suspension_of
 One might say, Well, yeah, all fictional plots are prescribed.
 But they're not, and writers like Stephen King and Cormac McCarthy have {% post_url_with_hover_card attested to it | 2023-12-01-where-ideas-come-from %}.
 
-Great shows like _The Sopranos_ often feel to me like they are happening spontaneously, developing by themselves as a continuous chain of events, reactions, and actions.
+In great shows like _The Sopranos_, plot is not implemented, it's incubated.
+The show feels to me like it's happening spontaneously, developing by itself as a sequence of events, reactions, and actions.
 In every episode there is constant dialogue between characters and a steady supply of situations that require characters to make decisions.
 Much of the time, these have nothing to do with plot.
 Every season has at least one major narrative arc, but the dependence is flipped.
@@ -31,4 +32,3 @@ Characters are agents, not passengers.
 I don't feel like the writers are leading me to the plot's predetermined destination.
 In fact I don't feel their presence at all.
 I feel like I'm {% post_url_with_hover_card witnessing something | 2022-06-11-tell-a-story %}.
-In _The Sopranos_, plot is not implemented, it's incubated.
