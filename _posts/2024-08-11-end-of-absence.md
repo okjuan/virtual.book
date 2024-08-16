@@ -23,7 +23,7 @@ Harris seems to recognize these two as cynical luddites, but then refuses to ack
 Instead, he sidesteps into a discussion about how tools reshape the psychologies of their wielders.
 It's a real shame, because a serious take on the role of digital technology in our lives cannot ignore either its usefulness or its permanence.
 
-It is clear that this techonological revolution like all others cannot be evaded without exit from society and that it will continue to transform us.
+It is clear that this technological revolution like all others cannot be evaded without exit from society and that it will continue to transform us.
 The question is: how do we incorporate these new technologies into our lives?
 How do we retain their usefulness while minimizing the harm they might do to us?
 
