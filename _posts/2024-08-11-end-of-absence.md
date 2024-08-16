@@ -28,9 +28,9 @@ The question is: how do we incorporate these new technologies into our lives?
 How do we retain their usefulness while minimizing the harm they might do to us?
 
 There are signs, earlier in the book, that the author won't really be trying to sort out this knot and will content himself merely with perusing and picking at it.
-He mourns the end of absence, but never makes it clear where his concept of absence even begins.
+He mourns the "end of absence", but never makes it clear where his concept of "absence" even begins.
 His vignettes hint at some possible meanings -- time without digital technology, time alone out in nature, time to think.
 Is that all?
-These seem like perfectly achievable goals.
+These goals seem perfectly achievable with a little time management.
 Has he tried the Pomodoro Technique?
-Why are we ringing the alarm bells when a simple kitchen timer will do?
+Why ring the alarm bells when a simple kitchen timer will do?
