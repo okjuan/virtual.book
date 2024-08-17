@@ -33,4 +33,4 @@ His vignettes hint at some possible meanings -- time without digital technology,
 Is that all?
 These goals seem perfectly achievable with a little time management.
 Has he tried the Pomodoro Technique?
-Why ring the alarm bells when a simple kitchen timer will do?
+Why ring the alarm bell when a simple kitchen timer will do?
