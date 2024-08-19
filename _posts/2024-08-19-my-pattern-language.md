@@ -16,7 +16,7 @@ That was a few years ago, but its basic idea has stuck with me.
 
 The book lists two hundred and fiftythree architectural and planning concepts -- ranging "from entire regions, through cities, neighborhoods, gardens, buildings, rooms, built-in furniture, and fixtures down to the level of doorknobs," as the [Wikipedia page](https://omni.wikiwand.com/en/articles/A_Pattern_Language) puts it.
 They are defined abstractly, assembled loosely in a network of references, and offered modestly as "hypotheses", proposed solutions to common problems.
-I find the approach -- flexibile and deferential -- rather appealing.
+I find the approach -- flexible and deferential -- rather appealing.
 It's pleasantly surprising to read that it inspired the [first online wiki](https://omni.wikiwand.com/en/articles/WikiWikiWeb).
 I could even see a thread to my {% post_url_with_hover_card virtual book | 2023-08-11-end-of-absence %} concept.
 
