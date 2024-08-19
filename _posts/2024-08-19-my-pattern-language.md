@@ -18,7 +18,7 @@ The book lists two hundred and fiftythree architectural and planning concepts --
 They are defined abstractly, assembled loosely in a network of references, and offered modestly as "hypotheses", proposed solutions to common problems.
 I find the approach -- flexible and deferential -- rather appealing.
 It's pleasantly surprising to read that it inspired the [first online wiki](https://omni.wikiwand.com/en/articles/WikiWikiWeb).
-I could even see a thread to my {% post_url_with_hover_card virtual book | 2023-08-11-end-of-absence %} concept.
+I could even see a thread to my concept of {% post_url_with_hover_card virtual books | 2023-08-11-virtual-book %}.
 
 I love interior design, placemaking, vibesetting.
 I've loved furnishing, laying out, and decorating my apartments, and lately I've been thinking about the most important aspects of my living spaces over time.
