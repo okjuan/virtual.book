@@ -60,6 +60,10 @@ Whenever I see a home tour on YouTube and it lacks a cushy sofa in the living ro
 Armchairs and chairs are not enough.
 For me, couches are fundamental.
 
+I am picky how the couch feels to sit on, too.
+I think I prefer a slightly low and certainly a deep seat.
+Its texture and color matter, too.
+
 ### vi) dishwasher
 
 I don't like to wash dishes by hand.
