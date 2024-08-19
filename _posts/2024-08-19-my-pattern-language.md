@@ -21,8 +21,8 @@ It's pleasantly surprising to read that it inspired the [first online wiki](http
 I could even see a thread to my concept of {% post_url_with_hover_card virtual books | 2023-08-11-virtual-book %}.
 
 I love interior design, placemaking, vibesetting.
-I've loved furnishing, laying out, and decorating my apartments, and lately I've been thinking about the most important aspects of my living spaces over time.
-I've been assembling my own pattern language.
+I've loved furnishing, laying out, and decorating my apartments, and lately I've been mulling over the question: what are, for me, the most important aspects of a living space?
+I like to think about it as assembling my own pattern language.
 
 ### i) a good bed
 
