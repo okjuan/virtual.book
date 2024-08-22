@@ -26,6 +26,7 @@ I like to think about it as assembling my own pattern language.
 
 ### i) a good bed
 
+A full for myself, queen or king if I'm sharing with my wife.
 Two pillows for myself.
 Fitted sheet and a duvet, no top sheet.
 The duvet cover made of a high quality, breathable material in a nice color.
@@ -92,11 +93,13 @@ Makes me sad to watch movies on TV speakers.
 On the walls.
 Nothing fancy.
 Nicelooking stuff and stuff with personal significance.
-Not cheap, generic prints.
+Not generic or massproduced prints.
+Trendy interior design brands have ruined Matisse figure prints, at least for a few years.
 
 ### xi) desk with a monitor
 
 Preferrably with a big table surface.
+Bonus points for a mounted monitor that doesn't take up any deskspace and can be swiveled out of the way.
 
 ### xii) nice dishware
 
@@ -105,8 +108,20 @@ Nice shapes, materials, and weight.
 Uniform cutlery.
 Matching set of dishes, bowls, and bowl plates.
 
-### xiv) easy, fast access to street
+I don't care for the massproduced mugs, regardless of what image or words are imprinted on them.
+I like large handles so that it is easy to hold the mug with one hand without touching or bumping into the hot mug's sidesurface.
 
+### xiv) easy & fast access to street
+
+It's annoying to fish for my keys or a fob to unlock doors.
+For that reason, I sometimes prefer parking on the street than in a garage.
+In general, I love being able to walk out of my home and virtually straight onto the street.
 I like views but they're not worth long elevator waits.
-I love being able to walk out of my home and virtually straight onto the street.
 A view of a nice neighborhood street or of leafy trees is enough for me.
+
+---
+
+After writing the above, I revisited the book.
+Thanks to its relative obscurity, the ebook version was available to borrow immediately from the Seattle Public Library.
+I'm pleased to find out the authors encourage readers to come up with their own pattern languages.
+I also like their idea of ordering from big to small, with forward references that elucidate how subpatterns help realize larger ones and with backreferences to contextualize patterns in larger ones.
