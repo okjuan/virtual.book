@@ -48,6 +48,10 @@ The inconvenience of switching off five lamps in a living room is nothing compar
 For switch-operated room lights, I much prefer track lighting aimed at the wall or lights diffused by rice paper pendants.
 The goal is to create a [soup of light](https://youtube.com/clip/UgkxqTsun7JQzd0off7M8o5DlJ983OV63snW?si=xKxDqYwS4oq-6glt).
 
+Also, as per pattern #252, _pools of light_, lights should accentuate or even delineate spaces and subspaces.
+Don't just light a whole room, light each space within the room.
+And, importantly, "spaces" should be defined by human activity and experience: a private corner where you or your loved ones sit to read, an area where a little group may sit to talk or play games, etc.
+
 ### iv) plants
 
 Especially leafy ones.
@@ -64,6 +68,8 @@ For me, couches are fundamental.
 I am picky how the couch feels to sit on, too.
 I think I prefer a slightly low and certainly a deep seat.
 Its texture and color matter, too.
+
+Also, see pattern #251, _different chairs_, which provides seating variety to create options for different people or the same people in different moods.
 
 ### vi) dishwasher
 
@@ -92,7 +98,7 @@ Makes me sad to watch movies on TV speakers.
 
 On the walls.
 Nothing fancy.
-Nicelooking stuff and stuff with personal significance.
+Nicelooking stuff and stuff with personal significance (see pattern #253, _things from your life_).
 Not generic or massproduced prints.
 Trendy interior design brands have ruined Matisse figure prints, at least for a few years.
 
