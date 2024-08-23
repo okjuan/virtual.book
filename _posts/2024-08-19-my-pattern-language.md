@@ -117,7 +117,7 @@ Matching set of dishes, bowls, and bowl plates.
 I don't care for the massproduced mugs, regardless of what image or words are imprinted on them.
 I like large handles so that it is easy to hold the mug with one hand without touching or bumping into the hot mug's sidesurface.
 
-### xiv) easy & fast access to street
+### xiii) easy & fast access to street
 
 It's annoying to fish for my keys or a fob to unlock doors.
 For that reason, I sometimes prefer parking on the street than in a garage.
