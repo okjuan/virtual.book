@@ -37,8 +37,15 @@ While using the bed, I don't want to notice a separation between the duvet and i
 
 I never take baths.
 Even when I do, they're not so much a luxury as a trifle.
+
+The two-in-one bathtub-shower, which is the standard design, seems like a good idea.
+Two for the price of one.
+But the compromise -- not merely a shower, not just a tub -- comes at a cost.
+Having to step with care over the edge of a tub to get into the shower and then having to worry, subconsciously, for the duration of the shower, about slipping, prevents me from fully relaxing.
+It's a shame because showering is a unique moment in the day when one can be alone and fully relax.
+
 I love walk-in showers.
-Not having to step over the edge of a tub and not having to worry about slipping while showering are very subtle delights.
+Ideally, the bathroom floor should extend, without an intermediary ledge, into the shower.
 Nice tiles are a plus.
 
 ### iii) diffused & ambient lighting
