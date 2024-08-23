@@ -8,10 +8,9 @@ tags: journal notes books design interior-design architecture
 > most...wonderful places of the world were not made by architects, but by the people.
 
 <!--more-->
-This is a quote from the very intriguing book [_A Pattern Language: Towns, Buildings, Construction_](https://www.goodreads.com/book/show/79766.A_Pattern_Language) from 1977, which I came across while thumbing through the Seattle Public Library's virtual collection on Libby.
+That's a quote from a very intriguing book published in 1977 called [_A Pattern Language: Towns, Buildings, Construction_](https://www.goodreads.com/book/show/79766.A_Pattern_Language), which I came across while thumbing through the Seattle Public Library's virtual collection on Libby.
 Something about the odd title and the minimal, uncommercial cover called to me.
-I checked it out.
-I perused it and then left it alone.
+I checked it out, perused it, then left it alone.
 That was a few years ago, but its basic idea has stuck with me.
 
 The book lists two hundred and fiftythree architectural and planning concepts -- ranging "from entire regions, through cities, neighborhoods, gardens, buildings, rooms, built-in furniture, and fixtures down to the level of doorknobs," as the [Wikipedia page](https://omni.wikiwand.com/en/articles/A_Pattern_Language) puts it.
