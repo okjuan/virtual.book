@@ -138,3 +138,16 @@ After writing the above, I revisited the book.
 Thanks to its relative obscurity, the ebook version was available to borrow immediately from the Seattle Public Library.
 I'm pleased to find out the authors encourage readers to come up with their own pattern languages.
 I also like their idea of ordering from big to small, with forward references that elucidate how subpatterns help realize larger ones and with backreferences to contextualize patterns in larger ones.
+It occurs to me that some of the my patterns might have some tacit principles in common.
+I want to deduce them and make them explicit so I can reference them from relevant patterns and thereby uncover principles that underpin my whole pattern language.
+
+### a) avoid causes of mental clutter & friction
+
+I'm trying to articulate the common principle, assuming there is one, between my preference for (i) a sole duvet and for (ii) a walk-in shower.
+In the same way I resent having to think about stepping into a bathtub and about where I step while I shower, I resent having to keep track of a top sheet while in bed.
+I much prefer to interact exclusively with the duvet.
+I am aware that it sounds contrived or even slightly insane, but these things cause me minor mental friction that I wish I could eliminate in totality.
+
+I think there are many little bits in my patterns that can be traced to my intolerance for mental friction.
+My distaste for (xiii) having to unlock doors on my way out of my home or having to wait an indeterminate amount of time for an elevator.
+My preference for (xii) big mug handles, so I don't have worry about holding the mug a certain way to avoid burning my knuckles.
