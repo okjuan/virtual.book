@@ -150,3 +150,10 @@ I am aware that it sounds contrived or even slightly insane, but these things ca
 I think there are many little bits in my patterns that can be traced to my intolerance for mental friction.
 My distaste for (xiii) having to unlock doors on my way out of my home or having to wait an indeterminate amount of time for an elevator.
 My preference for (xii) big mug handles, so I don't have worry about holding the mug a certain way to avoid burning my knuckles.
+Before bluetooth headphones became ubiquitous, wired headphones caused me constant psychological chafe.
+I hated having to supervise that pesky dangling cord.
+To minimize the probability of it catching on protruding bits, like the jagged knobs of our kitchen cabinets, I used to run the cord up my shirt along my back, out through the neckhole, and into my ears like I was in the secret service.
+(This was my variant on the common practice of running headphones under the shirt on the _front_ side, which had the issue that, when not in use, the cord would swing in front of you.)
+I bought my first pair of cordless headphones in 2018 and they were a revelation.
+The freedom was exquisite.
+Nowadays it's easy to take for granted.
