@@ -32,6 +32,9 @@ The duvet cover made of a high quality, breathable material in a nice color.
 It must have eight ties inside it to keep the duvet in place and a zipper at the bottom hidden behind a flap.
 While using the bed, I don't want to notice a separation between the duvet and its cover.
 
+The frame must be sturdy and stable.
+No squeaking when getting in and out of bed.
+
 ### ii) flat, walk-in shower
 
 I never take baths.
