@@ -29,6 +29,24 @@ The book is, finally, an inspiration for me to create my own pattern language.
 I love interior design, placemaking, vibesetting, and lately I've been thinking about what elements make a homespace great.
 I've loved furnishing, laying out, and decorating my apartments, and I look forward to owning a house someday.
 
+### summary
+
+<ol style="list-style-type:lower-roman">
+    <li>a good bed</li>
+    <li>flat, walk-in shower</li>
+    <li>diffused & ambient lighting</li>
+    <li>plants</li>
+    <li>comfy couch</li>
+    <li>dishwasher</li>
+    <li>ample natural light</li>
+    <li>coffee setup</li>
+    <li>TV with a good sound system</li>
+    <li>artwork</li>
+    <li>desk with a monitor</li>
+    <li>nice dishware</li>
+    <li>easy & fast access to street</li>
+</ol>
+
 ### i) a good bed
 
 A full for myself, queen or king if I'm sharing with my wife.
