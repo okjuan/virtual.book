@@ -8,20 +8,26 @@ tags: journal notes books design interior-design architecture
 > most...wonderful places of the world were not made by architects, but by the people.
 
 <!--more-->
-That's a quote from a very intriguing book published in 1977 called [_A Pattern Language: Towns, Buildings, Construction_](https://www.goodreads.com/book/show/79766.A_Pattern_Language), which I came across while thumbing through the Seattle Public Library's virtual collection on Libby.
-Something about the odd title and the minimal, uncommercial cover called to me.
-I checked it out, perused it, then left it alone.
-That was a few years ago, but its basic idea has stuck with me.
+That's a quote from [_A Pattern Language: Towns, Buildings, Construction_](https://www.goodreads.com/book/show/79766.A_Pattern_Language), a book published in 1977 that I came across a few years ago while thumbing through the Seattle Public Library's virtual collection on Libby.
+Something about the unusual title and the minimal, uncommercial cover called to me.
+I checked it out, perused it, then put it aside.
+I spent scant time with it, but its basic idea stuck with me.
 
-The book lists two hundred and fiftythree architectural and planning concepts -- ranging "from entire regions, through cities, neighborhoods, gardens, buildings, rooms, built-in furniture, and fixtures down to the level of doorknobs," as the [Wikipedia page](https://omni.wikiwand.com/en/articles/A_Pattern_Language) puts it.
-They are defined abstractly, assembled loosely in a network of references, and offered modestly as "hypotheses", proposed solutions to common problems.
-I find the approach -- flexible and deferential -- rather appealing.
-It's pleasantly surprising to read that it inspired the [first online wiki](https://omni.wikiwand.com/en/articles/WikiWikiWeb).
-I could even see a thread to my concept of {% post_url_with_hover_card virtual books | 2023-08-11-virtual-book %}.
+> The elements of this language are entities called patterns. Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.
 
-I love interior design, placemaking, vibesetting.
-I've loved furnishing, laying out, and decorating my apartments, and lately I've been mulling over the question: what are, for me, the most important aspects of a living space?
-I like to think about it as assembling my own pattern language.
+The book lists two hundred and fiftythree of these, spanning in scope from regions to rooms and graded with the degree of confidence that the authors have in the solution's immutability.
+Despite being defined loosely to allow flexible application, the patterns are also defined concretely, often specified numerically and illustrated with pictures and diagrams.
+The patterns are ordered by scale from big to small, but they also contain references that connect them into subnetworks.
+Forward references elucidate how larger patterns depend on smaller ones and backreferences contextualize patterns in larger ones.
+
+I find the approach -- flexible, deferential, and associative -- rather appealing.
+In fact, the book abides by various principles of {% post_url_with_hover_card my virtual book idea | 2023-08-11-virtual-book %}, namely: multimedia, readerdriven, nonlinear, and nonmonolithic.
+As a big fan of wikis, I'm pleased to read that it inspired the [first online wiki](https://omni.wikiwand.com/en/articles/WikiWikiWeb).
+And as a programmer, I'm intrigued to learn that it inspired the idea of [software design patterns](https://www.wikiwand.com/en/articles/Software_design_pattern), which are a useful part of the industry vernacular.
+
+The book is, finally, an inspiration for me to create my own pattern language.
+I love interior design, placemaking, vibesetting, and lately I've been thinking about what elements make a homespace great.
+I've loved furnishing, laying out, and decorating my apartments, and I look forward to owning a house someday.
 
 ### i) a good bed
 
@@ -139,7 +145,6 @@ A view of a nice neighborhood street or of leafy trees is enough for me.
 After writing the above, I revisited the book.
 Thanks to its relative obscurity, the ebook version was available to borrow immediately from the Seattle Public Library.
 I'm pleased to find out the authors encourage readers to come up with their own pattern languages.
-I also like their idea of ordering from big to small, with forward references that elucidate how subpatterns help realize larger ones and with backreferences to contextualize patterns in larger ones.
 It occurs to me that some of the my patterns might have some tacit principles in common.
 I want to deduce them and make them explicit so I can reference them from relevant patterns and thereby uncover principles that underpin my whole pattern language.
 
