@@ -99,7 +99,7 @@ And, importantly, "spaces" should be defined by human activity and experience: a
 Recently, while visiting Halifax, Nova Scotia, my wife Z and I sat in the corner of a coffee shop, admiring its beautiful interior.
 Throughout our trip, I had been pointing out places where patterns were applied or might have been.
 Suddenly I realized we were sitting in one.
-#179 _alcoves_ calls for a subspace within a larger space to which a subgroup of the larger group can retreat to socialize in private without vacating the bigger communal space, thereby conserving the feeling of connection that comes with sharing space with others.
+#179 _alcoves_ calls for a subspace within a larger space to which a subgroup of the larger group can retreat to socialize in partial privacy without vacating the bigger communal space, thereby conserving the feeling of connection that comes with sharing space with others.
 (While writing this I notice that coffee shops are a place where it is imperative to implement alcoves not just once but as many times as possible.)
 
 The pattern calls for a lowered ceiling, which seems to require that the pattern be planned during construction.
