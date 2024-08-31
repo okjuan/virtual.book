@@ -45,7 +45,7 @@ I've loved furnishing, laying out, and decorating my apartments, and I look forw
     <li>worktable with a monitor</li>
     <li>nice dishware</li>
     <li>easy & fast access to street</li>
-    <li>place to set things down</li>
+    <li>places to set things down</li>
 </ol>
 
 ### my principles
@@ -172,7 +172,7 @@ In general, I love being able to walk out of my home and virtually straight onto
 I like views but they're not worth long elevator waits.
 A view of a nice neighborhood street or of leafy trees is enough for me.
 
-### xiv) place to set things down
+### xiv) places to set things down
 
 I'm a strong believer in having a designated place at the entrance for placing house keys upon entry.
 And I recently noticed that there's a similar satisfaction in having places throughout the house for settings things down.
