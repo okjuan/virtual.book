@@ -63,16 +63,35 @@ No squeaking when getting in and out of bed.
 
 I never take baths.
 Even when I do, they're not so much a luxury as a trifle.
+Showering, on the other hand, is special.
+Each day it offers a private respite, and a golden moment when restful relaxation doubles as an invaluable opportunity to {% post_url_with_hover_card listen to your subsconscious | 2021-02-01-think-invisibly %}.
+And for this moment to flourish fully and consistently, we need the right physical space.
 
-The two-in-one bathtub-shower, which is the standard design, seems like a good idea.
+The standard bathtub-shower design seems like a good idea.
 Two for the price of one.
-But the compromise -- not merely a shower, not just a tub -- comes at a cost.
-Having to step with care over the edge of a tub to get into the shower and then having to worry, subconsciously, for the duration of the shower, about slipping, prevents me from fully relaxing.
-It's a shame because showering is a unique moment in the day when one can be alone and fully relax.
+But [the compromise](https://www.wikiwand.com/en/articles/Design_by_committee) at the heart of its design prevents it from being a good shower.
+(Or, probably, a good tub, too, but, as I said, I don't have much to say about baths.)
+The cost of the compromise is hidden in plain sight, difficult to notice due to its ubiquity.
+Allow me to shed some light on the ways that the tub compromises the shower.
 
-I love walk-in showers.
-Ideally, the bathroom floor should extend, without an intermediary ledge, into the shower.
-Nice tiles are a plus.
+To begin with, you can't simply walk into the shower.
+You have to _climb_ in, over a literal barrier.
+Clearing this hurdle is already an uncomfortable task considering there are no clothes to soften accidental contact, but it's not merely a matter of stepping high and long because on the other side of the barrier one must balance onefooted on ground mutated by the tub from level ground into a skinny ramp with sloping edges.
+Sure, it's less hostile than a minefield or a beartrap, but it's shockingly inhospitable considering its primary aim is to allow a bipedal, softskinned animal to stand barefoot while being showered in water (hence the name) and contort while applying lubricants that ooze dangerously downwards onto an already slick slanted surface.
+But we're used to it, so we don't notice its unfriendly design.
+
+On the other hand, a shower that does not need to perform as a tub can focus on being a good shower.
+It can be easy to enter and to exit.
+Its surface does not need to be lowfriction to accommodate a bare backside, it can be tiled or of some other high friction surface that is comfortable to stand on.
+It can be wide enough to allow a person to turn their body without grazing against the shower curtain or feeling otherwise constricted.
+
+Good design, as they say, is invisible.
+A good shower demands no effort or conscious attention from its user.
+It lets them get clean and lets their mind wander without unwwanted interruption.
+To achieve this, it must it extremely easy to do all the basic operations: getting in, standing, washing, rinsing, and getting out.
+
+All this to say, I love walk-in showers.
+Bonus points for nice tiles and for a flat entry with no intermediary ledge.
 
 ### iii) diffused & ambient lighting
 
