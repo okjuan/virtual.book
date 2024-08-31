@@ -96,6 +96,18 @@ Also, as per pattern #252, _pools of light_, lights should accentuate or even de
 Don't just light a whole room, light each space within the room.
 And, importantly, "spaces" should be defined by human activity and experience: a private corner where you or your loved ones sit to read, an area where a little group may sit to talk or play games, etc.
 
+Recently, while visiting Halifax, Nova Scotia, my wife Z and I sat in the corner of a coffee shop, admiring its beautiful interior.
+Throughout our trip, I had been pointing out places where patterns were applied or might have been.
+Suddenly I realized we were sitting in one.
+#179 _alcoves_ calls for a subspace within a bigger space to which a subgroup of a larger group can retreat to socialize in private without vacating the larger communal space, thereby conserving the feeling of connection that comes with sharing space with others.
+(While writing this I notice that coffee shops are a place where it is imperative to implement alcoves not just once but as many times as possible.)
+The pattern calls for a lowered ceiling, which seems to require that the pattern be planned during construction.
+(In fact, this demand is codified in pattern #207 _structure follows social spaces_.)
+But the coffee shop used a clever alternative to achieve a similar effect: place a light fixture directly above and bring it down to a low height so that it functions like a lowered ceiling.
+This technique merges #179 _alcoves_ and #252 _pools of light_ in the way that the book likens to poetry:
+
+> In a poem, the meaning is far more dense [than in prose]. Each word carries several meanings; and the sentence as a whole carries an enormous density of interlocking meanings, which together illuminate the whole. The same is true for pattern languages. It is possible to make buildings by stringing together patterns, in a rather loose way. A building made like this, is an assembly of patterns. It is not dense. It is not profound. But it is also possible to put patterns together in such a way that many many patterns overlap in the same physical space: the building is very dense; it has many meanings captured in a small space; and through this density, it becomes profound.
+
 ### iv) plants
 
 Especially leafy ones.
