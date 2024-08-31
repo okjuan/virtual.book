@@ -42,7 +42,7 @@ I've loved furnishing, laying out, and decorating my apartments, and I look forw
     <li>coffee setup</li>
     <li>TV with a good sound system</li>
     <li>artwork</li>
-    <li>desk with a monitor</li>
+    <li>worktable with a monitor</li>
     <li>nice dishware</li>
     <li>easy & fast access to street</li>
     <li>place to set things down</li>
@@ -146,7 +146,10 @@ Nicelooking stuff and stuff with personal significance (see pattern #253, _thing
 Not generic or massproduced prints.
 Trendy interior design brands have ruined Matisse figure prints, at least for a few years.
 
-### xi) desk with a monitor
+### xi) worktable with a monitor
+
+I say worktable instead of desk because my current worktable is actually our dinner table.
+It's a great setup because we don't use it much otherwise.
 
 Preferrably with a big table surface.
 Bonus points for a mounted monitor that doesn't take up any deskspace and can be swiveled out of the way.
