@@ -175,9 +175,11 @@ A view of a nice neighborhood street or of leafy trees is enough for me.
 ### xiv) place to set things down
 
 I'm a strong believer in having a designated place at the entrance for placing house keys upon entry.
-It's convenient for arrival and departure, and it effects a pleasant sense of transition.
-Arriving, it feels nice to unburden oneself of logistical paraphernalia necessary for navigating the world outside, which accentuates the feeling of returning to a place of convenience, comfort, and familiarity.
-Departing, it feels nice to equip oneself before stepping through the doorway into the world.
+And I recently noticed that there's a similar satisfaction in having places throughout the house for settings things down.
+A spot next to each seat for setting down a drink.
+A place to put a kitchen tray when not in use.
+A surface to set down glasses and mugs that need to be brought to the kitchen.
+(I'll have to revisit and develop this pattern.)
 
 ---
 
@@ -215,7 +217,11 @@ Because most of my plants sit on individual wooden stools with small footprints,
 
 ### c) cultivate meaning in objects and places
 
-As described in _(xiv) a place to set things down_, the ordinary action of leaving and taking house keys can have meaning.
+A place for keys at the entrance is convenient for arrival and departure, and it effects a pleasant sense of transition.
+Arriving, it feels nice to unburden oneself of logistical paraphernalia necessary for navigating the world outside, which accentuates the feeling of returning to a place of convenience, comfort, and familiarity.
+Departing, it feels nice to equip oneself before stepping through the doorway into the world.
+
+Ordinary actions like these can have meaning.
 This imbuing of meaning into inanimate objects and impersonal surroundings is the part of the process that transforms a house into a home.
 A building or even a room becomes a place where one is provided for and secure, where one can rest at ease.
 
