@@ -170,7 +170,7 @@ It's annoying to fish for my keys or a fob to unlock doors.
 For that reason, I sometimes prefer parking on the street than in a garage.
 In general, I love being able to walk out of my home and virtually straight onto the street.
 I like views but they're not worth long elevator waits.
-A view of a nice neighborhood street or of leafy trees is enough for me.
+A view of a nice neighborhood street or leafy trees is enough for me.
 
 ### xiv) places to set things down
 
