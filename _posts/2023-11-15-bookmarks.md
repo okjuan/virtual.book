@@ -15,6 +15,10 @@ It's a list of websites divided into three sections: sites I frequent, sites I v
 - [sive.rs](https://sive.rs/)
 - [macwright.com/reading](https://macwright.com/reading/)
 
+### sites I discovered recently
+- [wiki.c2.com](https://wiki.c2.com/), the first wiki!
+- [fivebooks.com](https://fivebooks.com/), book recommendations curated by experts
+
 ### sites I visit sometimes
 - [andymatuschak.org](https://andymatuschak.org/)
 - [oliverburkeman.com/posts](https://www.oliverburkeman.com/posts)
