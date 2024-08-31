@@ -177,10 +177,14 @@ A view of a nice neighborhood street or leafy trees is enough for me.
 I'm a strong believer in having a designated place at the entrance for placing house keys upon entry.
 (Also, see _(c) cultivate meaning in objects and places_.)
 And I recently noticed that there's a similar satisfaction in having places throughout the house for settings things down.
-A spot next to each seat for setting down a drink.
-A place to put a kitchen tray when not in use.
-A surface to set down glasses and mugs that need to be brought to the kitchen.
-(I'll have to revisit and develop this pattern.)
+A surface next to each seat for setting down a drink.
+A convenient place to put items that you use regularly like spatulas, toothbrushes, towels, bathrobes, kitchen trays, and so on.
+A loading deck of sorts at the bottom and top of staircases, where one can set down things than need to be brought up or down at a nonurgent time.
+A common case for this kind of inbetween surface is to set down glasses, mugs, and other bits that need to be brought to the kitchen.
+
+A key aspect of these places is that they are convenient (see _(a) avoid causes of mental clutter & friction_).
+It shouldn't be necessary, for example, to activate your core to pick up or set down when sitting anywhere in the living room.
+There should be a spot right there, within reach from a natural sitting position.
 
 ---
 
