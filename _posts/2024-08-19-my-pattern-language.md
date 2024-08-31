@@ -29,7 +29,7 @@ The book is, finally, an inspiration for me to create my own pattern language.
 I love interior design, placemaking, vibesetting, and lately I've been thinking about what elements make a homespace great.
 I've loved furnishing, laying out, and decorating my apartments, and I look forward to owning a house someday.
 
-### summary
+### my patterns
 
 <ol style="list-style-type:lower-roman">
     <li>a good bed</li>
@@ -46,6 +46,14 @@ I've loved furnishing, laying out, and decorating my apartments, and I look forw
     <li>nice dishware</li>
     <li>easy & fast access to street</li>
     <li>a place to set things down</li>
+</ol>
+
+### my principles
+
+<ol style="list-style-type:lower-alpha">
+    <li>avoid causes of mental clutter & friction</li>
+    <li>allow for incremental discovery and gradual changes</li>
+    <li>cultivate meaning in objects and places</li>
 </ol>
 
 ### i) a good bed
