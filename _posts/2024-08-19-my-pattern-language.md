@@ -74,7 +74,7 @@ I never take baths.
 Even when I do, they're not so much a luxury as a trifle.
 Showering, on the other hand, is special.
 It is, first of all, a daily respite, a place to relax and recharge.
-But what makes it invaluable is that it doubles as an invaluable opportunity to {% post_url_with_hover_card listen to my subsconscious | 2021-02-01-think-invisibly %}.
+But what makes it invaluable is that it doubles as an opportunity to {% post_url_with_hover_card listen to my subsconscious | 2021-02-01-think-invisibly %}.
 And for this moment to flourish fully and consistently, I need the right physical space.
 
 Good design, as they say, is invisible.
