@@ -175,6 +175,7 @@ A view of a nice neighborhood street or leafy trees is enough for me.
 ### xiv) places to set things down
 
 I'm a strong believer in having a designated place at the entrance for placing house keys upon entry.
+(Also, see _(c) cultivate meaning in objects and places_.)
 And I recently noticed that there's a similar satisfaction in having places throughout the house for settings things down.
 A spot next to each seat for setting down a drink.
 A place to put a kitchen tray when not in use.
