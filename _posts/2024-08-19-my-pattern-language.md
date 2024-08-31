@@ -219,7 +219,15 @@ The freedom was exquisite.
 I realized how much I love walk-in showers because my current Seattle apartment has one.
 In fact, I love it so much that, when we got a roommate, I requested continued access to the bathroom where it is.
 
-Because most of my plants sit on individual wooden stools with small footprints, I've been able to rearrange their place in the apartment over the last two years or so.
+Living in different places and in different arranagements is a great way to learn what you like best and what you can't do without.
+(This is one of the perks of renting, I think.)
+I learned, for example, how important it is for my wife Z to have a room to be alone in by sharing with her a one bedroom apartment that had minimal architectural division or sound insulation between bedroom and living room.
+We covered the french doors with curtains to create visual separation, but that didn't do much to muffle sound.
+The important fact was not whether she was alone or not, it what whether she _felt_ like she was in a private place to unwind and recharge.
+
+Experimentation is possible also within a single home.
+For example, I've been able to relocate my various plants within the apartment many times, especially the ones that sit on individual wooden stools, which are easy to move and fit into small spaces.
+The same is possible with artwork, especially if you use command strips or some other hanging device that leaves no trace.
 
 ### c) cultivate meaning in objects and places
 
