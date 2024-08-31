@@ -100,10 +100,10 @@ Recently, while visiting Halifax, Nova Scotia, my wife Z and I sat in the corner
 Throughout our trip, I had been pointing out places where patterns were applied or might have been.
 Suddenly I realized we were sitting in one.
 #179 _alcoves_ calls for a subspace within a larger space to which a subgroup of the larger group can retreat to socialize in partial privacy without vacating the bigger communal space, thereby conserving the feeling of connection that comes with sharing space with others.
-(While writing this I notice that coffee shops are a place where it is imperative to implement alcoves, and not just once, but many times over.)
+(While writing this I notice that coffee shops are a place where it is crucial to create alcoves, and not just once, but many times over.)
 
-The pattern calls for a lowered ceiling, which seems to require that the pattern be planned during construction.
-(In fact, this demand is codified in pattern #207 _structure follows social spaces_.)
+The pattern calls for a lowered ceiling, which suggests that the pattern be planned during construction.
+(In fact, this imperative is codified as a general pattern: #207 _structure follows social spaces_.)
 But the coffee shop used a clever alternative to achieve a similar effect: place a light fixture directly above and bring it down to a low height so that it functions like a lowered ceiling.
 This technique merges #179 _alcoves_ and #252 _pools of light_ in the way that the book likens to poetry:
 
