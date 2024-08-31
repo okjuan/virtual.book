@@ -21,7 +21,7 @@ The patterns are ordered by scale from big to small, but they also contain refer
 Forward references elucidate how larger patterns depend on smaller ones and backreferences contextualize patterns in larger ones.
 
 I find the approach -- flexible, deferential, and associative -- rather appealing.
-In fact, the book abides by various principles of {% post_url_with_hover_card my virtual book idea | 2023-08-11-virtual-book %}, namely: multimedia, readerdriven, nonlinear, and nonmonolithic.
+In fact, the book abides by various principles of my {% post_url_with_hover_card virtual book | 2023-08-11-virtual-book %} idea, namely: multimedia, readerdriven, nonlinear, and nonmonolithic.
 As a big fan of wikis, I'm pleased to read that it inspired the [first online wiki](https://omni.wikiwand.com/en/articles/WikiWikiWeb).
 And as a programmer, I'm intrigued to learn that it inspired the idea of [software design patterns](https://www.wikiwand.com/en/articles/Software_design_pattern), which are a useful part of the industry vernacular.
 
