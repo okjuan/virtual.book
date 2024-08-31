@@ -210,3 +210,34 @@ To minimize the probability of it catching on protruding bits, like the jagged k
 I bought my first pair of cordless headphones in 2018 and they were a revelation.
 The freedom was exquisite.
 Nowadays it's easy to take for granted.
+
+
+### b) allow for incremental discovery and gradual changes
+
+I realized how much I love walk-in showers because my current Seattle apartment has one.
+In fact, I love it so much that, when we got a roommate, I requested continued access to the bathroom where our walk-in shower is.
+
+Because most of my plants sit on individual wooden stools with small footprints, I've been able to rearrange their place in the apartment over the last two years or so.
+
+### c) cultivate meaning in objects and places
+
+As described in _(xiv) a place to set things down_, the ordinary action of leaving and taking house keys can have meaning.
+This imbuing of meaning into inanimate objects and impersonal surroundings is the part of the process that transforms a house into a home.
+A building or even a room becomes a place where one is provided for and secure, where one can rest at ease.
+
+A home is sprinkled with meaning throughout.
+A quiet, comfy place to read and relax.
+A welcoming common area to be together.
+A room of one's own, a private space.
+All these are ordinary physical spaces that provide precious and intangible nourishment.
+
+It's obvious that we should avoid and dispel negative meanings from our home.
+Less obvious is the task of preventing neutrality and meaninglessness.
+The lack of meaning is more insidious than negative meaning for a few reasons.
+Firstly, because its presence is not obvious.
+Every bit and every corner without meaning is like a little leak that create together a void of meaning that can be felt but not easily traced to a source.
+They silently steal from our home's potential as a place for rest and renewal.
+
+Negative energy is easier to detect and pinpoint, and its invasiveness is felt more sharply, which spurs us into action.
+Meaninglessness, on the other hand, is stultifying.
+It confuses and bores us with its lack of specificity and sedates us by promoting numbness and detachment.
