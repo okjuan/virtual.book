@@ -104,7 +104,7 @@ Suddenly I realized we were sitting in one.
 
 The pattern calls for a lowered ceiling, which suggests that the pattern be planned during construction.
 (In fact, this imperative is codified as a general pattern: #207 _structure follows social spaces_.)
-But the coffee shop used a clever alternative to achieve a similar effect: place a light fixture directly above and bring it down to a low height so that it functions like a lowered ceiling.
+But the coffee shop used a clever alternative to achieve a similar effect: they placed a light fixture directly above our corner seating and brought it down to a low height so that it functioned like a lowered ceiling.
 This technique merges #179 _alcoves_ and #252 _pools of light_ in the way that the book likens to poetry:
 
 > In a poem, the meaning is far more dense [than in prose]. Each word carries several meanings; and the sentence as a whole carries an enormous density of interlocking meanings, which together illuminate the whole.
