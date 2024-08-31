@@ -33,7 +33,7 @@ I've loved furnishing, laying out, and decorating my apartments, and I look forw
 
 <ol style="list-style-type:lower-roman">
     <li>a good bed</li>
-    <li>flat, walk-in shower</li>
+    <li>walk-in shower</li>
     <li>diffused & ambient lighting</li>
     <li>plants</li>
     <li>comfy couch</li>
@@ -68,7 +68,7 @@ While using the bed, I don't want to notice a separation between the duvet and i
 The frame must be sturdy and stable.
 No squeaking when getting in and out of bed.
 
-### ii) flat, walk-in shower
+### ii) walk-in shower
 
 I never take baths.
 Even when I do, they're not so much a luxury as a trifle.
