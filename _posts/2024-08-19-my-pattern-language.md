@@ -45,6 +45,7 @@ I've loved furnishing, laying out, and decorating my apartments, and I look forw
     <li>desk with a monitor</li>
     <li>nice dishware</li>
     <li>easy & fast access to street</li>
+    <li>a place to set things down</li>
 </ol>
 
 ### i) a good bed
@@ -176,6 +177,13 @@ For that reason, I sometimes prefer parking on the street than in a garage.
 In general, I love being able to walk out of my home and virtually straight onto the street.
 I like views but they're not worth long elevator waits.
 A view of a nice neighborhood street or of leafy trees is enough for me.
+
+### xiv) a place to set things down
+
+I'm a strong believer in having a designated place at the entrance for placing house keys upon entry.
+It's convenient for arrival and departure, and it effects a pleasant psychological sensation of transition.
+Arriving, it feels nice to unburden oneself of logistical paraphernalia necessary for navigating the world outside, which accentuates the feeling of returning to a place of convenience, comfort, and familiarity.
+Departing, it's nice to feel equipped before stepping through the doorway into the world.
 
 ---
 
