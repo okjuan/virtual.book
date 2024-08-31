@@ -209,7 +209,7 @@ My preference for _(xii)_ big mug handles, so I don't have worry about holding t
 Before bluetooth headphones became ubiquitous, wired headphones caused me constant psychological chafe.
 It irked me to have to supervise that pesky dangling cord and it momentarily ruined my calm when it got yanked out of my ears unexpectedly.
 To minimize the probability of it catching on protruding bits, like the jagged knobs of our kitchen cabinets, I used to run the cord up my shirt along my back, out through the neckhole, and into my ears like I was in the secret service.
-(This was my variant of the common practice of running headphones under the shirt on the _front_ side, which had the issue that, when not in use, the cord would swing in front of you.)
+(This was my variant of the common practice of running headphones under the shirt on the _front_ side, which had the issue that, when not in use, the cord would dangle and swing down in front of you.)
 I bought my first pair of cordless headphones in 2018 and they were a revelation.
 The freedom was exquisite.
 Nowadays it's easy to take for granted.
