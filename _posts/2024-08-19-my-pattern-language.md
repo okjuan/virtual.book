@@ -65,12 +65,13 @@ No squeaking when getting in and out of bed.
 I never take baths.
 Even when I do, they're not so much a luxury as a trifle.
 Showering, on the other hand, is special.
-Each day it offers a golden moment when restful relaxation doubles as an invaluable opportunity to {% post_url_with_hover_card listen to your subsconscious | 2021-02-01-think-invisibly %}.
-And for this moment to flourish fully and consistently, you need the right physical space.
+It is, first of all, a daily respite, a place to relax and recharge.
+But what makes it invaluable is that it doubles as an invaluable opportunity to {% post_url_with_hover_card listen to my subsconscious | 2021-02-01-think-invisibly %}.
+And for this moment to flourish fully and consistently, I need the right physical space.
 
 Good design, as they say, is invisible.
 A good shower demands no effort or conscious attention from its user.
-It lets them get clean while their mind wanders.
+It lets them get clean and their mind wander.
 To achieve this, it must make it extremely easy to do all the basic things: get in, stand, wash, rinse, and get out.
 It sounds obvious, but the standard tubshower hybrid most of us have at home {% post_url_with_hover_card fails this basic test | 2024-08-30-good-shower %}.
 
@@ -163,14 +164,14 @@ A view of a nice neighborhood street or of leafy trees is enough for me.
 ### xiv) a place to set things down
 
 I'm a strong believer in having a designated place at the entrance for placing house keys upon entry.
-It's convenient for arrival and departure, and it effects a pleasant psychological sensation of transition.
+It's convenient for arrival and departure, and it effects a pleasant sense of transition.
 Arriving, it feels nice to unburden oneself of logistical paraphernalia necessary for navigating the world outside, which accentuates the feeling of returning to a place of convenience, comfort, and familiarity.
-Departing, it's nice to feel equipped before stepping through the doorway into the world.
+Departing, it feels nice to equip oneself before stepping through the doorway into the world.
 
 ---
 
 After writing the above, I revisited the book.
-Thanks to its relative obscurity, the ebook version was available to borrow immediately from the Seattle Public Library.
+Thanks to its relative obscurity, the ebook version was available to borrow immediately from the library.
 I'm pleased to find out the authors encourage readers to come up with their own pattern languages.
 It occurs to me that some of the my patterns might have some tacit principles in common.
 I want to deduce them and make them explicit so I can reference them from relevant patterns and thereby uncover principles that underpin my whole pattern language.
@@ -197,7 +198,7 @@ Nowadays it's easy to take for granted.
 ### b) allow for incremental discovery and gradual changes
 
 I realized how much I love walk-in showers because my current Seattle apartment has one.
-In fact, I love it so much that, when we got a roommate, I requested continued access to the bathroom where our walk-in shower is.
+In fact, I love it so much that, when we got a roommate, I requested continued access to the bathroom where it is.
 
 Because most of my plants sit on individual wooden stools with small footprints, I've been able to rearrange their place in the apartment over the last two years or so.
 
