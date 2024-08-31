@@ -200,6 +200,7 @@ I'm trying to articulate the common principle, assuming there is one, between my
 In the same way I resent having to think about stepping into a bathtub and about where I step while I shower, I resent having to keep track of a top sheet while in bed.
 I much prefer to interact exclusively with the duvet.
 I am aware that it sounds contrived or even slightly insane, but these things cause me minor mental friction that I wish I could eliminate in totality.
+I love to relax my mind, and it's hard to do so when distracted by little frills and imperfections.
 
 I think there are many little bits in my patterns that can be traced to my intolerance for mental friction.
 My distaste for _(xiii)_ having to unlock doors on my way out of my home or having to wait an indeterminate amount of time for an elevator.
