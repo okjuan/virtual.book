@@ -186,14 +186,14 @@ I want to deduce them and make them explicit so I can reference them from releva
 
 ### a) avoid causes of mental clutter & friction
 
-I'm trying to articulate the common principle, assuming there is one, between my preference for (i) a sole duvet and for (ii) a walk-in shower.
+I'm trying to articulate the common principle, assuming there is one, between my preference for _(i)_ a sole duvet and for _(ii) a walk-in shower_.
 In the same way I resent having to think about stepping into a bathtub and about where I step while I shower, I resent having to keep track of a top sheet while in bed.
 I much prefer to interact exclusively with the duvet.
 I am aware that it sounds contrived or even slightly insane, but these things cause me minor mental friction that I wish I could eliminate in totality.
 
 I think there are many little bits in my patterns that can be traced to my intolerance for mental friction.
-My distaste for (xiii) having to unlock doors on my way out of my home or having to wait an indeterminate amount of time for an elevator.
-My preference for (xii) big mug handles, so I don't have worry about holding the mug a certain way to avoid burning my knuckles.
+My distaste for _(xiii)_ having to unlock doors on my way out of my home or having to wait an indeterminate amount of time for an elevator.
+My preference for _(xii)_ big mug handles, so I don't have worry about holding the mug a certain way to avoid burning my knuckles.
 Before bluetooth headphones became ubiquitous, wired headphones caused me constant psychological chafe.
 I hated having to supervise that pesky dangling cord.
 To minimize the probability of it catching on protruding bits, like the jagged knobs of our kitchen cabinets, I used to run the cord up my shirt along my back, out through the neckhole, and into my ears like I was in the secret service.
