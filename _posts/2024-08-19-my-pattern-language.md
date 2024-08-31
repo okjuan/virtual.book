@@ -32,7 +32,7 @@ I've loved furnishing, laying out, and decorating my apartments, and I look forw
 ### my patterns
 
 <ol style="list-style-type:lower-roman">
-    <li>a good bed</li>
+    <li>good bed</li>
     <li>walk-in shower</li>
     <li>diffused & ambient lighting</li>
     <li>plants</li>
@@ -45,7 +45,7 @@ I've loved furnishing, laying out, and decorating my apartments, and I look forw
     <li>desk with a monitor</li>
     <li>nice dishware</li>
     <li>easy & fast access to street</li>
-    <li>a place to set things down</li>
+    <li>place to set things down</li>
 </ol>
 
 ### my principles
@@ -56,7 +56,7 @@ I've loved furnishing, laying out, and decorating my apartments, and I look forw
     <li>cultivate meaning in objects and places</li>
 </ol>
 
-### i) a good bed
+### i) good bed
 
 A full for myself, queen or king if I'm sharing with my wife.
 Two pillows for myself.
@@ -169,7 +169,7 @@ In general, I love being able to walk out of my home and virtually straight onto
 I like views but they're not worth long elevator waits.
 A view of a nice neighborhood street or of leafy trees is enough for me.
 
-### xiv) a place to set things down
+### xiv) place to set things down
 
 I'm a strong believer in having a designated place at the entrance for placing house keys upon entry.
 It's convenient for arrival and departure, and it effects a pleasant sense of transition.
