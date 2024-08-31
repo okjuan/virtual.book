@@ -26,6 +26,6 @@ And it can be wide enough to allow a person to turn their body without grazing a
 
 Good design, as they say, is invisible.
 A good shower demands no effort or conscious attention from its user.
-It lets them get clean and {% post_url_with_hover_card their mind wander | 2021-02-01-think-invisibly %}.
+It lets them get clean while {% post_url_with_hover_card their mind wanders | 2021-02-01-think-invisibly %}.
 To achieve this, it must make it extremely easy to do all the basic things: get in, stand, wash, rinse, and get out.
 It sounds obvious, and yet the standard tubshower hybrid most of us have at home fails this basic test.

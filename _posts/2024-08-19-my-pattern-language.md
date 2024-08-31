@@ -79,7 +79,7 @@ And for this moment to flourish fully and consistently, I need the right physica
 
 Good design, as they say, is invisible.
 A good shower demands no effort or conscious attention from its user.
-It lets them get clean and their mind wander.
+It lets them get clean while their mind wanders.
 To achieve this, it must make it extremely easy to do all the basic things: get in, stand, wash, rinse, and get out.
 It sounds obvious, but the standard tubshower hybrid most of us have at home {% post_url_with_hover_card fails this basic test | 2024-08-30-good-shower %}.
 
