@@ -23,7 +23,7 @@ Forward references elucidate how larger patterns depend on smaller ones and back
 I find the approach -- flexible, deferential, and associative -- rather appealing.
 In fact, the book abides by various principles of my {% post_url_with_hover_card virtual book | 2023-08-11-virtual-book %} idea, namely: multimedia, readerdriven, nonlinear, and nonmonolithic.
 As a big fan of wikis, I'm pleased to read that it inspired the [first online wiki](https://omni.wikiwand.com/en/articles/WikiWikiWeb).
-And as a programmer, I'm intrigued to learn that it inspired the idea of [software design patterns](https://www.wikiwand.com/en/articles/Software_design_pattern), which are a useful part of the industry vernacular.
+And as a programmer, I'm intrigued to learn that it inspired the idea of [software design patterns](https://www.wikiwand.com/en/articles/Software_design_pattern), which are a core part of the industry vernacular.
 
 The book is, finally, an inspiration for me to create my own pattern language.
 I love interior design, placemaking, vibesetting, and lately I've been thinking about what elements make a homespace great.
