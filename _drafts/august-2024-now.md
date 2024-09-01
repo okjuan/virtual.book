@@ -50,6 +50,34 @@ One of my teammates interrupted me midsentence to point out the strange, yogalik
 I was balancing on one leg, the other one drawn up and bent so that the sole of the foot was pressed against the inside of my standing leg.
 My left arm was arched upwards and in that hand I held an empty bottle of sportsdrink, which I was balancing on the top of my head.
 
+Z arrived and we deliberated about going to the doctor.
+I called the nurse hotline that I get through my work's medical insurance and, to my surprise, after I answered in the negative to most questions, the nurse advised, in a very placid, almost bored tone, that I seek urgent medical care.
+So we went to a practically empty urgent care clinic nearby only to be turned away because they were closing in less than thirty minutes.
+We got back in the car and I called the nurse hotline again, to get a second opinion.
+But again, we were advised, in detached monotone, to go to the emergency room.
+More than concerned, I felt annoyed.
+Surely I was fine.
+Surely in caveman days I would've simply retreated to my shelter to rest.
+
+So I went to the emergency room.
+This time the cold voice had a blank stare, and it informed me I would need to pay a thousand dollars just to get seen by a doctor.
+Sheesh.
+I prodded for some advice, hoping to be assured that my symptoms didn't sound too bad.
+She shrugged expressionlessly.
+I sat there, visibly mulling.
+Could someone give me a quick opinon?
+She looked at the nurse next to her, who then looked at me and asked me tersely, Any slurred speech, vomitting?
+None.
+She shrugged.
+I left, smiling sardonically.
+
+Back in the car with Z, I told her how much it would cost and that I didn't think it was serious enough warrant it.
+She was inclined to agree with me, but very wary of being negligent.
+So we called a third nurse, this time the public one in British Columbia.
+This one was bubbly and warm.
+She went through a checklist similar to the one that the other two nurses had followed, but seemed happier to listen to answers longer than yes or no.
+I answered the same questions again patiently, encouraged by the expectation that this nurse, finally, would tell me that it was probably fine to go home tonight and, if need be, see a doctor tomorrow.
+
 ### visiting the Canadian east
 
 ---
