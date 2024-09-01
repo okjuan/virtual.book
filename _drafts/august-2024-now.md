@@ -1,7 +1,7 @@
 ---
 layout: post
-title: what I'm doing now
-permalink: /now-august-2024
+title: "what I'm doing now #6"
+permalink: /now-september-2024
 tags: journal
 ---
 
