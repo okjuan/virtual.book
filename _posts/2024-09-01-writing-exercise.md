@@ -29,7 +29,7 @@ To compound on the perils of this first corruption, the tub then mutated the ide
 It then had the gall to forbid the use of tiles or any other higher friction material that might compensate for the hostility it has introduced to the terrain, whose primary aim, lest we forget, is to allow a bipedal, softskinned animal to stand barefoot while being showered in water and contort while applying lubricants that ooze downwards onto the standing ground.
 Suddenly, the tubshower is looking less like clever design and more like an ambush.
 
---
+---
 
 ### option 2b
 
@@ -40,7 +40,7 @@ To compound on the inconvenience of this first corruption, the tub then mutates 
 It then has the gall to forbid the use of tiles or any other higher friction material that might compensate for the hostility it has introduced to the terrain, whose primary aim, lest we forget, is to allow a bipedal, softskinned animal to stand barefoot while being showered in water and contort while applying lubricants that ooze downwards onto the standing ground.
 From this perspective, the tubshower looks less like clever design and more like an ambush.
 
---
+---
 
 ### option 2c
 
