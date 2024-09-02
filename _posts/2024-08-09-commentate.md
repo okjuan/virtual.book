@@ -5,10 +5,12 @@ permalink: /commentate
 tags: notes speaking eloquence sports soccer
 ---
 
-What makes Martin Tyler a good commentator?
+Martin Tyler -- is he or is he not a good commentator?
 <!--more-->
 
 _(This is a work in progress.)_
+
+In 2003, Martin Tyler was voted the FA Premier League Commentator of the Decade, but nowadays, twenty years on, as he nears eighty years of age, he's not so universally loved.
 
 He is one of the most recognizable voices in football commentary and has been, for decades, commentating football matches of the English Premier League and UEFA Champions League.
 He was voted the FA Premier League Commentator of the Decade in 2003.
