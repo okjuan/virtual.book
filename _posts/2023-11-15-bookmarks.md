@@ -18,6 +18,7 @@ It's a list of websites divided into three sections: sites I frequent, sites I v
 ### sites I discovered recently
 - [wiki.c2.com](https://wiki.c2.com/), the first wiki!
 - [fivebooks.com](https://fivebooks.com/), book recommendations curated by experts
+- [jsomers.net](https://jsomers.net/), a fellow programmer/writer
 
 ### sites I visit sometimes
 - [andymatuschak.org](https://andymatuschak.org/)
