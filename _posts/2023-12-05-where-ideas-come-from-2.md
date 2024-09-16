@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-03-12
 layout: post
 title: "where do ideas come from? #2"
 permalink: /where-ideas-come-from-2

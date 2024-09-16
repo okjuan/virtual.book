@@ -1,4 +1,5 @@
 ---
+modified_date: 2023-10-19
 layout: post
 title: Stop Being Reasonable (2019)
 subsubtitle: by Eleanor Gordon-Smith

@@ -1,4 +1,5 @@
 ---
+modified_date: 2023-10-19
 layout: post
 title: Several Short Sentences About Writing (2012)
 subsubtitle: by Verlyn Klinkenborg

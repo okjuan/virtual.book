@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-06-15
 layout: post
 title: 'how to write like Cormac McCarthy'
 permalink: /write-like-cormac

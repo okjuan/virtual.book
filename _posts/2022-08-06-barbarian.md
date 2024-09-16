@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-03-12
 layout: post
 title: Barbarian (2022)
 permalink: /barbarian

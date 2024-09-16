@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-03-15
 layout: post
 title: how to show instead of telling
 subtitle: (This is an excerpt from my piece <a href='https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360'>The Virtual Book</a>.)

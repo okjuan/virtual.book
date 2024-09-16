@@ -1,4 +1,5 @@
 ---
+modified_date: 2023-11-20
 layout: post
 title: how to ditch books
 subsubtitle: "(Originally posted <a href='https://okjuan.medium.com/feeling-good-about-ditching-books-1c4633fd87f'>on okjuan.medium.com</a>.)"

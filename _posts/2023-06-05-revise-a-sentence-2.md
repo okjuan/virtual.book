@@ -1,4 +1,5 @@
 ---
+modified_date: 2023-11-22
 layout: post
 title: "how to revise a sentence #2"
 permalink: /revise-a-sentence-2

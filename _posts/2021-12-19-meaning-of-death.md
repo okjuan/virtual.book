@@ -1,4 +1,5 @@
 ---
+modified_date: 2023-10-19
 layout: post
 title: The Meaning of Death (1965)
 subsubtitle: by Herman Feifel

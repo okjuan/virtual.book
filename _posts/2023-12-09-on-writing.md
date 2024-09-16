@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-03-12
 layout: post
 title: On Writing (2000)
 subtitle: A Memoir of the Craft

@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-03-12
 layout: post
 title: 'Infinite Jest (1996)'
 subsubtitle: by David Foster Wallace

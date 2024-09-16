@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-03-12
 layout: post
 title: "writing <i>how to work</i>"
 permalink: /writing-how-to-work

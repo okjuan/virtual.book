@@ -1,4 +1,5 @@
 ---
+modified_date: 2023-12-06
 layout: post
 title: what are the best IPAs in the PNW?
 permalink: /best-IPAs

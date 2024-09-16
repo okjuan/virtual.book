@@ -1,4 +1,5 @@
 ---
+modified_date: 2023-10-19
 layout: post
 title: The Departed (2006)
 permalink: /the-departed

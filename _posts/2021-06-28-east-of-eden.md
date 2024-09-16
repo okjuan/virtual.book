@@ -1,4 +1,5 @@
 ---
+modified_date: 2023-10-19
 layout: post
 title: East of Eden (1962)
 subsubtitle: by John Steinbeck

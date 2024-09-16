@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-08-03
 layout: post
 title: "writing <i>bob the handyman</i>"
 permalink: /writing-bob

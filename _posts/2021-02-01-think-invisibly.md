@@ -1,4 +1,5 @@
 ---
+modified_date: 2023-12-01
 layout: post
 title: "how to think invisibly"
 subsubtitle: "(Originally posted <a href='https://okjuan.medium.com/the-invisible-thinker-c5ee42b4bb5'>on okjuan.medium.com</a>.)"

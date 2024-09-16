@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-03-12
 layout: post
 title: I'm Glad My Mom Died (2022)
 subsubtitle: by Jennette McCurdy
