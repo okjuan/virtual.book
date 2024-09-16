@@ -1,25 +1,13 @@
 ---
 layout: post
-title: "what I'm doing now #6"
-permalink: /now-september-2024
-tags: journal
+title: getting a minor concussion
+permalink: /minor-concussion
+tags: journal bureacracy health
 ---
 
-Getting injured, traveling, and more.
+In my couple decades of playing soccer, I've deliberately headed many balls and involuntarily taken several to the face.
 <!--more-->
-
-### getting injured
-
-I've been getting a bit unlucky.
-My first attempt at returning to soccer goalkeeping resulted in a badly sprained ring finger.
-The xray showed "a couple tiny fragments of bone", which the hand doctor that I was later referred to desribed as "technically a break".
-To him, I relayed the playful question my friend has asked: what happens to the bits of bone?
-Yes, he confirmed, they get "resorbed".
-(I'd used the word humorously, but it turned out to be a real word.)
-
-A few weeks later, back in the outfield, my domain, I took a meanly struck soccer ball to the back of the head.
-In my couple decades of playing soccer, I've headed many, many balls deliberately and even taken several to the face.
-But I can't recall ever getting hit so firmly on the back of the head, or it ever hurting so much.
+But I can't recall ever getting hit so firmly on the back of the head as I did in a game in June, or it ever hurting so much.
 
 Immediately, I subbed off to rest my sore head, unconcerned and expecting to resume playing as if nothing had happened.
 But I noticed my mind working differently.
@@ -77,9 +65,3 @@ So we called a third nurse, this time the public one in British Columbia.
 This one was bubbly and warm.
 She went through a checklist similar to the one that the other two nurses had followed, but seemed happier to listen to answers longer than yes or no.
 I answered the same questions again patiently, encouraged by the expectation that this nurse, finally, would tell me that it was probably fine to go home tonight and, if need be, see a doctor tomorrow.
-
-### visiting the Canadian east
-
----
-
-### what's next?
