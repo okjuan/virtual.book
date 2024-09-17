@@ -1,4 +1,14 @@
-<ul class="post-list">
+<div>
+  <form id="post-order-controls">
+    <div class="radio-button-group">
+      <input type="radio" id="post-date" name="option" value="datePublished" checked>
+      <label for="post-date">Post Date</label>
+      <input type="radio" id="modified-date" name="option" value="dateModified">
+      <label for="modified-date">Modified Date</label>
+    </div>
+  </form>
+
+<ul class="post-list" id="post-list">
     {%- assign date_format = site.minima.date_format | default: "%b %-d %Y" -%}
     {%- for post in include.posts -%}
       {%- if page.category == nil or post.path contains page.category -%}
@@ -40,3 +50,4 @@
       {%- endif -%}
     {%- endfor -%}
 </ul>
+</div>
