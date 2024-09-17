@@ -478,7 +478,15 @@ em, i {
 }
 
 #post-order-controls {
-  float: right;
+  display: block;
+  margin-bottom: $spacing-unit * 0.5;
+
+  @media screen and (min-width: $on-medium) {
+    float: right;
+    position: relative;
+    top: -($spacing-unit * 0.7);
+    margin: 0px;
+  }
 }
 
 #post-order-controls {
