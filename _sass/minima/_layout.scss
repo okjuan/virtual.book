@@ -484,7 +484,7 @@ em, i {
   @media screen and (min-width: $on-medium) {
     float: right;
     position: relative;
-    top: -($spacing-unit * 0.7);
+    top: -($spacing-unit * 0.5);
     margin: 0px;
   }
 }
@@ -496,8 +496,6 @@ em, i {
 
 .radio-button-group {
   display: flex;
-  border-radius: 10px;
-  border: 2px solid $border-color-03;
 }
 
 .radio-button-group input[type="radio"] {
@@ -505,24 +503,15 @@ em, i {
 }
 
 .radio-button-group label {
-  padding: 1px 7px;
-  border-style: solid;
-  border-color: transparent;
-  background-color: $background-color;
+  padding: 0px 7px;
   cursor: pointer;
-  font-size: $small-font-size;
-
-  &:first-of-type {
-    border-radius: 7px 0 0 7px; /* Top-left and bottom-left corners */
-    border-width: 3px 5px 3px 3px;
-  }
-
-  &:last-of-type {
-    border-radius: 0 7px 7px 0; /* Top-right and bottom-right corners */
-    border-width: 3px 3px 3px 5px;
-  }
 }
 
 .radio-button-group input[type="radio"]:checked + label {
-  border-color: $border-color-03;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#post-order-controls-label {
+  padding: 0px 7px;
 }
