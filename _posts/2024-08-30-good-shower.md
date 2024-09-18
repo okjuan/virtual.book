@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-09-01
+modified_date: 2024-09-18
 layout: post
 title: what makes a good shower?
 permalink: /good-shower
@@ -14,18 +14,17 @@ The cost of the compromise is hidden in plain sight, difficult to notice due to 
 Allow me to shed some light on the ways that the tub compromises the shower.
 
 We begin with the uncomfortable task of having to _climb_ in, over a literal barrier, without any clothes to soften accidental contact.
-And yet, clearing this hurdle is not merely a matter of stepping high and long.
-Because on the other side of the barrier one must balance onefooted on standing surface mutated by the tub into a skinny and smooth ramp with sloping edges.
-It's shockingly inhospitable ground considering its primary aim is to allow a bipedal, softskinned animal to stand barefoot while being showered in water and to contort while applying lubricants that ooze dangerously downwards onto an already slick slope.
-But we're used to it, so we don't notice its unfriendly design.
+Clearing this hurdle is not merely a matter of stepping high and long because on the other side one must balance onefooted on a skinny, slippery ramp with sloping edges.
+It's shockingly inhospitable ground considering its primary aim is to allow a bipedal, softskinned animal to stand barefooted in showering water and contort while applying lubricants that ooze dangerously downwards onto an already slick surface.
+But we're used to this design, so we don't notice its baffling unfriendliness.
 
-On the other hand, a shower that needs not perform as a tub can focus on being a good shower.
+If freed from the responsibility of doubling as a tub, a shower can focus on being a good shower.
 It can be easy to enter and to exit.
-Its standing ground -- freed from the obligation to be gentle on a bare backside -- can be tiled or otherwise surfaced with material of high enough friction so that it is easy to balance on, whether covered in soapy water or not.
-And it can be wide enough to allow a person to turn their body without grazing the shower curtain or feeling otherwise constricted.
+Its standing ground, unobliged to accommodate the bare backside, can be tiled or otherwise surfaced with material that gives traction to the bare foot, even when covered in soapy water.
+The dimensions can be square and wide enough to allow a person to turn and easily rinse different parts of their body without having to watch their step or feel unreasonably constricted.
 
 Good design, as they say, is invisible.
 A good shower demands no effort or conscious attention from its user.
 It lets them get clean while {% post_url_with_hover_card their mind wanders | 2021-02-01-think-invisibly %}.
 To achieve this, it must make it extremely easy to do all the basic things: get in, stand, wash, rinse, and get out.
-It sounds obvious, and yet the standard tubshower hybrid most of us have at home fails this basic test.
+The tubshower hybrid most of us have at home fails this basic test.
