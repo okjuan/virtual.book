@@ -1,4 +1,15 @@
-<ul class="post-list">
+<div>
+  <form id="post-order-controls">
+    Order by&nbsp;&nbsp;
+    <div class="radio-button-group">
+      <input type="radio" id="post-date" name="option" value="datePublished" checked>
+      <label for="post-date">Post Date</label>
+      <input type="radio" id="modified-date" name="option" value="dateModified">
+      <label for="modified-date">Modified Date</label>
+    </div>
+  </form>
+
+<ul class="post-list" id="post-list">
     {%- assign date_format = site.minima.date_format | default: "%b %-d %Y" -%}
     {%- for post in include.posts -%}
       {%- if page.category == nil or post.path contains page.category -%}
@@ -12,9 +23,7 @@
               {% assign modDateInSecs = post.modified_date | date: "%s" | minus: 0 %}
               {%- if modDateInSecs > postDateInSecs -%}
                 {%- assign mdate = post.modified_date | date_to_xmlschema -%}
-                <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-                  &nbsp;(mod. {{ mdate | date: date_format }})
-                </time>
+                &nbsp;(mod.&nbsp;<time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">{{ mdate | date: date_format }}</time>)
               {%- endif -%}
             {%- endif -%}
           </span>
@@ -40,3 +49,4 @@
       {%- endif -%}
     {%- endfor -%}
 </ul>
+</div>
