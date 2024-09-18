@@ -3,6 +3,9 @@
 To run this site locally, you will need to have ruby and other things installed.
 Follow the instructions GitHub gives for developing GitHub Pages.
 
+After cloning this repo, run `git config core.hooksPath git_hooks/` to set up this repo's git hooks.
+You only need to do this once.
+
 # Development
 
 Run `bundle exec jekyll serve` to deploy this site locally.

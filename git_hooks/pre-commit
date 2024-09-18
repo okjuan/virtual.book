@@ -1,0 +1,24 @@
+#!/bin/bash
+
+set -e
+
+current_date=$(date +%Y-%m-%d)
+for file in $(git diff --cached --name-only | grep '^_posts/.*\.md$'); do
+  # If not already present, insert 'modified_date: ' to 2nd line of post
+  if ! grep -q 'modified_date:' "$file"; then
+    echo "Adding 'modified_date: ' to file $file"
+    # NOTE: newlines are necessary to make this work on Mac!
+    sed -i '' '2 i\
+modified_date:
+' "$file"
+  fi
+
+  # Update the 'modified_date' to the current date
+  sed -i '' "s/modified_date:.*/modified_date: $current_date/" "$file"
+
+  # Stage the file for commit
+  git add "$file"
+done
+
+# Exit successfully
+exit 0
