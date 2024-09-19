@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-03-15
+modified_date: 2024-09-19
 layout: post
 title: "how to tell a story #2"
 subtitle: (This is an excerpt from my piece <a href='https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360'>The Virtual Book</a>.)
@@ -7,7 +7,7 @@ permalink: /tell-a-story-2
 tags: essays mediums story-telling music photography videos journalism
 ---
 
-As satisfying as it was to hear Herbie narrate the {% post_url_with_hover_card stories in his audiobook | 2022-06-11-reinvent-yourself %}, it was frustrating to never hear his music.
+As satisfying as it was to hear Herbie narrate the {% vbook_post stories in his audiobook | 2022-06-11-reinvent-yourself %}, it was frustrating to never hear his music.
 <!--more-->
 Music snippets would’ve expressed much more than descriptions like “gorgeous house of sound” and “river of gorgeous sound”.
 Instead of working with a ghostwriter to write a book, perhaps Herbie should’ve collaborated with Ken Burns, creator of the Jazz documentary series, to create something more.
@@ -35,7 +35,7 @@ Like authors, journalists and essayists insist on writing things the reader need
 Pieces like _The New Yorker_’s [recent one](https://www.newyorker.com/magazine/2022/02/28/florine-stettheimer-artist-book-review-barbara-bloemink) on painter Florine Stettheimer lack samples of the visual art they talk about, leaving the reader to collect descriptions of the painter’s style — “feathery, ornamental…faux-naïf, fluorescent” — and try to hold them, as they spill out of mind like water out of cupped hands, until they can look up her paintings.
 Why work so hard? Is this the writer’s job or the reader’s? The piece leaves a faint impression compared to _Affairs of the Art_, a short film available on _The New Yorker_’s YouTube channel: a shiver-inducing yet hilarious piece that combines writing, narration, drawings, sound effects, and music.
 
-This is {% post_url_with_hover_card not | 2023-03-09-justify-writing %} to say we abandon writing.
-But can we compensate for its weaknesses by {% post_url_with_hover_card exploring other formats | 2022-06-11-show-instead-of-telling %}?
+This is {% vbook_post not | 2023-03-09-justify-writing %} to say we abandon writing.
+But can we compensate for its weaknesses by {% vbook_post exploring other formats | 2022-06-11-show-instead-of-telling %}?
 
 <iframe style="border-radius:12px; margin-bottom: 15px;" width="100%" height="400" src="https://www.youtube.com/embed/bAX9_rDvO_c?si=-KdSp76aXrly-Kc-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

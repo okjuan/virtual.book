@@ -1,4 +1,5 @@
 ---
+modified_date: 2024-09-19
 layout: post
 title: 'how to tell a story #3'
 permalink: /tell-a-story-3
@@ -19,7 +20,7 @@ I sense the presence of writers and their attempts to show me what's happening a
 I can't get lost in the fictional world as if it were a real one because I see the pencil marks from when it was sketched out.
 My [suspension of disbelief](https://omni.wikiwand.com/en/articles/Suspension_of_disbelief) never takes off.
 One might say, Well, yeah, all fictional plots are prescribed.
-But they're not, and writers like Stephen King and Cormac McCarthy have {% post_url_with_hover_card attested to it | 2023-12-01-where-ideas-come-from %}.
+But they're not, and writers like Stephen King and Cormac McCarthy have {% vbook_post attested to it | 2023-12-01-where-ideas-come-from %}.
 
 In great shows like _The Sopranos_, plot is not implemented, it's incubated.
 The show feels to me like it's happening spontaneously, developing by itself as a sequence of events, reactions, and actions.
@@ -31,4 +32,4 @@ Episodes generate the plot.
 Characters are agents, not passengers.
 I don't feel like the writers are leading me to the plot's predetermined destination.
 In fact I don't feel their presence at all.
-I feel like I'm {% post_url_with_hover_card witnessing something | 2022-06-11-tell-a-story %}.
+I feel like I'm {% vbook_post witnessing something | 2022-06-11-tell-a-story %}.

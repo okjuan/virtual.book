@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-06-05
+modified_date: 2024-09-19
 layout: post
 title: concerts
 permalink: /concerts
@@ -21,11 +21,11 @@ Log of concerts I've attended.
 
 | Rating | Artist | City | Country | Venue | Date |
 | - | - | - | - | - | - |
-| &#x2605; &#x2605; | {% post_url_with_hover_card Terrace Martin with James Fauntleroy | 2024-06-04-blue-note %} | New York City | USA | Blue Note | 05/23/2024 |
+| &#x2605; &#x2605; | {% vbook_post Terrace Martin with James Fauntleroy | 2024-06-04-blue-note %} | New York City | USA | Blue Note | 05/23/2024 |
 | &#x2605; &#x2605; | Kurt Rosenwinkel | New York City | USA | Village Vanguard | 05/18/2024 |
 | &#x2605; &#x2605; | Nate Smith, Kiefer (3rd), & Carrtoons | Seattle, WA | USA | Nectar Lounge | 05/16/2024 |
-| &#x2605; | {% post_url_with_hover_card Hailu Mergia | 2024-04-06-hailu-mergia %} | Seattle, WA | USA | Tractor Tavern | 03/01/2024 |
-| &#x2605; &#x2605; &#x2605; | {% post_url_with_hover_card Vieux Farka Touré | 2024-04-07-vieux-farka-toure %} | Vancouver, BC | Canada | York Theatre | 02/23/2024 |
+| &#x2605; | {% vbook_post Hailu Mergia | 2024-04-06-hailu-mergia %} | Seattle, WA | USA | Tractor Tavern | 03/01/2024 |
+| &#x2605; &#x2605; &#x2605; | {% vbook_post Vieux Farka Touré | 2024-04-07-vieux-farka-toure %} | Vancouver, BC | Canada | York Theatre | 02/23/2024 |
 
 #### 2023
 

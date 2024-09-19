@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-03-12
+modified_date: 2024-09-19
 layout: post
 title: The State of Affairs (2017)
 subtitle: Rethinking Infidelity
@@ -15,4 +15,4 @@ It is an orientation on marriage and monogamy that considers selfhood, individua
 Do yourself a favor.
 
 It's also written well.
-It's mildly funny and full of {% post_url_with_hover_card well-coordinated metaphors | 2023-03-09-coordinate-metaphors %}.
+It's mildly funny and full of {% vbook_post well-coordinated metaphors | 2023-03-09-coordinate-metaphors %}.

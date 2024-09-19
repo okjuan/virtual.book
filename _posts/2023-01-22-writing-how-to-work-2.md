@@ -1,12 +1,12 @@
 ---
-modified_date: 2024-03-12
+modified_date: 2024-09-19
 layout: post
 title: "writing <i>how to work #2</i>"
 permalink: /writing-how-to-work-2
 tags: journal writing
 ---
 
-Notes about style and process of writing {% post_url_with_hover_card how to work #2 | 2023-01-22-work-2 %}.
+Notes about style and process of writing {% vbook_post how to work #2 | 2023-01-22-work-2 %}.
 <!--more-->
 
 I started this piece months ago, alongside others that I still have not published.

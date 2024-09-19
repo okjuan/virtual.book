@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-03-12
+modified_date: 2024-09-19
 layout: post
 title: how to revise a sentence
 permalink: /revise-a-sentence
@@ -27,4 +27,4 @@ Is that better?
 Or is there is still something off?
 If you're not sure, leave it for now and read through the draft later.
 
-In the words of writer {% post_url_with_hover_card Verlyn Klinkenborg | 2023-02-25-several-short-sentences %}: _Read until your ear detects a problem - a subtle disturbance. Stop there._
+In the words of writer {% vbook_post Verlyn Klinkenborg | 2023-02-25-several-short-sentences %}: _Read until your ear detects a problem - a subtle disturbance. Stop there._

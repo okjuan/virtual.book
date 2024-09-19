@@ -1,10 +1,10 @@
 Alfred Adler claimed that all problems were interpersonal relationship problems.
 Freudian psychoanalysts credit childhood trauma and unconscious drives as fundamental.
 Lately I've been thinking about ego and self-image as a gravitational center that grounds our thoughts and behavior.
-(Ego is an overloaded term and I've written about {% post_url_with_hover_card my sense | 2023-11-21-ego %} of it.)
+(Ego is an overloaded term and I've written about {% vbook_post my sense | 2023-11-21-ego %} of it.)
 
 I think that the ongoing [male crisis](https://youtu.be/GHkhTIEe254?si=qWMV2Zo8Z6qIQqet) can be articulated in terms of ego and self-esteem.
-I suspect the rage many men evidently feel is {% post_url_with_hover_card self-loathing reflected outward | 2023-11-07-exist %} in a desperate attempt at self-preservation.
+I suspect the rage many men evidently feel is {% vbook_post self-loathing reflected outward | 2023-11-07-exist %} in a desperate attempt at self-preservation.
 These people are struggling for viable [ways to exist](https://youtu.be/DHHqQDKzjTg?si=q_rw9w_xv8P4joQC).
 
 When I first learned of Andrew Tate's popularity with boys and young men, I was not only dismayed but surprised.

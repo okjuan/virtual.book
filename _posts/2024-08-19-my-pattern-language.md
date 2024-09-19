@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-08-31
+modified_date: 2024-09-19
 layout: post
 title: my pattern language
 permalink: /my-pattern-language
@@ -22,7 +22,7 @@ The patterns are ordered by scale from big to small, but they also contain refer
 Forward references elucidate how larger patterns depend on smaller ones and backreferences contextualize patterns in larger ones.
 
 I find the approach -- flexible, deferential, and associative -- rather appealing.
-In fact, the book abides by various principles of my {% post_url_with_hover_card virtual book | 2023-08-11-virtual-book %} idea, namely: multimedia, readerdriven, nonlinear, and nonmonolithic.
+In fact, the book abides by various principles of my {% vbook_post virtual book | 2023-08-11-virtual-book %} idea, namely: multimedia, readerdriven, nonlinear, and nonmonolithic.
 As a big fan of wikis, I'm pleased to read that it inspired the [first online wiki](https://omni.wikiwand.com/en/articles/WikiWikiWeb).
 And as a programmer, I'm intrigued to learn that it inspired the idea of [software design patterns](https://www.wikiwand.com/en/articles/Software_design_pattern), which are a core part of the industry vernacular.
 
@@ -75,14 +75,14 @@ I never take baths.
 Even when I do, they're not so much a luxury as a trifle.
 Showering, on the other hand, is special.
 It is, first of all, a daily respite, a place to relax and recharge.
-But what makes it invaluable is that it doubles as an opportunity to {% post_url_with_hover_card listen to my subsconscious | 2021-02-01-think-invisibly %}.
+But what makes it invaluable is that it doubles as an opportunity to {% vbook_post listen to my subsconscious | 2021-02-01-think-invisibly %}.
 And for this moment to flourish fully and consistently, I need the right physical space.
 
 Good design, as they say, is invisible.
 A good shower demands no effort or conscious attention from its user.
 It lets them get clean while their mind wanders.
 To achieve this, it must make it extremely easy to do all the basic things: get in, stand, wash, rinse, and get out.
-It sounds obvious, but the standard tubshower hybrid most of us have at home {% post_url_with_hover_card fails this basic test | 2024-08-30-good-shower %}.
+It sounds obvious, but the standard tubshower hybrid most of us have at home {% vbook_post fails this basic test | 2024-08-30-good-shower %}.
 
 Bonus points for nice tiles and for a flat entry with no intermediary ledge.
 

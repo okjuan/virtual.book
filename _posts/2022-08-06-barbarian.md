@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-03-12
+modified_date: 2024-09-19
 layout: post
 title: Barbarian (2022)
 permalink: /barbarian
@@ -17,4 +17,4 @@ Don't say it!
 It's already there in the story!
 
 Spelling it out reminds the audience that they're watching something written by somebody and pulls them out.
-Don't describe it -- {% post_url_with_hover_card make it | 2021-01-10-make.instead.of.describing %}!
+Don't describe it -- {% vbook_post make it | 2021-01-10-make.instead.of.describing %}!

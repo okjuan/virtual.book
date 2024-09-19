@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-03-12
+modified_date: 2024-09-19
 layout: post
 title: On Writing (2000)
 subtitle: A Memoir of the Craft
@@ -12,9 +12,9 @@ Half memoir, half advice for aspiring fiction writers.
 Both good.
 <!--more-->
 
-I enjoy and mostly trust his {% post_url_with_hover_card writing advice | 2023-12-09-king-writing-advice %}.
+I enjoy and mostly trust his {% vbook_post writing advice | 2023-12-09-king-writing-advice %}.
 
-This is yet {% post_url_with_hover_card another | 2021-08-06-possibilities %} book that should be made {% post_url_with_hover_card virtual | 2023-08-11-virtual-book %}.
+This is yet {% vbook_post another | 2021-08-06-possibilities %} book that should be made {% vbook_post virtual | 2023-08-11-virtual-book %}.
 
 It consists of three distinct parts: a memoir of King's life; advice for fiction writers; and a vignette about King's near-death experience.
 (Really, it consists of two different types of writing: memoir and practical advice.)

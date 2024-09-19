@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-03-15
+modified_date: 2024-09-19
 layout: post
 title: how to tell a story
 subtitle: (This is a slightly edited excerpt from my piece <a href='https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360'>The Virtual Book</a>.)
@@ -12,8 +12,8 @@ Decades ago, The New Yorker and other magazines experimented with the journalist
 Writers aspired not just to document scenes but to recreate them for readers to witness.
 Though some criticized this practice for warping truth through interpretation, some writers flourished in it.
 Tom Wolfe, a practitioner and evangelist of the method, compiled exemplary articles in his book The New Journalism.
-According to Wolfe, using techniques of literary realism was like {% post_url_with_hover_card adding electricity | 2022-06-11-show-instead-of-telling %} into the otherwise mechanical machine of journalism.
-By using dialogue, {% post_url_with_hover_card point-of-view | 2023-06-30-narrate-transparently %}, and symbolism, writers could achieve “absolute involvement of the reader”.
+According to Wolfe, using techniques of literary realism was like {% vbook_post adding electricity | 2022-06-11-show-instead-of-telling %} into the otherwise mechanical machine of journalism.
+By using dialogue, {% vbook_post point-of-view | 2023-06-30-narrate-transparently %}, and symbolism, writers could achieve “absolute involvement of the reader”.
 
 The anthology includes a passage from Hunter S.
 Thompson’s nonfiction novel on the Hell’s Angels, which he wrote after a year of living with the outlaws.

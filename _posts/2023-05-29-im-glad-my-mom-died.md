@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-03-12
+modified_date: 2024-09-19
 layout: post
 title: I'm Glad My Mom Died (2022)
 subsubtitle: by Jennette McCurdy
@@ -11,7 +11,7 @@ tags: reviews writing books parenting memoir therapy child-star abuse anxiety de
 Really really good.
 It shows that McCurdy is not just interested in telling her story but also interested in writing as a craft.
 <!--more-->
-She shows a lot of restraint. The book consists of a hundred or so vignettes that span her first twenty-something years. She keeps them brief when they ought to be and she doesn't bore the reader with {% post_url_with_hover_card unnecessary transitions | 2023-02-25-several-short-sentences %} or reminders. She keeps it moving while managing to be very clear and direct.
+She shows a lot of restraint. The book consists of a hundred or so vignettes that span her first twenty-something years. She keeps them brief when they ought to be and she doesn't bore the reader with {% vbook_post unnecessary transitions | 2023-02-25-several-short-sentences %} or reminders. She keeps it moving while managing to be very clear and direct.
 
 It's clear she put a lot of work into this.
 Not just in writing, but in therapy.

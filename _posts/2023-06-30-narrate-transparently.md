@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-03-12
+modified_date: 2024-09-19
 layout: post
 title: how to narrate transparently
 permalink: /narrate-transparently
@@ -7,10 +7,10 @@ tags: essays writing narration point-of-view norman-mailer new-journalism
 
 ---
 
-I read half of {% post_url_with_hover_card The Executioner's Song | 2023-04-05-executioners-song %} -- Norman Mailer's gargantuan, Pulitzer Prize-winning nonfiction novel about Gary Gilmore -- and figured I could put it down and move on.
+I read half of {% vbook_post The Executioner's Song | 2023-04-05-executioners-song %} -- Norman Mailer's gargantuan, Pulitzer Prize-winning nonfiction novel about Gary Gilmore -- and figured I could put it down and move on.
 <!--more-->
 I knew how the story would end and had read enough of the book to appreciate Mailer as a writer.
-And yet, despite my skepticism of {% post_url_with_hover_card the value of finishing books | 2020-01-12-ditch-books %}, a few months on I found myself drawn back in.
+And yet, despite my skepticism of {% vbook_post the value of finishing books | 2020-01-12-ditch-books %}, a few months on I found myself drawn back in.
 And in my second session with the book I noticed a technique that Mailer uses throughout it.
 
 I don't know if the technique has a name.

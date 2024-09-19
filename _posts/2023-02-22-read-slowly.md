@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-03-12
+modified_date: 2024-09-19
 layout: post
 title: how to read slowly
 permalink: /read-slowly
@@ -7,7 +7,7 @@ tags: essays learning reading
 
 ---
 
-Everyone should learn to {% post_url_with_hover_card leave books unfinished | 2020-01-12-ditch-books %}.
+Everyone should learn to {% vbook_post leave books unfinished | 2020-01-12-ditch-books %}.
 <!--more-->
 We should also fight the urge to read books quickly.
 If a book grabs your attention and pulls you in, go ahead.

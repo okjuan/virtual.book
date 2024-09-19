@@ -20,4 +20,4 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_tag('post_url_with_hover_card', Jekyll::InternalSiteLink)
+Liquid::Template.register_tag('vbook_post', Jekyll::InternalSiteLink)

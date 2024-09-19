@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-03-12
+modified_date: 2024-09-19
 layout: post
 title: Poor Things (2023)
 permalink: /poor-things
@@ -24,4 +24,4 @@ We didn't need to be told, we could already sense it from his character and the 
 For me, the story-telling spell breaks momentarily when I feel like the writers are trying to tell me something.
 It reminds me that I'm watching a fiction designed by storytellers.
 But I'm a bit picky about this.
-I had a similar problem with the writing in {% post_url_with_hover_card Barbarian | 2022-08-06-barbarian %}.
+I had a similar problem with the writing in {% vbook_post Barbarian | 2022-08-06-barbarian %}.

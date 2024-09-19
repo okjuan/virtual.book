@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-09-18
+modified_date: 2024-09-19
 layout: post
 title: what makes a good shower?
 permalink: /good-shower
@@ -25,6 +25,6 @@ The dimensions can be square and wide enough to allow a person to turn and easil
 
 Good design, as they say, is invisible.
 A good shower demands no effort or conscious attention from its user.
-It lets them get clean while {% post_url_with_hover_card their mind wanders | 2021-02-01-think-invisibly %}.
+It lets them get clean while {% vbook_post their mind wanders | 2021-02-01-think-invisibly %}.
 To achieve this, it must make it extremely easy to do all the basic things: get in, stand, wash, rinse, and get out.
 The tubshower hybrid most of us have at home fails this basic test.

@@ -1,12 +1,12 @@
 ---
-modified_date: 2024-03-12
+modified_date: 2024-09-19
 layout: post
 title: "writing <i>how to work</i>"
 permalink: /writing-how-to-work
 tags: journal writing
 ---
 
-Notes about style and process of writing {% post_url_with_hover_card how to work | 2021-04-25-work %}.
+Notes about style and process of writing {% vbook_post how to work | 2021-04-25-work %}.
 <!--more-->
 
 I wrote this piece while reading Steinbeck’s East of Eden.

@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-03-12
+modified_date: 2024-09-19
 layout: post
 title: 'Sing Backwards and Weep (2020)'
 subsubtitle: by Mark Lanegan
@@ -7,7 +7,7 @@ permalink: /sing-backwards-and-weep
 tags: reviews books memoir addiction violence music rock seattle washington
 ---
 
-My {% post_url_with_hover_card second attempt | 2023-11-23-infinite-jest %} to review a book while I read it instead of waiting until I finish it.
+My {% vbook_post second attempt | 2023-11-23-infinite-jest %} to review a book while I read it instead of waiting until I finish it.
 <!--more-->
 
 This book's average Goodreads rating is 4.33, which is high.

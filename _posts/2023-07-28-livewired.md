@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-03-12
+modified_date: 2024-09-19
 layout: post
 title: Livewired (2020)
 subtitle: The Inside Story of the Ever-Changing Brain
@@ -22,7 +22,7 @@ A fascinating example is sighted people learning braille with blindfolds on: wit
 This is also why blind people's other senses are heightened: those other senses, backed up by more brainpower, are higher resolution.
 
 In fact, according to Eagleman, the struggle for neural real estate is so contentious that your sense of vision can't take a night off.
-Eagleman theorizes that {% post_url_with_hover_card dreams are nightly exercises | 2023-05-29-interpret-your-dreams %} of our visual muscles that exist to strengthen it against invasions from neighboring neural regions.
+Eagleman theorizes that {% vbook_post dreams are nightly exercises | 2023-05-29-interpret-your-dreams %} of our visual muscles that exist to strengthen it against invasions from neighboring neural regions.
 
 It is at the cost of this volatility that we gain our brain's extraordinary adaptability.
 The fact that our mental capabilities are not genetically pre-programmed means that we rely on the world around us to do the programming.

@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-03-12
+modified_date: 2024-09-19
 layout: post
 title: how to like your life
 permalink: /like-your-life
@@ -33,7 +33,7 @@ This is an answer to know and confront.
 
 But if these activities are good, if they satisfy your expectations of life-worthy activities, then why don't they satisfy you?
 Is their ugliness your own mortality being reflected back at you?
-Will you {% post_url_with_hover_card make peace with it | 2023-03-22-live-in-the-moment %}?
+Will you {% vbook_post make peace with it | 2023-03-22-live-in-the-moment %}?
 
 Or is their ugliness coming from their will to control you?
 Does it make you squirm to think that you have handed over the reigns?

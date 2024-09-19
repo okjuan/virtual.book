@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-03-12
+modified_date: 2024-09-19
 layout: post
 title: hockey game
 permalink: /hockey-game
@@ -23,4 +23,4 @@ I've since learned that they do this because the defensive team can't just dump 
 They first have to regain possession and get it back across that blue line.
 Only then can they launch it into the other team's end.
 Then the cycle repeats at the other end.
-It's funny how {% post_url_with_hover_card games are designed | 2024-02-03-what-are-rules %} to avoid certain behaviors and can end up transforming the tactics of how the game is played.
+It's funny how {% vbook_post games are designed | 2024-02-03-what-are-rules %} to avoid certain behaviors and can end up transforming the tactics of how the game is played.

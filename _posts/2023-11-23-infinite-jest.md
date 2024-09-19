@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-03-12
+modified_date: 2024-09-19
 layout: post
 title: 'Infinite Jest (1996)'
 subsubtitle: by David Foster Wallace
@@ -39,7 +39,7 @@ Main character: (new) Erdedy, isolated man with marijuana addiction.
 I enjoyed this chapter more, I think because it was much easier to follow, but also probably because I read it when I had a lot of mental energy.
 
 I assume Wallace's obsessive personality and problems with addiction helped him create this very vivid scene where Erdedy meticulously arranges another "final" binge of marijuana, junk food, action movies, and masturbation.
-Wallace uses {% post_url_with_hover_card transparent narration | 2023-06-30-narrate-transparently %} and stream-of-consciousness to put us inside Erdedy's head.
+Wallace uses {% vbook_post transparent narration | 2023-06-30-narrate-transparently %} and stream-of-consciousness to put us inside Erdedy's head.
 It feels like we have access to the character's thoughts because they flit between subjects without transition:
 > He had not sat down and outright bold-faced lied to her, it had been more of an impression he'd conveyed and nurtured and allowed to gather its own life and force. The insect was now entirely visible. It was on the shelf that held his digital equalizer. What looked like its reemergence might just have been a change in his attention or the two windows' light or the visual context of his surroundings. The girder protruded from the wall and was a triangle of dull steel with holes for shelves to fit into. The metal shelves that held his audio equipment were painted a dark industrial green and were originally made for holding canned goods. They were designed to be extra kitchen shelves. The insect sat inside its dark shiny case with an immobility that seemed like the gathering of a force, it sat like the hull of a vehicle from which the engine had been for the moment removed. It was dark and had a shiny case and antennae that protruded but did not move. He had to use the bathroom. His last piece of contact from the appropriation artist, with whom he had had intercourse, and who during intercourse had sprayed some sort of perfume up into the air from a mister she held in her left hand as she lay beneath him making a wide variety of sounds and spraying perfume up into the air, so that he felt the cold mist of it settling on his back and shoulders and was chilled and repelled, his last piece of contact after he'd gone into hiding with the marijuana she'd gotten for him had been a card she'd mailed that was a pastiche photo of a doormat of coarse green plastic grass with WELCOME on it and next to it a flattering publicity photo of the appropriation artist from her Back Bay gallery, and between them an unequal sign, which was an equal sign with a diagonal slash across it, and also an obscenity he has assumed was directed at him magisculed in red grease pencil along the bottom, with multiple exclamation points.
 

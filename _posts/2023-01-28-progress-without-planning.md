@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-03-12
+modified_date: 2024-09-19
 layout: post
 title: how to progress without planning
 permalink: /progress-without-planning
@@ -8,7 +8,7 @@ tags: essays time-management decision-making work
 
 The other day I picked a bunch of books from my library and tried to start each of them.
 <!--more-->
-I had {% post_url_with_hover_card energy and free time | 2023-01-22-work-2 %}.
+I had {% vbook_post energy and free time | 2023-01-22-work-2 %}.
 None stuck.
 Until one did.
 That's the one I read.
