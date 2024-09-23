@@ -515,3 +515,12 @@ em, i {
 #post-order-controls-label {
   padding: 0px 7px;
 }
+
+#revisions-nav {
+  padding: 0px 10px;
+  color: $text-color;
+}
+
+#revisions-nav > a {
+  cursor: pointer;
+}
