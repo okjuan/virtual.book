@@ -37,6 +37,11 @@ defaults:
     values:
       layout: tag_page
       permalink: tags/:tag/
+  - scope:
+      type: revs  # select all revisions pages
+    values:
+      layout: post
+      permalink: revs/:rev/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

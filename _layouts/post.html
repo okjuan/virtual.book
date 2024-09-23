@@ -25,6 +25,39 @@ layout: base
           &nbsp;(mod.&nbsp;<time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">{{ mdate | date: date_format }}</time>)
         {%- endif -%}
       {%- endif -%}
+      {%- if page.show_revisions -%}
+        {% if page.revision_number == 0 %}
+          {% assign revision_count = page.revision_count %}
+          {% assign latest_version = page %}
+        {% else %}
+          {% assign revision_count = page.current_post.revision_count %}
+          {% assign latest_version = page.current_post %}
+        {% endif %}
+
+        {%- if revision_count > 0 -%}
+          {% assign n = revision_count | plus: page.revision_number %}
+          {% assign cur_revision = page %}
+          {% for r in (1..n) %}
+            {% assign cur_revision = cur_revision.prev_rev %}
+          {% endfor %}
+
+          <span id="revisions-nav">
+            {{revision_count}} revisions:&nbsp;
+            {%- for r in (1..revision_count) -%}
+              {%- assign sep = ', ' -%}
+              {%- if cur_revision.revision_number == revision_count -%}
+                {%- assign sep = '' -%}
+              {%- endif -%}
+              {%- if cur_revision.revision_number == page.revision_number -%}
+                <a href="/vbook/revs{{latest_version.permalink}}/{{cur_revision.revision_number}}/"><b>{{r}}</b></a>{{sep}}
+              {% else %}
+                <a href="/vbook/revs{{latest_version.permalink}}/{{cur_revision.revision_number}}/">{{r}}</a>{{sep}}
+              {%- endif -%}
+              {%- assign cur_revision = cur_revision.next_rev -%}
+            {%- endfor -%}
+          </span>
+        {%- endif -%}
+      {%- endif -%}
       {%- if page.author -%}
         • {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">

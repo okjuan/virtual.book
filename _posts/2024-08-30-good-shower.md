@@ -4,6 +4,7 @@ layout: post
 title: what makes a good shower?
 permalink: /good-shower
 tags: notes design
+show_revisions: true
 ---
 
 The standard bathtub-shower design seems like a good idea.

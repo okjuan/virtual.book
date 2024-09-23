@@ -42,3 +42,5 @@ gem "rexml", "~> 3.2"
 gem 'nokogiri'
 
 gem "kramdown-parser-gfm"
+
+gem "git"
