@@ -48,6 +48,7 @@ defaults:
 # to override the default setting.
 exclude:
   - README.md
+  - git_hooks/
   - Gemfile
   - Gemfile.lock
   - .sass-cache/
