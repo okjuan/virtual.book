@@ -35,26 +35,27 @@ layout: base
         {% endif %}
 
         {%- if revision_count > 0 -%}
-          {% assign n = revision_count | plus: page.revision_number %}
-          {% assign cur_revision = page %}
-          {% for r in (1..n) %}
-            {% assign cur_revision = cur_revision.prev_rev %}
-          {% endfor %}
-
           <span id="revisions-nav">
-            {{revision_count}} revisions:&nbsp;
-            {%- for r in (1..revision_count) -%}
-              {%- assign sep = ', ' -%}
-              {%- if cur_revision.revision_number == revision_count -%}
-                {%- assign sep = '' -%}
+            {%- if page.revision_number == 0 -%}
+              This is the latest version.
+            {%- else -%}
+              {%- assign user_friendly_revision_number = page.revision_number | plus: revision_count | plus: 1 -%}
+              This is revision {{user_friendly_revision_number}} of {{revision_count}}.
+            {%- endif -%}
+            &nbsp;See
+            {% assign separator = ' ' %}
+            {%- if page.prev_rev -%}
+              the <a href="/vbook/revs{{latest_version.permalink}}/{{page.prev_rev.revision_number}}/">previous revision</a>
+              {%- assign separator = ' or ' -%}
+            {%- endif -%}
+            {%- if page.next_rev -%}
+              {%- if page.next_rev.revision_number == 0 -%}
+                {{separator}}the <a href="{{site.baseurl}}{{page.next_rev.url}}">final version</a>
+              {%- else -%}
+                {{separator}}the <a href="{{site.baseurl}}{{page.next_rev.url}}">next revision</a>
               {%- endif -%}
-              {%- if cur_revision.revision_number == page.revision_number -%}
-                <a href="/vbook/revs{{latest_version.permalink}}/{{cur_revision.revision_number}}/"><b>{{r}}</b></a>{{sep}}
-              {% else %}
-                <a href="/vbook/revs{{latest_version.permalink}}/{{cur_revision.revision_number}}/">{{r}}</a>{{sep}}
-              {%- endif -%}
-              {%- assign cur_revision = cur_revision.next_rev -%}
-            {%- endfor -%}
+            {%- endif -%}
+            .
           </span>
         {%- endif -%}
       {%- endif -%}
