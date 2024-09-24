@@ -18,6 +18,13 @@ module Revision
             git_word_diff = get_word_diff(post.path, previous_commit.sha, current_commit.sha)
 
             content_diff = strip_metadata(git_word_diff)
+              # Fix bug caused by custom Liquid tag name change post_url_with_hover_card -> vbook_post
+              # ---
+              # Liquid Exception: Liquid syntax error (line 20): Tag '{% <del>post_url_with_hover_card</del> <strong>vbook_post</strong> their mind wanders | 2021-02-01-think-invisibly %}'
+              # was not properly terminated with regexp: /\%\}/ in /Users/juan/personal/github/vbook/_posts/2024-08-30-good-shower.md
+              .gsub('{+vbook_post+}', 'vbook_post')
+              .gsub('[-post_url_with_hover_card-]', '')
+
             next unless any_diff(content_diff)
 
             ## Replace diff tokens with Markdown formatting
