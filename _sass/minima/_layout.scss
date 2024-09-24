@@ -503,17 +503,13 @@ em, i {
 }
 
 .radio-button-group label {
-  padding: 0px 7px;
+  padding-left: 10px;
   cursor: pointer;
 }
 
 .radio-button-group input[type="radio"]:checked + label {
   font-weight: bold;
   text-decoration: underline;
-}
-
-#post-order-controls-label {
-  padding: 0px 7px;
 }
 
 #revisions-nav {
