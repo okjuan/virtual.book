@@ -1,5 +1,5 @@
 ---
-modified_date: 2023-12-01
+modified_date: 2024-09-25
 layout: post
 title: "how to think invisibly"
 subsubtitle: "(Originally posted <a href='https://okjuan.medium.com/the-invisible-thinker-c5ee42b4bb5'>on okjuan.medium.com</a>.)"
@@ -44,7 +44,10 @@ Poincaré then concludes something that Karl would’ve been mocked for saying: 
 Not because it reenergizes you for more work, but because it is work.
 Rest releases the invisible thinker to explore and find what you haven’t noticed yet.
 You can feel this happening in the shower when novel ideas surface in your mind without prompt.
-And though we can’t steer our [ambient thought](http://www.paulgraham.com/top.html), we can set the direction.
+And though we can’t steer our "ambient thought", we can [tell it what to think about](http://www.paulgraham.com/top.html).
+As Don Draper of Mad Men tells his protégé:
+
+> Peggy, just -- think about it. Deeply. Then forget it. And an idea will jump up in your face.
 
 Our train of thought springs into existence already in motion and it speeds between ideas connected by tracks in our mind.
 Though we cannot access the underlying web of knowledge directly, we experience the result of its traversal.
