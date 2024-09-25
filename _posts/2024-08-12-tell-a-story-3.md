@@ -1,9 +1,10 @@
 ---
-modified_date: 2024-09-19
+modified_date: 2024-09-24
 layout: post
 title: 'how to tell a story #3'
 permalink: /tell-a-story-3
 tags: writing plot tv-shows data-analysis sopranos
+show_revisions: true
 ---
 
 Can quantifying the attributes of a TV show tell us something about its quality?
