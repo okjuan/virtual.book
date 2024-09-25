@@ -5,6 +5,7 @@ title: "how to think invisibly"
 subsubtitle: "(Originally posted <a href='https://okjuan.medium.com/the-invisible-thinker-c5ee42b4bb5'>on okjuan.medium.com</a>.)"
 permalink: /think-invisibly
 tags: essays psychology creativity subconscious problem-solving
+show_revisions: true
 ---
 
 > Does the brain control you, or are you controlling the brain? I don’t know if I’m in charge of mine.
