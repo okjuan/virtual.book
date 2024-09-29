@@ -9,13 +9,15 @@ module Revision
       site.posts.docs.each do |post|
         if post['show_revisions']
           log = repo.log.path(post.path)
-          current_commit = log.first
-          revision_number = -1
+          commits = []
+          log.each do |commit|
+            commits << commit
+          end
+
           revision_count = 0
-          current_post = post
-          log.each do |previous_commit|
-            next if previous_commit.sha == current_commit.sha
-            git_word_diff = get_word_diff(post.path, previous_commit.sha, current_commit.sha)
+          previous_revision = nil
+          for index in (commits.length - 1).downto(1)
+            git_word_diff = get_word_diff(post.path, commits[index].sha, commits[index-1].sha)
 
             content_diff = strip_metadata(git_word_diff)
               # Fix bug caused by custom Liquid tag name change post_url_with_hover_card -> vbook_post
@@ -42,18 +44,21 @@ module Revision
                 p.replace("<div class='paragraph'>#{p.to_html}</div>")
             end
 
-            rev_date = current_commit.date.strftime('%Y-%m-%d')
-            rev = RevisionPage.new(site, post, doc.to_html, revision_number, rev_date)
+            rev_date = commits[index-1].date.strftime('%Y-%m-%d')
+            rev = RevisionPage.new(site, post, doc.to_html, revision_count+1, rev_date)
             site.pages << rev
-            current_post.data['prev_rev'] = rev
-            rev.data['next_rev'] = current_post
-            revision_number -= 1
+            if previous_revision
+                previous_revision.data['next_rev'] = rev
+                rev.data['prev_rev'] = previous_revision
+            end
+
             revision_count += 1
-            current_commit = previous_commit
-            current_post = rev
+            previous_revision = rev
           end
           post.data['revision_count'] = revision_count
-          post.data['revision_number'] = 0
+          post.data['final_version'] = true
+          post.data['prev_rev'] = previous_revision
+          previous_revision.data['next_rev'] = post
         end
       end
     end
@@ -92,7 +97,7 @@ module Revision
     def initialize(site, current_post, content, revision_number, revision_date)
       @site = site             # the current site instance.
       @base = site.source      # path to the source directory.
-      @dir  = "#{current_post.permalink}/#{revision_number}" # the directory the page will reside in.
+      @dir  = "#{current_post.permalink}/revs/#{revision_number}" # the directory the page will reside in.
       @current_post = current_post
 
       @basename = "index"      # filename without the extension.
@@ -138,7 +143,8 @@ module Revision
     def url_placeholders
       {
         :path       => @dir,
-        :rev   => @dir,
+        :rev   => "#{@data['revision_number']}",
+        :final_rev => @current_post['permalink'],
         :basename   => basename,
         :output_ext => output_ext,
       }
