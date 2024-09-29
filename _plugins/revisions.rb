@@ -110,7 +110,7 @@ module Revision
           'revision_number' => revision_number,
           'current_post_url' => current_post.permalink,
           'rev' => revision_number,
-          'title' => current_post['title'],
+          'title' => "#{current_post["title"]} (rev. ##{revision_number})",
           'subtitle' => current_post['subtitle'],
           'subsubtitle' => current_post['subsubtitle'],
           'date' => current_post['date'],
