@@ -26,6 +26,9 @@
                 &nbsp;(mod.&nbsp;<time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">{{ mdate | date: date_format }}</time>)
               {%- endif -%}
             {%- endif -%}
+            {%- if post.show_revisions and post.revision_count -%}
+              <span class="revision-metadata">&nbsp;&#9670;&nbsp;{{post.revision_count}} revisions</span>
+            {%- endif -%}
           </span>
           <div class="post-title-link-container">
             <h3 class="post-title-link">

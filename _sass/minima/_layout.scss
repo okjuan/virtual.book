@@ -257,6 +257,11 @@ em, i {
   color: $brand-color;
 }
 
+.revision-metadata {
+  font-size: $small-font-size;
+  color: $site-title-color;
+}
+
 .post-title-link-container {
   overflow: auto;
 }
