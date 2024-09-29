@@ -105,22 +105,12 @@ module Revision
       @name     = "index.html" # basically @basename + @ext.
       @content  = content
 
-      @title = "#{current_post["title"]} revision n#{revision_number}"
-      @subtitle = current_post['subtitle']
-      @subsubtitle = current_post['subsubtitle']
-      @date = current_post['date']
-      @modified_date = revision_date
-      @show_revisions = current_post['show_revisions']
-      @author = current_post['author']
-      @tags = current_post['tags']
-      @note = current_post['note']
-
       # This allows accessing in *html file via `page.revision_number`, for example.
       @data = {
           'revision_number' => revision_number,
           'current_post_url' => current_post.permalink,
           'rev' => revision_number,
-          'title' => current_post['title'],
+          'title' => "#{current_post["title"]} (rev. ##{revision_number})",
           'subtitle' => current_post['subtitle'],
           'subsubtitle' => current_post['subsubtitle'],
           'date' => current_post['date'],
