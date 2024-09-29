@@ -41,7 +41,7 @@ defaults:
       type: revs  # select all revisions pages
     values:
       layout: post
-      permalink: revs/:rev/
+      permalink: :final_rev/revs/:rev/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -97,7 +97,7 @@ module Revision
     def initialize(site, current_post, content, revision_number, revision_date)
       @site = site             # the current site instance.
       @base = site.source      # path to the source directory.
-      @dir  = "#{current_post.permalink}/#{revision_number}" # the directory the page will reside in.
+      @dir  = "#{current_post.permalink}/revs/#{revision_number}" # the directory the page will reside in.
       @current_post = current_post
 
       @basename = "index"      # filename without the extension.
@@ -143,7 +143,8 @@ module Revision
     def url_placeholders
       {
         :path       => @dir,
-        :rev   => @dir,
+        :rev   => "#{@data['revision_number']}",
+        :final_rev => @current_post['permalink'],
         :basename   => basename,
         :output_ext => output_ext,
       }
