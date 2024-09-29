@@ -26,7 +26,7 @@ layout: base
         {%- endif -%}
       {%- endif -%}
       {%- if page.show_revisions -%}
-        {% if page.revision_number == 0 %}
+        {% if page.final_version %}
           {% assign revision_count = page.revision_count %}
           {% assign latest_version = page %}
         {% else %}
@@ -36,20 +36,19 @@ layout: base
 
         {%- if revision_count > 0 -%}
           <span id="revisions-nav">
-            {%- if page.revision_number == 0 -%}
+            {%- if page.final_version -%}
               This is the latest version.
             {%- else -%}
-              {%- assign user_friendly_revision_number = page.revision_number | plus: revision_count | plus: 1 -%}
-              This is revision {{user_friendly_revision_number}} of {{revision_count}}.
+              This is revision {{page.revision_number}} of {{revision_count}}.
             {%- endif -%}
             &nbsp;See
             {% assign separator = ' ' %}
             {%- if page.prev_rev -%}
-              the <a href="/vbook/revs{{latest_version.permalink}}/{{page.prev_rev.revision_number}}/">previous revision</a>
+              the <a href="{{site.baseurl}}{{page.prev_rev.url}}">previous revision</a>
               {%- assign separator = ' or ' -%}
             {%- endif -%}
             {%- if page.next_rev -%}
-              {%- if page.next_rev.revision_number == 0 -%}
+              {%- if page.next_rev.final_version -%}
                 {{separator}}the <a href="{{site.baseurl}}{{page.next_rev.url}}">final version</a>
               {%- else -%}
                 {{separator}}the <a href="{{site.baseurl}}{{page.next_rev.url}}">next revision</a>
