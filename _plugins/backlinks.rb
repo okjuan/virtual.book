@@ -3,7 +3,7 @@ module Jekyll
     def backlink(target_post)
       backlinks = []
       # e.g. _posts/2022-02-02-dune.md => 2022-02-02-dune
-      post_file_name = File.basename(target_post['path'],File.extname(target_post['path']))
+      target_post_file_name = File.basename(target_post['path'],File.extname(target_post['path']))
 
       # Ruby notes
       # ---
@@ -26,7 +26,7 @@ module Jekyll
         # ---
         # 1. '&' is the safe navigation operator, which is like the '?.' operator in JS
         # 2. '?' is a convention for methods that return a boolean; it doesn't actually do anything
-        if post&.content&.include?(post_file_name) || post&.content&.include?("#{site.baseurl}#{target_post['url']}")
+        if post&.content&.include?("#{site.baseurl}#{target_post['url']}") || (target_post_file_name != "index" && post&.content&.include?(target_post_file_name))
           if post&.url != target_post['url']
             # Ruby notes
             # ---
