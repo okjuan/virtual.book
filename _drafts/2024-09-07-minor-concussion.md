@@ -2,7 +2,7 @@
 layout: post
 title: getting a minor concussion
 permalink: /minor-concussion
-tags: journal bureacracy health
+tags: journal bureacracy health psychology
 ---
 
 In my couple decades of playing soccer, I've deliberately headed many balls and involuntarily taken several to the face.
@@ -10,16 +10,19 @@ In my couple decades of playing soccer, I've deliberately headed many balls and 
 But I can't recall ever getting hit so firmly on the back of the head as I did in a game in June, or it ever hurting so much.
 
 Immediately, I subbed off to rest my sore head, unconcerned and expecting to resume playing as if nothing had happened.
-But I noticed my mind working differently.
-The ongoing match had a dreamy quality.
-A slow stream of associative memories bubbled into my conscious mind.
-Times I'd played soccer before, vague recollections of past situations on the field without any obvious relevance.
-(I later related the incident to some friends and one of them told me he'd once fallen on a turf field and experienced deja vu the instant his head struck the ground.)
-I found the symptomps amusing, not particularly worrisome.
-The knock to the head had clearly thrust me into a creative state of mind.
-(I would confirm this interpretation the next day by scoring 0:27 and 0:36 on the New York Times Mini Crossword, an order of magnitude smaller than my usual times.)
+But as I waited and watched the game from the sideline, I noticed my mind working differently.
+The ongoing match had a dreamlike quality.
+Into my awareness bubbled vague memories of no obvious relevance to what I was witnessing.
+Times I'd played soccer before, hazy but unignorable recollections of past situations on the field.
+(A few days later, a friend related a similar incident: once, also while playing soccer, he fell, struck his head on the turf, and in that instant experienced deja vu.)
 
-I kept playing.
+The blow to the head had, to put it in terms of the book [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow),  destabilized the balance between my Systems One and Two.
+It was as if the soccer ball had dislodged a filter that normally prevents System One from feeding its spontaneous associations directly into my consciousness.
+I found the symptoms amusing, not particularly worrisome.
+The knock to the head had propelled me into a creative state of mind.
+(I would confirm this interpretation the next day by scoring 0:27 and 0:36 on the NYT Mini crossword, less than half my usual time.)
+
+So I went back on the field.
 The dreamlike quality persisted.
 It was golden hour, and the air glowed with sunshine like in the cottage scene of Mulholland Drive.
 Dazed, but still unfazed, I told my teammates at half time.
