@@ -1,14 +1,23 @@
 ---
-modified_date: 2024-09-03
+modified_date: 2024-10-19
 layout: post
 title: a writing exercise
 permalink: /writing-exercise
 tags: notes writing
 ---
 
-I wrote a paragraph in four different ways.
-Now I have to pick one version.
+I wrote {% vbook_post _what makes a good shower?_ | 2024-08-30-good-shower %} a couple months ago and I saved four versions of the same paragraph to analyze side by side.
 <!--more-->
+I am reading them for the first time in a few weeks and here are my thoughts.
+
+**We begin with** is a fun way to start the paragraph.
+It stirs my attention more than **To begin**.
+
+The word **showerer** is too awkward to say, even mentally.
+
+I admit that the phrase **is not merely a matter of** is {% vbook_post wordy... but not necessarily in a bad way | 2024-10-19-use-words %}.
+It emphasizes that there are multiple problems at hand and it slows down the pace of the passage in a way that indicates to the reader that we are going to be looking at things in detail.
+Also, the phrase itself has a nice rhythm.
 
 ### option 1
 
