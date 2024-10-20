@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-07-01
+modified_date: 2024-10-20
 layout: post
 title: bookmarks
 permalink: /bookmarks
@@ -20,6 +20,8 @@ It's a list of websites divided into three sections: sites I frequent, sites I v
 - [wiki.c2.com](https://wiki.c2.com/), the first wiki!
 - [fivebooks.com](https://fivebooks.com/), book recommendations curated by experts
 - [jsomers.net](https://jsomers.net/), a fellow programmer/writer
+- [colinthomas.ca/](https://colinthomas.ca/), which Z told me about
+- [usermag.co](https://www.usermag.co/), which I found indirectly from the podcast episode [_Phones Are Good, Actually_](https://open.spotify.com/episode/3tjoMlAMzqOqCd7nYikVsb?si=73bcda8908d44e1a) that Z recommended to me
 
 ### sites I visit sometimes
 - [andymatuschak.org](https://andymatuschak.org/)
