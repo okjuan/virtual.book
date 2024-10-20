@@ -11,7 +11,7 @@ This page is inspired by Viktor Lofgren's [The Small Website Discoverability Cri
 It's a list of websites divided into three sections: sites I frequent, sites I visit sometimes, and sites I came across and felt compelled to save.
 
 ### sites I frequent
-- [Capitol Hill Seattle Blog](https://www.capitolhillseattle.com/): I love this site. It's ulrta-local, detailed, and **crowd-sourced**!
+- [Capitol Hill Seattle Blog](https://www.capitolhillseattle.com/): I love this site. It's ultra-local, detailed, and **crowd-sourced**!
 - [pudding.cool](https://pudding.cool)
 - [sive.rs](https://sive.rs/)
 - [macwright.com/reading](https://macwright.com/reading/)
