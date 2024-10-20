@@ -17,6 +17,7 @@ It's a list of websites divided into three sections: sites I frequent, sites I v
 - [macwright.com/reading](https://macwright.com/reading/)
 
 ### sites I discovered recently
+- [westseattleblog.com](https://westseattleblog.com/), which I searched since I'm moving from Cap Hill to West Seattle soon
 - [wiki.c2.com](https://wiki.c2.com/), the first wiki!
 - [fivebooks.com](https://fivebooks.com/), book recommendations curated by experts
 - [jsomers.net](https://jsomers.net/), a fellow programmer/writer
