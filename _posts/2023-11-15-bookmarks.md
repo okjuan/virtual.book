@@ -21,7 +21,7 @@ It's a list of websites divided into three sections: sites I frequent, sites I v
 - [wiki.c2.com](https://wiki.c2.com/), the first wiki!
 - [fivebooks.com](https://fivebooks.com/), book recommendations curated by experts
 - [jsomers.net](https://jsomers.net/), a fellow programmer/writer
-- [colinthomas.ca/](https://colinthomas.ca/), a theatre critic that Z found, based in Vancouver, BC
+- [colinthomas.ca](https://colinthomas.ca/), a theatre critic that Z found, based in Vancouver, BC
 - [usermag.co](https://www.usermag.co/), which I found indirectly from the podcast episode [_Phones Are Good, Actually_](https://open.spotify.com/episode/3tjoMlAMzqOqCd7nYikVsb?si=73bcda8908d44e1a) that Z recommended to me
 
 ### sites I visit sometimes
