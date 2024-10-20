@@ -15,12 +15,11 @@ It's a list of websites divided into three sections: sites I frequent, sites I v
 - [pudding.cool](https://pudding.cool)
 - [sive.rs](https://sive.rs/)
 - [macwright.com/reading](https://macwright.com/reading/)
+- [jsomers.net](https://jsomers.net/), a fellow programmer/writer
 
 ### sites I discovered recently
 - [westseattleblog.com](https://westseattleblog.com/), which I searched since I'm moving from Cap Hill to West Seattle soon
-- [wiki.c2.com](https://wiki.c2.com/), the first wiki!
 - [fivebooks.com](https://fivebooks.com/), book recommendations curated by experts
-- [jsomers.net](https://jsomers.net/), a fellow programmer/writer
 - [colinthomas.ca](https://colinthomas.ca/), a theatre critic that Z found, based in Vancouver, BC
 - [usermag.co](https://www.usermag.co/), which I found indirectly from the podcast episode [_Phones Are Good, Actually_](https://open.spotify.com/episode/3tjoMlAMzqOqCd7nYikVsb?si=73bcda8908d44e1a) that Z recommended to me
 - [terrytao.wordpress.com](https://terrytao.wordpress.com), a mathematician's blog that [jsomers](https://jsomers.net/) [described](https://observablehq.com/@jsomers/we-need-more-tiny-knowledge-projects-heres-one) as "a gem of the Internet where professional and amateur mathematicians collaborate in earnest in the comment threads, occasionally producing significant new results".
@@ -68,11 +67,12 @@ I'm particularly interested in websites that organize their content as an interc
 #### books
 - [alphabettyspaghetty.com](https://alphabettyspaghetty.com/category/books-literature/book-reviews/)
 
-#### programming
+#### programming & software development
 - [susielu.com](https://www.susielu.com/)
 - [jvns.ca](https://jvns.ca/)
 - [brucelawson.co.uk](https://brucelawson.co.uk/)
 - [blog.cleancoder.com](https://blog.cleancoder.com/)
+- [wiki.c2.com](https://wiki.c2.com/), the first wiki!
 
 #### tech people interested in humanities: literature, psychology, philosophy
 - [okjuan.me/vbook](https://okjuan.me/vbook) ;-)
