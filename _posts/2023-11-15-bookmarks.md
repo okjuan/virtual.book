@@ -23,6 +23,7 @@ It's a list of websites divided into three sections: sites I frequent, sites I v
 - [jsomers.net](https://jsomers.net/), a fellow programmer/writer
 - [colinthomas.ca](https://colinthomas.ca/), a theatre critic that Z found, based in Vancouver, BC
 - [usermag.co](https://www.usermag.co/), which I found indirectly from the podcast episode [_Phones Are Good, Actually_](https://open.spotify.com/episode/3tjoMlAMzqOqCd7nYikVsb?si=73bcda8908d44e1a) that Z recommended to me
+- [terrytao.wordpress.com](https://terrytao.wordpress.com), a mathematician's blog that [jsomers](https://jsomers.net/) [described](https://observablehq.com/@jsomers/we-need-more-tiny-knowledge-projects-heres-one) as "a gem of the Internet where professional and amateur mathematicians collaborate in earnest in the comment threads, occasionally producing significant new results".
 
 ### sites I visit sometimes
 - [andymatuschak.org](https://andymatuschak.org/)
