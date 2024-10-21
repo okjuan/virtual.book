@@ -35,9 +35,9 @@ module Revision
 
         next unless any_diff(content_diff)
 
-        ## Replace diff tokens with Markdown formatting
+        ## Replace diff tokens with Markdown & HTML formatting for deletions and insertions
         formatted_diff = content_diff
-          .gsub('{+', ' **').gsub('+}', '** ')
+          .gsub('{+', ' <ins class="revision-insertion">').gsub('+}', '</ins> ')
           .gsub('[-', ' ~~').gsub('-]', '~~ ')
 
         markdown_converter = @site.find_converter_instance(Jekyll::Converters::Markdown)
