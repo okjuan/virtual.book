@@ -6,6 +6,7 @@ module Revision
 
     def generate(site)
       repo = Git.open('.')
+      @site = site
       site.posts.docs.each do |post|
         if post['show_revisions']
           log = repo.log.path(post.path)
@@ -13,54 +14,65 @@ module Revision
           log.each do |commit|
             commits << commit
           end
-
-          revision_count = 0
-          previous_revision = nil
-          for index in (commits.length - 1).downto(1)
-            git_word_diff = get_word_diff(post.path, commits[index].sha, commits[index-1].sha)
-
-            content_diff = strip_metadata(git_word_diff)
-              # Fix bug caused by custom Liquid tag name change post_url_with_hover_card -> vbook_post
-              # ---
-              # Liquid Exception: Liquid syntax error (line 20): Tag '{% <del>post_url_with_hover_card</del> <strong>vbook_post</strong> their mind wanders | 2021-02-01-think-invisibly %}'
-              # was not properly terminated with regexp: /\%\}/ in /Users/juan/personal/github/vbook/_posts/2024-08-30-good-shower.md
-              .gsub('{+vbook_post+}', 'vbook_post')
-              .gsub('[-post_url_with_hover_card-]', '')
-
-            next unless any_diff(content_diff)
-
-            ## Replace diff tokens with Markdown formatting
-            formatted_diff = content_diff
-              .gsub('{+', ' **').gsub('+}', '** ')
-              .gsub('[-', ' ~~').gsub('-]', '~~ ')
-
-            markdown_converter = site.find_converter_instance(Jekyll::Converters::Markdown)
-            html_content = markdown_converter.convert(formatted_diff)
-
-            doc = Nokogiri::HTML::DocumentFragment.parse(html_content)
-            all_p_elements = doc.css('p')
-            all_p_elements.each do |p|
-                # Wrap the p element in a div.paragraph element
-                p.replace("<div class='paragraph'>#{p.to_html}</div>")
-            end
-
-            rev_date = commits[index-1].date.strftime('%Y-%m-%d')
-            rev = RevisionPage.new(site, post, doc.to_html, revision_count+1, rev_date)
-            site.pages << rev
-            if previous_revision
-                previous_revision.data['next_rev'] = rev
-                rev.data['prev_rev'] = previous_revision
-            end
-
-            revision_count += 1
-            previous_revision = rev
-          end
-          post.data['revision_count'] = revision_count
-          post.data['final_version'] = true
-          post.data['prev_rev'] = previous_revision
-          previous_revision.data['next_rev'] = post
+          create_revisions(post, commits)
         end
       end
+    end
+
+    def create_revisions(post, commits)
+      revision_count = 0
+      previous_revision = nil
+      for index in (commits.length - 1).downto(1)
+        git_word_diff = get_word_diff(post.path, commits[index].sha, commits[index-1].sha)
+
+        raw_content_diff = strip_metadata(git_word_diff)
+          # Fix bug caused by custom Liquid tag name change post_url_with_hover_card -> vbook_post
+          # ---
+          # Liquid Exception: Liquid syntax error (line 20): Tag '{% <del>post_url_with_hover_card</del> <strong>vbook_post</strong> their mind wanders | 2021-02-01-think-invisibly %}'
+          # was not properly terminated with regexp: /\%\}/ in /Users/juan/personal/github/vbook/_posts/2024-08-30-good-shower.md
+          .gsub('{+vbook_post+}', 'vbook_post')
+          .gsub('[-post_url_with_hover_card-]', '')
+
+        next unless any_diff(raw_content_diff)
+
+        content_diff = strip_metadata(raw_content_diff)
+          # Fix bug caused by git diff not respecting (or understanding) markdown formatting,
+          # which causes it to sometimes group diff tokens such that markdown tokens get split into multiple diff tokens.
+          .gsub(/\{\+(.*?)\[([^\]]*)\+\}/, '{+\1\2+}')                  # remove unbalanced '[' e.g. '[memorable' -> 'memorable' in additions...
+          .gsub(/\[-(.*?)\[([^-][^\]]*?)-\]/, '[-\1\2-]')               # ...and in deletions, too.
+          .gsub(/\{\+([^\[]*?)\]\([^)]+?\)(.*?)\+\}/, '{+\1\2+}')       # remove incomplete link fragment e.g. ' letter](https://url)' -> 'letter' in additions...
+          .gsub(/\[-([^\[]*?)\]\([^)]+?\)(.*?)-\]/, '[-\1\2-]')         # ...and in deletions, too.
+
+        ## Replace diff tokens with Markdown & HTML formatting for deletions and insertions
+        formatted_diff = content_diff
+          .gsub('{+', ' <ins class="revision-insertion">').gsub('+}', '</ins> ')
+          .gsub('[-', ' ~~').gsub('-]', '~~ ')
+
+        markdown_converter = @site.find_converter_instance(Jekyll::Converters::Markdown)
+        html_content = markdown_converter.convert(formatted_diff)
+
+        doc = Nokogiri::HTML::DocumentFragment.parse(html_content)
+        all_p_elements = doc.css('p')
+        all_p_elements.each do |p|
+            # Wrap the p element in a div.paragraph element
+            p.replace("<div class='paragraph'>#{p.to_html}</div>")
+        end
+
+        rev_date = commits[index-1].date.strftime('%Y-%m-%d')
+        rev = RevisionPage.new(@site, post, doc.to_html, revision_count+1, rev_date)
+        @site.pages << rev
+        if previous_revision
+            previous_revision.data['next_rev'] = rev
+            rev.data['prev_rev'] = previous_revision
+        end
+
+        revision_count += 1
+        previous_revision = rev
+      end
+      post.data['revision_count'] = revision_count
+      post.data['final_version'] = true
+      post.data['prev_rev'] = previous_revision
+      previous_revision.data['next_rev'] = post
     end
 
     def get_word_diff(file_path, commit1, commit2)
