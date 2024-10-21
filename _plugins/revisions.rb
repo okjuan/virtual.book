@@ -25,7 +25,7 @@ module Revision
       for index in (commits.length - 1).downto(1)
         git_word_diff = get_word_diff(post.path, commits[index].sha, commits[index-1].sha)
 
-        content_diff = strip_metadata(git_word_diff)
+        raw_content_diff = strip_metadata(git_word_diff)
           # Fix bug caused by custom Liquid tag name change post_url_with_hover_card -> vbook_post
           # ---
           # Liquid Exception: Liquid syntax error (line 20): Tag '{% <del>post_url_with_hover_card</del> <strong>vbook_post</strong> their mind wanders | 2021-02-01-think-invisibly %}'
@@ -33,7 +33,15 @@ module Revision
           .gsub('{+vbook_post+}', 'vbook_post')
           .gsub('[-post_url_with_hover_card-]', '')
 
-        next unless any_diff(content_diff)
+        next unless any_diff(raw_content_diff)
+
+        content_diff = strip_metadata(raw_content_diff)
+          # Fix bug caused by git diff not respecting (or understanding) markdown formatting,
+          # which causes it to sometimes group diff tokens such that markdown tokens get split into multiple diff tokens.
+          .gsub(/\{\+(.*?)\[([^\]]*)\+\}/, '{+\1\2+}')                  # remove unbalanced '[' e.g. '[memorable' -> 'memorable' in additions...
+          .gsub(/\[-(.*?)\[([^-][^\]]*?)-\]/, '[-\1\2-]')               # ...and in deletions, too.
+          .gsub(/\{\+([^\[]*?)\]\([^)]+?\)(.*?)\+\}/, '{+\1\2+}')       # remove incomplete link fragment e.g. ' letter](https://url)' -> 'letter' in additions...
+          .gsub(/\[-([^\[]*?)\]\([^)]+?\)(.*?)-\]/, '[-\1\2-]')         # ...and in deletions, too.
 
         ## Replace diff tokens with Markdown & HTML formatting for deletions and insertions
         formatted_diff = content_diff
