@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-10-20
+modified_date: 2024-11-20
 layout: post
 title: bookmarks
 permalink: /bookmarks
@@ -16,9 +16,11 @@ It's a list of websites divided into three sections: sites I frequent, sites I v
 - [sive.rs](https://sive.rs/)
 - [macwright.com/reading](https://macwright.com/reading/)
 - [jsomers.net](https://jsomers.net/), a fellow programmer/writer
+- [robinsloan.com](https://www.robinsloan.com/)
 
 ### sites I discovered recently
-- [westseattleblog.com](https://westseattleblog.com/), which I searched since I'm moving from Cap Hill to West Seattle soon
+- [theurbanist.org](https://www.theurbanist.org/)
+- [kirupa.com](https://www.kirupa.com/)
 - [fivebooks.com](https://fivebooks.com/), book recommendations curated by experts
 - [colinthomas.ca](https://colinthomas.ca/), a theatre critic that Z found, based in Vancouver, BC
 - [usermag.co](https://www.usermag.co/), which I found indirectly from the podcast episode [_Phones Are Good, Actually_](https://open.spotify.com/episode/3tjoMlAMzqOqCd7nYikVsb?si=73bcda8908d44e1a) that Z recommended to me
@@ -27,7 +29,6 @@ It's a list of websites divided into three sections: sites I frequent, sites I v
 ### sites I visit sometimes
 - [andymatuschak.org](https://andymatuschak.org/)
 - [oliverburkeman.com/posts](https://www.oliverburkeman.com/posts)
-- [robinsloan.com](https://www.robinsloan.com/)
 - [nesslabs.com](https://nesslabs.com/best)
 - [julian.digital](https://julian.digital/)
 - [joelonsoftware.com](https://www.joelonsoftware.com/)
@@ -38,6 +39,7 @@ It's a list of websites divided into three sections: sites I frequent, sites I v
 - [blog.codinghorror.com](https://blog.codinghorror.com)
 - [daniel.industries/blog](https://www.daniel.industries/blog/)
 - [I.M. Wright](https://imwrightshardcode.com/)
+- [westseattleblog.com](https://westseattleblog.com/), which I searched since I'm moving from Cap Hill to West Seattle soon
 
 ---
 
