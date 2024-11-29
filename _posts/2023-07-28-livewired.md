@@ -12,9 +12,7 @@ tags: reviews books neuroscience psychology neuroplasticity senses perception
 Absolutely essential read.
 Mind-bending and mind-expanding.
 <!--more-->
-
-The essential concept is _Livewiring_.
-It's a rebranding of brain plasticity that emphasizes its continuity.
+The essential concept is _livewiring_, which is Eagleman's term for brain plasticity.
 Our brains change all the time, throughout our lives, hour by hour, minute by minute.
 
 A fascinating example is sighted people learning braille with blindfolds on: with their sense of sight shut off, their brains reallocate the neural resources that _would've_ been used for their sense of sight to be used by their sense of touch.
