@@ -34,7 +34,7 @@ Dreams have things to tell us, whether or not all scientists agree.
 It is an ordinary thing to dream about things that came up during the day.
 In his essay [The Kekulé Problem](https://nautil.us/the-kekul-problem-236574/), Cormac McCarthy considers the curious phenomenon of problem-solving while sleeping, with particular interest on why solutions are presented mysteriously as images and not in plain language.
 He offers a clever answer: the brain is old, but language is new.
-And, just like we prefer to communicate in our native tongue, our brain prefers to express itself through imagery.
+And, just like we prefer to communicate in our native tongue, our brain prefers to express itself in images.
 
 But this idea, stirring as it is, might be no more accurate than Freud's.
 In his book {% vbook_post Livewired | 2023-07-28-livewired %}, neuroscientist David Eagleman proposes a theory of dreams that suggests a rather different answer to the Kekulé Problem.
