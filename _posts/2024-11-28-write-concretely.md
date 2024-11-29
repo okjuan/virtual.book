@@ -7,7 +7,6 @@ tags: writing essay honesty meaning
 
 Writing {% vbook_post _how to revise a sentence #4_ | 2024-11-28-revise-a-sentence-4 %} prompted me to finally put in words my thoughts on "concrete" writing.
 <!--more-->
-
 By "concrete" I don't mean things that are literally tangible, but things that can be grasped mentally, intuitively, beyond the abstract symbols (words) that represent it.
 In other words, a word or phrase is more concrete the more it translates in a reader's mind to a distinct mental image or sensation.
 
