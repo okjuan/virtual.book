@@ -4,7 +4,7 @@ layout: post
 title: how to tell a story
 subtitle: (This is an edited excerpt from my piece <a href='https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360'>The Virtual Book</a>.)
 permalink: /tell-a-story
-tags: essays writing new-journalism tom-wolfe hunter-thompson hells-angels
+tags: essays writing new-journalism
 ---
 
 Decades ago, The New Yorker and other magazines experimented with the journalistic form by introducing literary techniques into it.

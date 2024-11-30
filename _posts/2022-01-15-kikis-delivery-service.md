@@ -3,7 +3,7 @@ modified_date: 2023-10-19
 layout: post
 title: Kiki's Delivery Service (1989)
 permalink: /kikis-delivery-service
-tags: reviews movies studio-ghibli coming-of-age
+tags: reviews movies coming-of-age story-telling
 
 ---
 

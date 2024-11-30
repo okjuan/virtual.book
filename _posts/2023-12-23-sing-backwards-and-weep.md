@@ -4,7 +4,7 @@ layout: post
 title: 'Sing Backwards and Weep (2020)'
 subsubtitle: by Mark Lanegan
 permalink: /sing-backwards-and-weep
-tags: reviews books memoir addiction violence music rock seattle washington
+tags: reviews books memoir addiction violence music rock seattle
 ---
 
 My {% vbook_post second attempt | 2023-11-23-infinite-jest %} to review a book while I read it instead of waiting until I finish it.

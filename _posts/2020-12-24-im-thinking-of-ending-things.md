@@ -3,7 +3,7 @@ modified_date: 2023-10-19
 layout: post
 title: I'm Thinking of Ending Things (2020)
 permalink: /im-thinking-of-ending-things
-tags: reviews movies writing charlie-kaufman movie-adaptations anxiety pettiness ego abuse
+tags: reviews movies writing movie-adaptations anxiety ego abuse
 
 ---
 

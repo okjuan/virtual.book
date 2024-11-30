@@ -4,7 +4,7 @@ layout: post
 title: I'm Glad My Mom Died (2022)
 subsubtitle: by Jennette McCurdy
 permalink: /im-glad-my-mom-died
-tags: reviews writing books parenting memoir therapy child-star abuse anxiety depression eating-disorder
+tags: reviews writing books parenting memoir therapy abuse anxiety depression mental-health
 
 ---
 

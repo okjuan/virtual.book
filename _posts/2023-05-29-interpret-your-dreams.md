@@ -3,7 +3,7 @@ modified_date: 2024-09-19
 layout: post
 title: how to interpret your dreams
 permalink: /interpret-your-dreams
-tags: essays sleep dreams subsconscious psychosis sanity science neuroscience neuroplasticity evolution problem-solving thinking freud william-dement david-eagleman cormac-mccarthy
+tags: essays sleep dreams subsconscious neuroscience evolution problem-solving thinking
 ---
 
 Freud, apparently, thought dreams prevented us from going crazy.
