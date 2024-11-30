@@ -26,7 +26,7 @@ Dr. Dement's faith in Freud's theory finally faltered after accompanying a high 
 Some scientists have claimed the opposite to Freud's theory -- that dreams not only do nothing but mean nothing.
 They are a random side-effect of the brain function that produces them, a periodic electric signal that occurs right before and during REM sleep.
 Our eyes move rapidly and we experience absurd scenarios because electricity is coursing through our neural network like water splashing over rocks.
-But, as Dement points out, even if the ripples of electricity start out with no intended destination, their traversal is influenced by pathways carved out by our thoughts and behaviors.
+But, as Dement points out, even if the ripples of electricity begin without a charted course, their traversal is influenced by pathways carved out by our thoughts and behaviors.
 In the same way that water trickling down the face of a rock follows paths determined by the rock's shape and texture, our dreams depend on the paths our neurons allow electrical signals to traverse.
 The meaning of a dream comes from our neural connections, which we wired and rewired continuously throughout our life.
 
