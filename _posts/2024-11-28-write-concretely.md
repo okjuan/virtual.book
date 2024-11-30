@@ -2,7 +2,7 @@
 layout: post
 title: "how to write concretely"
 permalink: /write-concretely
-tags: writing essay honesty meaning
+tags: writing essays honesty meaning
 ---
 
 Writing {% vbook_post _how to revise a sentence #4_ | 2024-11-28-revise-a-sentence-4 %} prompted me to finally put in words my thoughts on "concrete" writing.
