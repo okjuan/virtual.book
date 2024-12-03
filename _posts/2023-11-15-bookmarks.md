@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-11-20
+modified_date: 2024-12-02
 layout: post
 title: bookmarks
 permalink: /bookmarks
@@ -10,21 +10,20 @@ This page is inspired by Viktor Lofgren's [The Small Website Discoverability Cri
 <!--more-->
 It's a list of websites divided into three sections: sites I frequent, sites I visit sometimes, and sites I came across and felt compelled to save.
 
-### sites I frequent
+### sites for me to check up on
 - [Capitol Hill Seattle Blog](https://www.capitolhillseattle.com/): I love this site. It's ultra-local, detailed, and **crowd-sourced**!
 - [pudding.cool](https://pudding.cool)
 - [sive.rs](https://sive.rs/)
 - [macwright.com/reading](https://macwright.com/reading/)
 - [jsomers.net](https://jsomers.net/), a fellow programmer/writer
 - [robinsloan.com](https://www.robinsloan.com/)
+- [theurbanist.org](https://www.theurbanist.org/)
+- [fivebooks.com](https://fivebooks.com/), book recommendations curated by experts
 
 ### sites I discovered recently
-- [theurbanist.org](https://www.theurbanist.org/)
+- [iliveineastvan](https://iliveineastvan.com/)
+- [joshuacitarella.com/](http://joshuacitarella.com/index.html) and [his substack](https://joshuacitarella.substack.com/)
 - [kirupa.com](https://www.kirupa.com/)
-- [fivebooks.com](https://fivebooks.com/), book recommendations curated by experts
-- [colinthomas.ca](https://colinthomas.ca/), a theatre critic that Z found, based in Vancouver, BC
-- [usermag.co](https://www.usermag.co/), which I found indirectly from the podcast episode [_Phones Are Good, Actually_](https://open.spotify.com/episode/3tjoMlAMzqOqCd7nYikVsb?si=73bcda8908d44e1a) that Z recommended to me
-- [terrytao.wordpress.com](https://terrytao.wordpress.com), a mathematician's blog that [jsomers](https://jsomers.net/) [described](https://observablehq.com/@jsomers/we-need-more-tiny-knowledge-projects-heres-one) as "a gem of the Internet where professional and amateur mathematicians collaborate in earnest in the comment threads, occasionally producing significant new results".
 
 ### sites I visit sometimes
 - [andymatuschak.org](https://andymatuschak.org/)
@@ -65,6 +64,7 @@ I'm particularly interested in websites that organize their content as an interc
 #### art & life
 - [ameliagreenhall.com](https://ameliagreenhall.com/blog)
 - [anemone](https://anemone.substack.com/)
+- [colinthomas.ca](https://colinthomas.ca/), a theatre critic that Z found, based in Vancouver, BC
 
 #### books
 - [alphabettyspaghetty.com](https://alphabettyspaghetty.com/category/books-literature/book-reviews/)
@@ -99,3 +99,9 @@ I'm particularly interested in websites that organize their content as an interc
 - [remotemanifesto.com](https://remotemanifesto.com/)
 - [codeandkindness.com/blog](https://codeandkindness.com/blog/)
 - [pothix.com](https://pothix.com/)
+
+#### math & science
+- [terrytao.wordpress.com](https://terrytao.wordpress.com), a mathematician's blog that [jsomers](https://jsomers.net/) [described](https://observablehq.com/@jsomers/we-need-more-tiny-knowledge-projects-heres-one) as "a gem of the Internet where professional and amateur mathematicians collaborate in earnest in the comment threads, occasionally producing significant new results".
+
+#### culture & society
+- [usermag.co](https://www.usermag.co/), which I found indirectly from the podcast episode [_Phones Are Good, Actually_](https://open.spotify.com/episode/3tjoMlAMzqOqCd7nYikVsb?si=73bcda8908d44e1a) that Z recommended to me
