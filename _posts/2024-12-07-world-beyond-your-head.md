@@ -12,7 +12,7 @@ I heartily agree with Crawford's emphasis on the importance of embodied (3D) exp
 _However_.
 I am also very enthusiastic about technological tools as real tools and virtual worlds as deeply enriching.
 Consider books for example.
-They are a virtual, symbolic world of their own and were object of moral panic in their own time.
+They are a virtual, symbolic world of their own and were object of {% vbook_post moral panic | 2024-08-11-end-of-absence %} in their own time.
 But I think most of us would consider them indispensable now.
 Books are fictions divorced from physicality, but is that inherently bad?
 I don't think so.
