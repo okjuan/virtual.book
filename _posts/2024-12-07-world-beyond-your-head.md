@@ -4,6 +4,7 @@ layout: post
 title: 'The World Beyond Your Head (2014)'
 subsubtitle: by Matthew B. Crawford
 permalink: /world-beyond-your-head
+note: "I wrote this <a href='https://www.reddit.com/r/books/comments/o6efsb/comment/m0yv7mk/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button'>on Reddit</a> after reading the first half the book."
 tags: reviews books freedom individuality agency liberalism society
 ---
 
