@@ -1,16 +1,25 @@
 ---
+modified_date: 2024-12-14
 layout: post
 title: "how to write concretely"
 permalink: /write-concretely
 tags: writing essays honesty meaning
 ---
 
-Writing {% vbook_post _how to revise a sentence #4_ | 2024-11-28-revise-a-sentence-4 %} prompted me to finally put in words my thoughts on "concrete" writing.
+A virtue of concrete writing is that it causes a distinct mental sensation.
 <!--more-->
-By "concrete" I don't mean things that are literally tangible, but things that can be grasped mentally, intuitively, beyond the abstract symbols (words) that represent it.
-In other words, a word or phrase is more concrete the more it translates in a reader's mind to a distinct mental image or sensation.
+One writes "rocky hills of green and grey" and bam, the hills appear in the reader's mind.
+It's effective because it conjures a salient image and draws the reader's attention to it.
+A dependable way to do this is by referring to concrete things, things that exist out in the world where the reader lives their life.
+But readers also have an internal life with a terrain of its own.
 
-The hollowness of buzzwords is related to their inablility to cause a specific mental effect.
+This private expanse exists nowhere physically but is nonetheless experienced with intense and distinctive sensations akin to those caused by the concrete world.
+Thus, writing in concrete terms is only one way tap into a reader's sensory experience.
+Words don't need to refer to objects and their physical qualities in order to evoke a sensation in the reader.
+There is a variety of effects a writer can have on a reader that we might try to map onto a spectrum from instinctual, to visceral, to intuitive, to rational.
+Regardless, physicality is only one variable in the formula.
+
+The hollowness of buzzwords, for example, is related to their inablility to cause a specific mental effect.
 They are duds not because the words themselves are meaningless, but because they seem to refer to nothing in particular.
 Words become buzzwords when too many people use them to avoid saying something, when they wield them like a blunt object, swatting away invocations to say something of substance, something concrete.
 
