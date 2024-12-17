@@ -37,10 +37,17 @@ module Jekyll
         post.output = doc.to_html
     end
 
+    def log(post_name, msg)
+        if post_name == "2024-12-16-test-post.md"
+            puts msg
+        end
+    end
+
     def insertHoverCards(post, site)
         post.output = post.output.gsub(/<a id="(.*?)" class="internal-site-link"(.*?)<\/a>/) do
           post_name = $1
           restOfLink = $2
+          log(post.basename, 'juan test <---------------------->')
           linked_post = site.posts.docs.find { |post| File.basename(post.basename, ".md") == post_name }
           title = linked_post.data['title']
 
