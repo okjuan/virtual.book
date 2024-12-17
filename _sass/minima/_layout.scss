@@ -458,7 +458,8 @@ em, i {
 }
 
 .hover-card-container {
-  position: relative;
+  z-index: 1;
+  position: fixed;
   display: inline-block;
 }
 
