@@ -1,12 +1,12 @@
 ---
-modified_date: 2024-12-15
+modified_date: 2024-12-19
 layout: post
 title: 'what is attention?'
 permalink: /attention
-tags: books environment psychology technology
+tags: books environment psychology technology evolution
 ---
 
-While I write this, from where I am sitting on my balcony I can see the TV out of the corner of my eye and it's very difficult to ignore it.
+From where I am sitting on my balcony I can see the TV out of the corner of my eye and it's very difficult to ignore it.
 <!--more-->
 I keep turning my head away to think of what to write next, but then when I turn back to resume typing on my computer, the flashes of color and light from the TV make it very difficult for me to focus.
 I just went inside and turned it off, but still my mind keeps diverting attention to the now black rectangle in my peripheral vision.
@@ -39,6 +39,21 @@ This is the primordial ecology of our attention, the environment in which our br
 And yet I don't think we need to draw purist or atavistic conclusions against technology from this observation.
 Feelings of connection and coherence arise in us not only from time in nature, but also from time using artificial tools and inhabiting constructed environments.
 
-The humble coffee shop for example is a place where many of us come to work and connect spontaneously with a community.
-It offers a homeostasis of music, chatter, noise, silence, movement, rest, public and personal conversation, ebb and flow of activity.
-Certain kinds of technologies are essential here and even computer screens are welcome, but not TVs because they would disrupt the ecology of attention.
+The humble coffee shop for example is a place where many of us go to read, write, think, converse, and do things that require our focus.
+The intricate weave of activity and mixture of sounds create a conducive ambience for our attention.
+How is it that such a busy, public space is so popular for quiet, private activity?
+This is only counterintuitive if we think distraction is the only unneutral effect our environment has on our ability to focus.
+From experience we know that it can be easier to focus _in spite of_  extraneous sensory information rather than in absense of it.
+Perhaps because our cognitive capacities evolved in settings where total absence of sensory input was rare, our minds focus more easily against a backdrop of mundane information.
+Certain kinds of technologies are essential here and even computer screens are welcome, but not TVs because they would be too disruptive.
+A good ecology of attention not only prevents distractions, but encourages focus.
+
+I've moved into my apartment now, into the warmth.
+Out in the balcony my fingers were getting too cold.
+Above my head the clock ticks and farther away car traffic brushes by in unsteady strokes.
+The faint wail of an ambulance begins suddenly, then fades quickly.
+Occasionally in the hallway outside our apartment a door opens then shuts a moment later.
+My little dog scurries about the living room looking for amusement.
+My wife Z is working intently at her desk a few feet away in near silence apart from her intermittent bursts of typing and muted clicks of her mouse.
+Attention to my writing flows easily despite all these things, except when my gaze drifts over to what is happening on her computer screen.
+I lean forward and stop noticing it.
