@@ -34,7 +34,7 @@ I find these socioeconomic analyses of technology much more relevant and importa
 The same goes for Artificial Intelligence.
 I don't worry that AI will take over the world, I worry about how AI will be a nefarious tool in the hands of those that already rule the world.)
 
-I think the evoluntionary perspective can also help explain why time in nature feels so right.
+I think the evolutionary perspective can also help explain why time in nature feels so right.
 This is the primordial ecology of our attention, the environment in which our brains adapted for us to live and thrive.
 And yet I don't think we need to draw purist or atavistic conclusions against technology from this observation.
 Feelings of connection and coherence arise in us not only from time in nature, but also from time using artificial tools and inhabiting constructed environments.
