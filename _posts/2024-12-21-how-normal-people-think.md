@@ -62,7 +62,7 @@ Her friend Peggy inquires further and Marianne continues, casually:
 
 Marianne cannot yet identify her lack of selfesteem as caused by the cruelty and violence inflicted arbitarily on her by her family.
 Instead, she locates the problem inside herself.
-She figure there is a fundamental "coldness" that belongs to her and for which she is ultimately responsible.
+She figures there is a fundamental "coldness" that belongs to her and for which she is ultimately responsible.
 To reflect this belief, Marianne routinely finds and lets people into her life so that they will make her feel bad about herself.
 Jamie is not the first.
 When presented with the opportunity to become closer with Joanna, a caring, responsible friend who challenges her, and Peggy, a cynical, chaotic friend unworthy of trust,  Marianne picks the latter.
