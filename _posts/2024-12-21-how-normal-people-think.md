@@ -48,8 +48,11 @@ But something inside her knows, and something inside of her is calling the atten
 
 It does not appear that Marianne is simply trying to get Connell back or to invoke his sympathies generally.
 To achieve those aims she would certainly not need to go to these lengths.
-The choice of subjecting herself to the cluthes of a sadist is perhaps what psychotherapists mean when they refer to "acting out" feelings.
-Earlier in the book she reveals the tip of the iceberg of shame and selfloathing that weighs down inside of her, beneath the surface:
+The choice of subjecting herself to the cluthes of a sadist is an example of what psychotherapists mean when they say a person "[acts out](https://en.wikipedia.org/wiki/Repetition_compulsion)" feelings.
+It's a concept I find puzzling, but compelling.
+It's almost like Marianne has an unconscious need to process the awful trauma her family has inflicted on her but she cannot find the psychological and emotional safety acknowledge and enact that need consciously.
+So, instead she acts it out by humiliating and degrading herself.
+Earlier in the book Marianne reveals the tip of the iceberg of shame and selfloathing that weighs down inside of her, beneath the surface:
 
 > I have all kinds of hang-ups. Very neurotic.
 
