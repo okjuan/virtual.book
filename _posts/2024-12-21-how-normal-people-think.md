@@ -14,9 +14,9 @@ But we as readers get privileged access to their thoughts and feelings through t
 This special access has two major effects.
 One, we understand these characters intimately.
 In a way perhaps that they would not understand themselves.
-And two, we are reminded that we also experience internally an unending stream of undiluted thought.
-We too are partially in the dark about our own intentions and motivations.
-That this level of semiconscious thought exists and that our understanding of it can be sharpened through introspection and articulation is a useful observation Rooney offers us.
+And two, we are reminded that we also experience internally an unending stream of unrefined thought.
+We too are partially in the dark about our intentions and motivations.
+That this level of semiconscious thought exists and that our understanding of it can be sharpened through introspection and articulation are useful observations Rooney offers us.
 
 Another way that Rooney puts unconscious reasoning on display in her book is by having her characters make choices that seem unmotivated or arbitrary, but prove meaningful in effect.
 Following are two examples of this, one minor and one major.
