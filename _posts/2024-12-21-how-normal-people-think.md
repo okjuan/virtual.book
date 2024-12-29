@@ -58,7 +58,7 @@ _Help me recognize the abuse I've endured as abuse and as the true source of the
 Marianne cannot take the first step towards rehabilitating her selfesteem alone.
 She needs a witness who will point at her abuse and [call it such](https://en.wikipedia.org/wiki/Epistemic_injustice?oldformat=true#Hermeneutical_injustice).
 On some level, she knows she is a victim of abuse, but how can she trust herself if her own mother gaslights her about it?
-It would take immense selfbelief to assert without anybody's support that her all her family members are traitorous liars that arbitrarily treat her like garbage.
+It would take immense selfbelief to assert without anybody's support that all her family members are traitorous liars that arbitrarily treat her like garbage.
 How can she muster the strength to believe this when her experience in school seemed to confirm that she is indeed worthy of blind spite and scorn?
 This is why Marianne needs Connell to say _Your family treats you horribly and it's not your fault that they do._
 Recognizing the abuse as abuse is the first step towards believing that she is not bad.
