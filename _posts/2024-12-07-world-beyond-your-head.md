@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-12-14
+modified_date: 2024-12-30
 layout: post
 title: 'The World Beyond Your Head (2014)'
 subsubtitle: by Matthew B. Crawford
@@ -8,7 +8,7 @@ note: "I wrote this <a href='https://www.reddit.com/r/books/comments/o6efsb/comm
 tags: reviews books freedom individuality agency liberalism society
 ---
 
-I heartily agree with Crawford's emphasis on the importance of embodied (3D) experiences and his warning that virtual worlds can promote passivity, technology as magic, and false agency.
+I heartily agree with Crawford's emphasis on the importance of embodied experiences and his warning that virtual worlds can promote passivity, technology as magic, and false agency.
 <!--more-->
 _However_.
 I am also very enthusiastic about technological tools as real tools and virtual worlds as deeply enriching.
