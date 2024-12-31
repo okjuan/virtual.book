@@ -6,67 +6,71 @@ permalink: /japan-trip
 tags: journal travel cities
 ---
 
-Journal of my trip to Japan with Z, my mom, my older sister, her boyfriend B, and my younger sister.
+For Christmas and New Years, I went with Japan with my wife Z, my mom, my older sister, her boyfriend B, and my younger sister.
 <!--more-->
 
 #### Saturday 12/21/2024 / Sunday 12/22/2024 -- Tokyo
 
-- 12:45pm direct flight from Vancouver (YVR) -> Tokyo (NRT)
-- took Narita Express train to Shimbashi station and walked to the hotel stopping on the way to buy snacks at 7 Eleven
-- settle in hotel, rest, and wait for the others to arrive at the hotel
-- Z fell asleep so I left her and went out with my mom, sisters, and B for izakaya at a nearby restaurant
-- we ate raw tuna, cheese pancakes, potato croquettes, chicken karaage, etc; B and I drank beer
-- buy chocolate ice cream bar at 7 Eleven on the way back to the hotel
-- collapse into sleep
+- Z & I flew @ 12:45pm directly from Vancouver (YVR) -> Tokyo (NRT)
+- train to hotel, snacks from 7 Eleven, rest, and wait for the others to arrive
+- Z slept while we ate at a nearby izakaya (drinks, raw tuna, cheese pancakes, potato croquettes, chicken karaage, etc.)
+- chocolate ice cream bar at 7 Eleven on the way back to the hotel
 
 Z & I flew with Air Canada.
 We upgraded to Premium Economy to avoid being stuck in a couple of middle seats.
 It was expensive, but it made our flight much better.
 I spent the whole flight reading and writing.
 I read the first 150 pages of _Normal People_ and {% vbook_post wrote about it | 2024-12-21-normal-people %}, pausing only to eat meals.
-The flight was immensely productive and went by very quickly.
+I couldn't believe it when it was announced that we were beginning our descent.
 
 #### Monday 12/23/2024 -- Tokyo
 
-- went to Shibuya
-- conveyor belt sushi, including amazing chicken karaage
-- coffee @ The Roasters by Nozu (?)
-- browse MoMA Design Store, buy tea towel from Hay, and browsed another boutique in basement level
-- TODO
-- walk, get more coffee
-- TODO
-- buy hoodie @ Carhartt Work In Progress store
-- buy shoes and slides @ Hoka
-- visit Tadao Ando's public bathroom in Jingū-dōri Park, one of seventeen _Tokyo Toilet_ locations
+- coffee nearby while Z & my family ate breakfast at the hotel
+- together took train to Shibuya City, then ate at a really good conveyor belt sushi restaurant
+- solo flat white @ The Roastery by Nozy Coffee on Cat Street
+- browse MoMA Design Store & other boutiques, bought tea towel from Hay
+- solo walk thru Shibuya, fatigued from jetlag, got another coffee
+- browsed robe store but did not find what I wanted
+- with group again, bought hoodie @ Carhartt Work In Progress store
+- bought shoes and slides @ Hoka store
+- visit Tadao Ando's public bathroom in Jingū-dōri Park, which was featured in the movie _Perfect Days_
+- Shibuya crossing! then very spicy ramen at a place with weird vibes
+- taxi back to hotel
 
 I had severe allergies until the early evening.
 This happens to me whenever I travel somewhere new.
-In 2017 I went to Europe for the first time with my family and I spent the first full day sneezing and oozing copiously.
-Same thing this time, in Tokyo.
+In 2017 I went to Europe for the first time and I spent the first full day sneezing and oozing.
+Same thing this time in Tokyo for the first 24 hours.
+Reactine didn't seem to make a difference, just had to wait it out.
 
 #### Tuesday 12/24/2024 -- Tokyo
 
 - arrived at Disney Sea @ 12pm
+- rode on lots of rides, walked a lot, listened to Disney Xmas carollers
 - subpar pizza & pasta in Little Venice
+- explored the rest of the park, rode on more rides, fought jetlag
 - left @ 9pm, closing time
 
-The architecture and spatial planning was really impressive.
+The architecture and spatial planning of the theme park was really impressive.
+It seemed like every corner we rounded we encountered another stridebreaking view of the park.
 
 #### Wednesday 12/25/2024 -- Tokyo
 
-- started the day slowly
+- we started the day slowly to recover
 - I went on a couple of solo walks through the Shimbashi area to get coffee
 - Z and I walked to Shimbashi station and took the train to Ebisu
 - still struggling with jetlag
 - we explored Ebisu on foot, stopping at a puppy store and a pharmacy
-- we ventured to a quiet alley and up four floors to a cocktail bar I found on Google Maps called _____
-- visited mall briefly, then walked to Toki Taruza (?) for dinner; my mom, sisters, and B met us there
-- took train back to Shimbashi; stopped at 7 Eleven for snacks and went to back to hotel
+- we ventured to a quiet alley and up four floors to a cocktail bar called bar EAS MOR
+- visited mall briefly, then walked to Toki Taruza for dinner with my mom, sisters, and B
+- took train back to Shimbashi, then stopped at 7 Eleven for snacks on the way to the hotel
 
 #### Thursday 12/26/2024 -- Tokyo -> Takayama
 
 - get two flat whites from INCredible Coffee
 - took bullet train @ 1pm from Tokyo to Nagoya, then transferred to train to Takayama
+- check into hotel and walk into town for dinner at a nice sushi restaurant
+- return to hotel and I fell asleep before 9pm to finally cure my jetlag
 
 Tokyo station was huge and very busy.
 It felt like being in a beehive.
@@ -75,7 +79,7 @@ One machine gave us an error message but then we tried a machine in a different 
 Then we circled through the masses, trying to figure out which screen listed our train's platform.
 When we finally found it, we struggled to pass through the gate.
 Z put in the two tickets as the ticket machine had instructed but that wasn't enough.
-We had a confusing interaction with a worker there, who we finally understood was saying we also had to scan our IC card.
+We had a confusing interaction with a worker there, who we finally understood was saying to scan our IC card after inserting the tickets.
 We made it through and with thirty minutes left until departure time, we lined up to buy food and drinks to take onto the train.
 It's good we came an hour early.
 
@@ -83,10 +87,9 @@ It's good we came an hour early.
 
 - while Z had breakfast at the hotel, I walked into town and had coffee @ Brand New Day and then @ Hids' Cafe
 - at Miyagawa Morning Markets we bought a beef bun, a fridge magnet, two pairs of chopsticks, and two ceramic mugs
-- stop at cutlery store
-- lunch & coffee @ Ember coffee in beautiful 150+ yearold house
+- pop into a cutlery store and then have lunch & coffee @ Ember coffee in beautiful 150+ yearold house
 - walk up hill to Shoren-ji Temple, enjoying the snowy scenery
-- back in town, stop at stationary store
+- back in town, stop at stationery store
 - I bought a yukata at a kimono store
 - dinner @ ramen restaurant
 - incredible cocktails @ Yu
@@ -96,7 +99,7 @@ This was one of the best days of the trip.
 
 #### Saturday 12/28/2024 -- Takayama -> Shirakawago -> Kanazawa
 
-- I walked over fresh snow into town for coffee @ Falo, then cash from post office ATM, then coffee @ Ember, before returning to hotel
+- I walked over fresh snow into town for coffee @ Falò Coffee Brewers, then got cash from post office ATM, then coffee @ Ember, before returning to hotel
 - got bus tickets and waited in line for twenty minutes or so
 - bus went up through the snow into the mountains
 - walk into village, found a bathroom
@@ -117,7 +120,7 @@ This was one of the best days of the trip.
 - drank coffee and {% vbook_post wrote about _Normal People_ | 2024-12-21-how-normal-people-think %} at Townsfolk Coffee
 - Z met me and we walked north through Omigi Market for dinner at a fine dining restaurant called Barrier
 - we walked through the Higashi Chaya District
-- Z went to the Kanzawa Forus mall and I sat at a small pub to read _Normal People_ and drink beer
+- Z went to the Kanzawa Forus mall and I sat at a small pub to read _Normal People_ & drink beer
 - I took a bus in Japan for the first time to meet Z at the hotel
 - cocktails at Furansu Cocktail Bar, which bartender at Yu in Takayama had recommended
 - bites and drinks at Izakaya Hanagumi
@@ -126,17 +129,19 @@ This was one of the best days of the trip.
 #### Monday 12/30/2024 -- Kanazawa
 
 - breakfast & coffee at Moron Cafe
-- visit beautiful Samurai house with an exquisite garden and tiny gallery of artifacts
-- coffee @ Townsfolk Coffee
-- brief stop at a combini store
+- visit beautiful Samurai house with an exquisite garden and a small gallery of artifacts
+- coffee @ Townsfolk Coffee, then a brief stop at a combini store
 - walk through to Oyama Shrine, through gardens, up to Kanazawa Castle ruins, down past Kenroku-en Garden
-- Z took the bus to the Kanzawa Forus mall
-- I walked through Shiinoki Green Space back to the hotel
-- rested & read _Normal People_ in the room
-- met Z for dinner nearby; Love For All's kitchen was closed so we went to The Cottage
-- stop at Lawson's, then back to hotel
+- Z took the bus to the Kanzawa Forus mall and I walked through Shiinoki Green Space back to the hotel
+- I rested & read _Normal People_ in the room
+- met Z for dinner nearby, but Love For All's kitchen was closed so we went to The Cottage
+- stop at Lawson, then back to hotel
 
 #### Tuesday 12/31/2024 -- Kanazawa -> Tokyo
+
+- tax to train station, where we ate and waited for our train
+- arrived in Tokyo, train to Shimbashi, checked back into the hotel
+- rested a couple hours at the hotel
 
 A thunderstorm began while were in a taxi on the way to the train station.
 Flashes of lightning so bright I thought for a moment our driver had run a red light and triggered a super powerful automated stoplight camera.
