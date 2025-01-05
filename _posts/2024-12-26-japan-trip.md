@@ -20,7 +20,7 @@ Z & I flew with Air Canada.
 We upgraded to Premium Economy to avoid being stuck in a couple of middle seats.
 It was expensive, but it made our flight much better.
 I spent the whole flight reading and writing.
-I read the first 150 pages of _Normal People_ and {% vbook_post wrote about it | 2024-12-21-normal-people %}, pausing only to eat meals.
+I read the first 150 pages of _Normal People_ and {% vbook_post wrote about it | 2024-12-21-how-normal-people-think %}, pausing only to eat meals.
 I couldn't believe it when it was announced that we were beginning our descent.
 
 #### Monday 12/23/2024 -- Tokyo
