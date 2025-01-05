@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-12-31
+modified_date: 2025-01-06
 layout: post
 title: japan trip
 permalink: /japan-trip
@@ -142,6 +142,8 @@ This was one of the best days of the trip.
 - tax to train station, where we ate and waited for our train
 - arrived in Tokyo, train to Shimbashi, checked back into the hotel
 - rested a couple hours at the hotel
+- dinner @ Daigo, a fancy Buddhist style (?) restaurant
+- karaoke @ Big Echo
 
 A thunderstorm began while were in a taxi on the way to the train station.
 Flashes of lightning so bright I thought for a moment our driver had run a red light and triggered a super powerful automated stoplight camera.
@@ -159,10 +161,59 @@ Grateful to be back in the sun.
 
 #### Wednesday 01/01/2024 -- Tokyo
 
+- coffee & breakfast @ Starbucks
+- visit fancy mall where teamLABS is
+- watched Gladiator II @ 109 Cinemas
+- ramen dinner nearby
+
+It was certainly a mistake to visit Japan in the first few days of January.
+As noted all over the internet, New Years is Japan's major national holiday and many things close not only on the first but for a week.
+I'm sure Z would've determined this if we had been more involved in planning the trip.
+Lesson learned, I suppose.
+
 #### Thursday 01/02/2024 -- Tokyo
+
+- visit various neighborhoods including Gaigendaiku(?), ___, Ebisu
+- visited two more Tokyo Toilet locations, both in Ebisu
+- incredible sushi @ Kaitenzushi Haname Maguro (?) Ginza
+- shop @ UNIQLO Flagship store
+- cocktails @ La France in Ginza
 
 #### Friday 01/03/2024 -- Tokyo
 
+- visit Tokyo National Museum
+- lunch & coffee there
+- Hello Kitty special exhibition and gift shop
+- visit Senso-ji temple w/ Z
+- solo walk in Asakusa area
+- dinner w/ my friend H @ _______ then drinks at nearby pub
+
+I had {% vbook_post mixed feelings about the museum | 2025-01-05-context %}.
+Or, I don't know, maybe I just needed a meal.
+Or a better sleep.
+Or to feel like I chose to go there.
+Or to have had a period earlier in the day where I'd gotten to direct my attention to things of my choosing.
+Or a period to produce something, so that I might be in a more {% vbook_post absorptive mood | 2023-11-30-chart-moods %}.
+That certainly makes me feel better about socializing aimlessly in the evening, when I feel like I've done something productive with my day.
+
 #### Saturday 01/04/2024 -- Tokyo
 
+- solo coffee & journaling @ City Bakery
+- teppanyaki dinner w/ my mom on top floor of mall in Ginza
+- visit the teamLAB Borderless Digital Art Museum
+
+The Digital Art Museum was really cool.
+It was a dark maze on the bottom floor of a fancy mall where myriad projectors shone moving patterns and images of light on walls, floors, and ceilings.
+This by itself might've been a gimmicky socialmedia tourist trap, but embedded throughout the large labyrinthine gallery were rooms where sculptural elements combined with light, music, and mirrors to create surreal experiences.
+
 #### Sunday 01/05/2024 -- Tokyo -> Vancouver
+
+- check out but leave bags at hotel
+- solo cortado from Brooklyn Roasters in Ginza
+- solo browse flea market & buy orange tinted glass to use for cappuccinos at home
+- pick up bags at hotel and take train to Narita
+
+My intention was to browse Hands and Itoya in Ginza, but I came across the flea market when I stopped for coffee by Ginza station.
+There were dozens of stalls selling ceramics, porcelain, kimonos, jackets, bluedyed fabrics, and so on.
+The orange tinted glass I bought was only 400 yen, less than three dollars in USD, and I could see it selling for tens times the amount at trendy stores in the USA and Canada.
+I'm still sour about going to the East Vancouver "Flea Market" to find they charge an _admission fee_ and sell priced up secondhand and vintagestyled clothing.
