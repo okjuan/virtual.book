@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-01-05
+modified_date: 2025-01-06
 layout: post
 title: japan trip
 permalink: /japan-trip
@@ -8,6 +8,8 @@ tags: journal travel cities
 
 For Christmas and New Years, I went with Japan with my wife Z, my mom, my older sister, her boyfriend B, and my younger sister.
 <!--more-->
+
+### Daily Log
 
 #### Saturday 12/21/2024 / Sunday 12/22/2024 -- Tokyo
 
