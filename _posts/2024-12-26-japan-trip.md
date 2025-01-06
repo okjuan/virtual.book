@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-01-06
+modified_date: 2025-01-05
 layout: post
 title: japan trip
 permalink: /japan-trip
@@ -145,7 +145,7 @@ This was one of the best days of the trip.
 - dinner @ Daigo, a fancy Buddhist style (?) restaurant
 - karaoke @ Big Echo
 
-A thunderstorm began while were in a taxi on the way to the train station.
+A thunderstorm began while we were in a taxi on the way to the train station.
 Flashes of lightning so bright I thought for a moment our driver had run a red light and triggered a super powerful automated stoplight camera.
 We tried a coffee shop near the train station but it was closed for New Years, which is the biggest national holiday in Japan.
 Train station was full of stores and flooded with white overhead lighting.
