@@ -38,4 +38,4 @@ They are not corollaries of moral truth, but ways of incentivizing behavior in f
 In happy cases, the goals are fairness and fun.
 But rulemakers are only trying to please the crowd when they themselves are incentivized to do so, by ticket sales, by votes, by social pressure.
 So next time you encounter a weird rule and you're curious about its existence, ask yourself: who made this and what are they trying to make me do?
-And next time you write a rule, ask yourself: what new exploitative behavior will I be incentivizing?
+And next time you write a rule, ask yourself: what new {% vbook_post exploitative behavior | 2024-08-11-rules-2 %} will I be incentivizing?
