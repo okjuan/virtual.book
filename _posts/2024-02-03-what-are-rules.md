@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-02-03
+modified_date: 2025-01-11
 layout: post
 title: what are rules?
 permalink: /what-are-rules
@@ -19,7 +19,7 @@ Under the right conditions, the king can move sideways _two_ spaces, double his 
 Huh?
 This move seems normal because of its ubiquity.
 Casual players usually know it.
-And yet they are more baffled by _en passant_, which, compared to castling, is only a small deviation from the core rules.
+And yet they are baffled by _en passant_, even though it is a more modest deviation from the core rules.
 
 Once we know the rules of a game, we accept and quit questioning them.
 We are naturally incentivized to do so, since, the better we internalize the rules, the more easily we can abide by them and get to the business of playing the game.
