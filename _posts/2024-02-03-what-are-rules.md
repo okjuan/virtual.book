@@ -36,6 +36,6 @@ Weird rules seem not so weird when you realize they're added purposefully to fac
 This applies to laws and regulations, too.
 They are not corollaries of moral truth, but ways of incentivizing behavior in favor of particular goals.
 In happy cases, the goals are fairness and fun.
-But rule-makers are only trying to please the crowd when they themselves are incentivized to do so, by ticket sales, by votes, by social pressure.
+But rulemakers are only trying to please the crowd when they themselves are incentivized to do so, by ticket sales, by votes, by social pressure.
 So next time you encounter a weird rule and you're curious about its existence, ask yourself: who made this and what are they trying to make me do?
 And next time you write a rule, ask yourself: what new exploitative behavior will I be incentivizing?
