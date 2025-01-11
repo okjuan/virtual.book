@@ -26,7 +26,7 @@ We are naturally incentivized to do so since the better we internalize the rules
 But games are full of weird rules.
 In basketball, there's a limit of how long the attacking team can have posession in the other team's end.
 Oh, okay.
-Players on the attacking team in hockey can't cross into other team's third of the rink unless the puck is already there.
+In hockey, players on the attacking team can't cross into other team's third of the rink unless the puck is already there.
 If you say so.
 In soccer, an attacker must not go beyond the second-to-last player on the defensive team if they want to be passed the ball.
 Unless they are in their own half, then it's okay.
