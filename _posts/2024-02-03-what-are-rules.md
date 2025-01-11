@@ -32,7 +32,7 @@ In soccer, an attacker must not go beyond the second-to-last player on the defen
 Unless they are in their own half, then it's okay.
 Sorry?
 
-Weird rules are less weird though when you realize they're added purposefully to facilitate certain behaviors and prevent others.
+Weird rules seem not so weird when you realize they're added purposefully to facilitate certain behaviors and prevent others.
 This applies to laws and regulations, too.
 They are not corollaries of moral truth, but ways of incentivizing behavior in favor of particular goals.
 In happy cases, the goals are fairness and fun.
