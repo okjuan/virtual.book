@@ -1,31 +1,46 @@
 ---
-modified_date: 2024-12-02
+modified_date: 2025-01-15
 layout: post
 title: bookmarks
 permalink: /bookmarks
-tags: notes career blogging writing
+tags: notes career blogging writing journal
 ---
 
 This page is inspired by Viktor Lofgren's [The Small Website Discoverability Crisis](https://www.marginalia.nu/log/19-website-discoverability-crisis/) and Tom Critchlow's [list of digital bookshelves](https://tomcritchlow.com/wiki/books/bookshelves/).
 <!--more-->
-It's a list of websites divided into three sections: sites I frequent, sites I visit sometimes, and sites I came across and felt compelled to save.
+It's a reference list of websites that I have visited in the past and may want to visit again.
 
-### sites for me to check up on
-- [Capitol Hill Seattle Blog](https://www.capitolhillseattle.com/): I love this site. It's ultra-local, detailed, and **crowd-sourced**!
-- [pudding.cool](https://pudding.cool)
-- [sive.rs](https://sive.rs/)
-- [macwright.com/reading](https://macwright.com/reading/)
-- [jsomers.net](https://jsomers.net/), a fellow programmer/writer
-- [robinsloan.com](https://www.robinsloan.com/)
+---
+
+There are a handful of sites that I frequent these days.
+Normally I start by going to [sive.rs/now](https://sive.rs/now) to see what Derek Sivers has been up to recently.
+Reading it inspires and mobilizes me.
+I also tend to check [macwright.com/reading](https://macwright.com/reading/) to see what Tom MacWright has been reading.
+I recently picked up {% vbook_post _The World Beyond Your Head_ | 2024-12-07-world-beyond-your-head %} because he gave it five stars and it wouldn't be hyperbole to say it has changed my life.
+Not majorly, but in a smaller, meaningful way.
+As I wrote at the end of _my_ most recent {% vbook_post /now | 2025-01-11-now %} update, I begin 2025 with strong intentions regarding what I do with my attention.
+
+In his January 16, 2025 /now update, Derek Sivers linked to [this essay](https://craigmod.com/essays/electric_bikes/) about the joy of riding an electric bike.
+I spent the next couple hours learning about this guy, [Craig Mod](https://craigmod.com).
+I'm thrilled to find another person who is and has been thinking deeply about books as technology and creating {% vbook_post booklike | 2024-11-29-what-3 %} (he calls "book-shaped") experiences online.
+Craig is not the first technologist-writer whose site I've encountered recently.
+I also found [robinsloan.com](https://www.robinsloan.com/) and [jsomers.net](https://jsomers.net/), both of whom are accomplished writers and experienced programmers.
+
+Although personal sites are perhaps the most exciting, there are also some great ones run by organizations.
+The most special of these is probably [Capitol Hill Seattle Blog](https://www.capitolhillseattle.com/), a neighborhood blog turned crowdsourced news site turned indepedent and ultralocal news site.
+It's special not only because it is independent but because it offers volumes of dense and specific information about a focused locale.
+I'm yet to find anything else like it.
+
+I also used to be a big fan of [pudding.cool](https://pudding.cool), but lately have lost some of my enthusiasm for them because they seem to pick topics for novelty and appeal.
+They are perhaps more an entertainment company than a journalism firm.
+
+I often come across new sites and I like to save them here to remind myself to check back on them and consider adding them to the small set of sites I frequent.
+Here are sites that haven't made it into my special list but I want to revisit soon:
 - [theurbanist.org](https://www.theurbanist.org/)
-- [fivebooks.com](https://fivebooks.com/), book recommendations curated by experts
-
-### sites I discovered recently
-- [iliveineastvan](https://iliveineastvan.com/)
-- [joshuacitarella.com/](http://joshuacitarella.com/index.html) and [his substack](https://joshuacitarella.substack.com/)
-- [kirupa.com](https://www.kirupa.com/)
-
-### sites I visit sometimes
+- [fivebooks.com](https://fivebooks.com/) -- book recommendations curated by experts
+- [neilonsoftware.com](https://neilonsoftware.com/).
+- [iliveineastvan.com](https://iliveineastvan.com/)
+- [joshuacitarella.com](http://joshuacitarella.com/index.html) and [his substack](https://joshuacitarella.substack.com/)
 - [andymatuschak.org](https://andymatuschak.org/)
 - [oliverburkeman.com/posts](https://www.oliverburkeman.com/posts)
 - [nesslabs.com](https://nesslabs.com/best)
@@ -38,14 +53,13 @@ It's a list of websites divided into three sections: sites I frequent, sites I v
 - [blog.codinghorror.com](https://blog.codinghorror.com)
 - [daniel.industries/blog](https://www.daniel.industries/blog/)
 - [I.M. Wright](https://imwrightshardcode.com/)
-- [westseattleblog.com](https://westseattleblog.com/), which I searched since I'm moving from Cap Hill to West Seattle soon
+- [westseattleblog.com](https://westseattleblog.com/)
 
 ---
 
 ### website archive
 #### zettelkasten websites / digital gardens
 I'm particularly interested in websites that organize their content as an interconnected network:
-- [okjuan.me/vbook](https://okjuan.me/vbook) ;-)
 - [mentalnodes.com](https://www.mentalnodes.com/)
 - [maggieappleton.com](https://maggieappleton.com)
 - [tomcritchlow.com](https://tomcritchlow.com/)
@@ -70,6 +84,7 @@ I'm particularly interested in websites that organize their content as an interc
 - [alphabettyspaghetty.com](https://alphabettyspaghetty.com/category/books-literature/book-reviews/)
 
 #### programming & software development
+- [kirupa.com](https://www.kirupa.com/)
 - [susielu.com](https://www.susielu.com/)
 - [jvns.ca](https://jvns.ca/)
 - [brucelawson.co.uk](https://brucelawson.co.uk/)
@@ -77,7 +92,6 @@ I'm particularly interested in websites that organize their content as an interc
 - [wiki.c2.com](https://wiki.c2.com/), the first wiki!
 
 #### tech people interested in humanities: literature, psychology, philosophy
-- [okjuan.me/vbook](https://okjuan.me/vbook) ;-)
 - [substack.com/@simonsarris](https://substack.com/@simonsarris)
 - [meltingasphalt.com](https://meltingasphalt.com/)
 
