@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-01-21
+modified_date: 2025-01-22
 layout: post
 title: how normal people think
 permalink: /normal-people
@@ -148,4 +148,4 @@ The world of literature is a mental arena where we can witness and experience th
 A waking dream.
 At its best, it is a birthing site of knowledge.
 For literary critic [Harold Bloom](https://youtu.be/Uy8dL9QZ1lk?si=kWdI1VwvPgmYv-go), Shakespeare's works form the pinnacle of this experience:
-> When you really have a deep relationship to [Shakespeare's] works, then you change. You start indeed like Shakespearean characters overhearing yourself.
+> When you really have a deep relationship to [Shakespeare's] works, then you change. You start, indeed like Shakespearean characters, overhearing yourself.
