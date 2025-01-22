@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-12-30
+modified_date: 2025-01-21
 layout: post
 title: 'what is attention?'
 permalink: /attention
@@ -42,7 +42,7 @@ The humble coffee shop for example is a place where many of us go to read, write
 The intricate weave of activity and mixture of sounds create a conducive ambience for our attention.
 How is it that such a busy, public space is so popular for quiet, private activity?
 This is only counterintuitive if we think distraction is the only unneutral effect our environment has on our ability to focus.
-From experience we know that it can be easier to focus _in spite of_  extraneous sensory information rather than in absense of it.
+From experience we know that it can be easier to focus _in spite of_  extraneous sensory information rather than in absence of it.
 Perhaps because our cognitive capacities evolved in settings where total absence of sensory input was rare, our minds focus more easily against a backdrop of mundane information.
 Certain kinds of technologies are essential here and even computer screens are welcome, but not TVs because they would be too disruptive.
 A good ecology of attention not only prevents distractions, but encourages focus.
