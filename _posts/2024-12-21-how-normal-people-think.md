@@ -1,5 +1,5 @@
 ---
-modified_date: 2024-12-29
+modified_date: 2025-01-21
 layout: post
 title: how normal people think
 permalink: /normal-people
@@ -134,9 +134,16 @@ Marianne again fails to stand up for herself and instead of demanding that Conne
 _Normal People_ implores us to examine the invisible reasoning behind our decision making.
 If we tune in and listen to our silent thoughts, what might we hear?
 What might we learn by noticing who we bring into our lives and what treatment we encourage and accept from them?
-
 We like to think that who we are is up to us, but we already exist by the time we get around to the task of defining ourselves.
 The primary task is to listen.
-Who do we want to be?
-Who are we?
-Both are answered from within.
+Observe.
+What are the real motivations behind our actions?
+Who are we, really?
+
+Good fiction offer us the means for answering these questions about ourselves by teaching us to answer the same questions about fictional characters.
+A good story is a wealth of observations woven into narrative, that ancient and singularly powerful mode of thought and communication.
+The world of literature is a mental arena where we can witness and experience things we will never see in life, a place of insight through simulation and observation.
+A waking dream.
+At its best, it is a birthing site of knowledge.
+For literary critic [Harold Bloom](https://youtu.be/Uy8dL9QZ1lk?si=kWdI1VwvPgmYv-go), Shakespeare's works form the pinnacle of this experience:
+> When you really have a deep relationship to [Shakespeare's] works, then you change. You start indeed like Shakespearean characters overhearing yourself.
