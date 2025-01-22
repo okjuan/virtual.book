@@ -131,6 +131,8 @@ Connell should be apologizing that he didn't have the courage to make their rela
 He should be apologizing for making Marianne pay in humiliation for his gross lack of integrity.
 Marianne again fails to stand up for herself and instead of demanding that Connell recognize more fully what he did, she says _I didn't tell anyone, I swear to god._
 
+---
+
 _Normal People_ implores us to examine the invisible reasoning behind our decision making.
 If we tune in and listen to our silent thoughts, what might we hear?
 What might we learn by noticing who we bring into our lives and what treatment we encourage and accept from them?
