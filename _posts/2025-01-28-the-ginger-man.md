@@ -110,10 +110,31 @@ Two structural inversions in one sentence but most important is the second.
 The green door's position at the end of the sentence grants it importance, intrigue even.
 We anticipate crossing the threshold.
 
-Donleavy's sentence structures are most pleasing when they eliminate commas and let his words come into uninterrupted contact.
-Reproducing an excerpt I shared near the beginning:
+Donleavy's sentence structures are most pleasing when they eliminate commas and let his words come into direct contact.
+Reproducing an excerpt I shared at the beginning:
 > Standing on the shaggy grass he gave a shrill whistle as he looked down precipitous rocks to the swells of sea many feet below.
 
-The image is vivid in part because each detail blends into the next.
-Instead of being given the parts that make up the picture one at a time we are given them all together assembled into the whole.
-McCarthy uses this technique a lot in _Blood Meridian_ with intensity cranked all the way up.
+It's vivid in part because each detail blends into the next.
+Instead of being given parts one at a time we experience one fluid image.
+McCarthy uses this technique as well.
+In his magnum opus _Blood Meridian_ he conjures striking images from masterfully engineered sentences.
+Here is the fourth sentence of the novel:
+> Outside lie dark turned fields with rags of snow and darker woods beyond that harbor yet a few last wolves.
+
+Sentences like these are carefully configured to eliminate cruft like "there are" and even suffixes like "–ing" that weaken verbs.
+McCarthy opts for a touch of ambiguity by placing "darker woods" first instead of putting it after "beyond that" and consequently doubling "that":
+> rags of snow and beyond that darker woods that harbor yet a few last wolves.
+
+He also rejects the "–ing" solution to the problem:
+> rags of snow and beyond that darker woods harboring yet a few last wolves.
+
+It is up to the writer and their sense of style to evaluate their options.
+But they have to know how to generate them in the first place.
+
+A fourth technique that Donleavy and McCarthy (and Hemingway) employ is generous use of "and" to string together images.
+A snippet of an excerpt from _The Ginger Man_ shared earlier:
+> They had one more round of stout and she turned and smiled and said that she must be going home.
+
+_Blood Meridian_ contains extreme examples.
+Here is a single sentence near the end of chapter thirteen:
+> They trampled the spot with their horses until it looked much like the road again and the smoking gunlocks and sabreblades and girthrings were dragged from the ashes of the fire and carried away and buried in a separate place and the riderless horses hazed off into the desert and in the evening the wind carried the ashes and the wind blew in the night and fanned the last smoldering billets and drove forth the last fragile race of sparks fugitive as flintstrikings in the unanimous dark of the world.
