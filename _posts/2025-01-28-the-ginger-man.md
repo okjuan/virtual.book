@@ -25,7 +25,7 @@ O'Keefe the visitor takes in the scenery:
 
 Delightfully written.
 
-Describing a tiny house:
+Later in the book, describing Dangerfield's tiny new home:
 > [You] didn't want to walk too fast in the front door or you'd find yourself going out the back.
 
 I purposefully went in blind and am surprised at how experimental the book is.
