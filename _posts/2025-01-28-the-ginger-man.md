@@ -32,7 +32,7 @@ I purposefully went into the book blind and I'm pleasantly surprised to learn th
 Stream of consciousness, unquoted dialogue mashed in.
 It reminds me of Hunter S. Thompson for its style and subject matter.
 Lecherous, base protagonists hurtling through life incurring all manner of debts with no regard for consequence and no semblance of restraint.
-But in this one we catch more glimpses of the desperation and self-loathing plauging the rabid gluttons following their excesses.
+But in this one we catch more glimpses of the desperation and self-loathing that plauge rabid gluttons following their excesses and that trigger further indulgence.
 Here the aftermath of one of Dangerfield's odious bursts of verbal abuse towards his wife and her family:
 > A very red face.
 > Guilt.
