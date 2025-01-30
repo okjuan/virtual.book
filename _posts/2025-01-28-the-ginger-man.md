@@ -28,7 +28,7 @@ Delightfully written.
 Later in the book, describing Dangerfield's tiny new home:
 > [You] didn't want to walk too fast in the front door or you'd find yourself going out the back.
 
-I purposefully went in blind and am surprised at how experimental the book is.
+I purposefully went into the book blind and I'm pleasantly surprised to learn that its writing style is quite experimental.
 Stream of consciousness, unquoted dialogue mashed in.
 It reminds me of Hunter S. Thompson for its style and subject matter.
 Lecherous, base protagonists hurtling through life incurring all manner of debts with no regard for consequence and no semblance of restraint.
