@@ -137,3 +137,7 @@ A snippet of an excerpt from _The Ginger Man_ shared earlier:
 _Blood Meridian_ contains extreme examples.
 Here is a single sentence near the end of chapter thirteen:
 > They trampled the spot with their horses until it looked much like the road again and the smoking gunlocks and sabreblades and girthrings were dragged from the ashes of the fire and carried away and buried in a separate place and the riderless horses hazed off into the desert and in the evening the wind carried the ashes and the wind blew in the night and fanned the last smoldering billets and drove forth the last fragile race of sparks fugitive as flintstrikings in the unanimous dark of the world.
+
+That last bit is brilliant.
+Again:
+> [the wind] drove forth the last fragile race of sparks fugitive as flintstrikings in the unanimous dark of the world
