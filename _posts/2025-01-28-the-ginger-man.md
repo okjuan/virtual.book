@@ -44,8 +44,7 @@ In the first sentence of the very next paragraph Dangerfield is no longer at his
 > He ordered a bottle of stout and a Gold Label, telling the boy to bring him another stout and Gold Label.
 
 This is one of the objects of the author's experimentation, time.
-The default speed is set with snappy dialogue that skips by.
-Each speaker on a new line, speech bare but the quotation marks.
+Even on the lower gear of dialogue the speed is set high with snappy back-and-forth, each speaker on a new line, speech bare but the quotation marks.
 And when the author doesn't want to dwell on certain scenes, he accelerates through them by compounding dialogue and action into dense morsels:
 > They had one more round of stout and she turned and smiled and said that she must be going home.
 > And may I take you?
