@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-01-29
+modified_date: 2025-01-30
 layout: post
 title: "The Ginger Man (1955)"
 subsubtitle: by J. P. Donleavy
@@ -11,7 +11,7 @@ I've read seven chapters so far.
 Here are some thoughts and some excerpts.
 <!--more-->
 
-Describing Kenneth O'Keefe's arrival in a coastal Irish village to visit his friend Sebastian Bullion Dangerfield at his home:
+Describing Kenneth O'Keefe's arrival in a coastal Irish village to visit his friend Sebastian Bullion Dangerfield at his home, who greets O'Keefe at the door:
 > It was a steep hill up to Balscaddoon.
 > Winding close to the houses and the neighbor's eyes having a look.
 > Fog over the flat water.
