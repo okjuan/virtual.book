@@ -84,7 +84,7 @@ It continues:
 > Ireland a country of toys.
 > And maybe I ought to go over to Marion on the couch.
 
-Soon and without warning the author whisks us into the next scene:
+Soon and without warning the author teleports us into the next scene:
 > In the bedroom, Dangerfield rubbing stockinged feet on the cold linoleum.
 
 I see many similarities to Cormac McCarthy's writing.
@@ -114,7 +114,7 @@ Reproducing an excerpt I shared at the beginning:
 > Standing on the shaggy grass he gave a shrill whistle as he looked down precipitous rocks to the swells of sea many feet below.
 
 It's vivid in part because each detail blends into the next.
-Instead of being given parts one at a time we experience one fluid image.
+Instead of being given parts one at a time, we experience the image fluidly as one.
 McCarthy uses this technique as well.
 In his magnum opus _Blood Meridian_ he conjures striking images from masterfully engineered sentences.
 Here is the fourth sentence of the novel:
