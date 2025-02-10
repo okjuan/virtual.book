@@ -37,11 +37,19 @@ module Jekyll
         post.output = doc.to_html
     end
 
+    def log(post_name, msg)
+        if post_name == "2024-12-16-test-post.md"
+            puts msg
+        end
+    end
+
     def insertHoverCards(post, site)
+        post_count = Hash.new(0)
         post.output = post.output.gsub(/<a id="(.*?)" class="internal-site-link"(.*?)<\/a>/) do
           post_name = $1
           restOfLink = $2
           linked_post = site.posts.docs.find { |post| File.basename(post.basename, ".md") == post_name }
+          post_count[linked_post.permalink] += 1
           title = linked_post.data['title']
 
           doc = Nokogiri::HTML::DocumentFragment.parse(linked_post.output)
@@ -55,7 +63,8 @@ module Jekyll
 
           content_match = doc.to_html.match(/<main class="page-content(.*?)>(.*?)<\/main>/m)
           content = content_match ? content_match[2] : ''
-          "</p><a class='hover-link' #{restOfLink}</a><div class='hover-card-container'><div class='hover-card'>#{content}</div></div><p>"
+          link_id = "#{linked_post.permalink}-#{post_count[linked_post.permalink]}"
+          "</p><a id='#{link_id}' class='hover-link anchor' #{restOfLink}</a><div class='hover-card-container' anchor='#{link_id}'><div class='hover-card'>#{content}</div></div><p>"
         end
     end
   end
