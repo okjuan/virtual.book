@@ -37,6 +37,6 @@ I can't have one without the other.
 
 In some ways, {% vbook_post thought and movement | 2024-12-22-ecologies-of-attention-2 %} are two sides of the same coin.
 In the quiet privacy of the shower, novel thoughts emerge from the depths of the mind.
-On an ambling walk, a line of thought gains traction.
+On an ambling walk, a line of thought finds direction and picks up momentum.
 Going for a run dispels clouds of anxious thought and worry like a sudden change of weather.
 Our brains developed in servitude to our bodies so I suppose it's no wonder these two are so entwined.
