@@ -1,5 +1,5 @@
 ---
-modified_date: 2025-01-21
+modified_date: 2025-02-10
 layout: post
 title: how to think with your body
 permalink: /think-with-your-body
@@ -30,7 +30,7 @@ I am reminded of the first few sentences of my piece [_Is This Working?_](https:
 The more I think about it, the more I notice a fast bond between my mental and physical activity.
 If I recall a memory, I often see a place.
 If I think of the podcast episode between Tim Ferriss and Derek Sivers, I see in my mind's eye the sunny valley in Washington state near British Columbia that I was driving through when I listened to it.
-But my memories are not always linked to the places where I originally experienced the object of my memory.
+But my memories are not always linked to the places where I had the original experience.
 Sometimes they are linked to places where I've previously recalled and considered the memory.
 This relationship between spatial images and abstract memories mirrors the interdependence between my body and my mind.
 I can't have one without the other.
