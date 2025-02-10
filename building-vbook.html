@@ -1,0 +1,497 @@
+<body>
+
+
+  
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>building vbook | virtual book</title>
+<meta name="generator" content="Jekyll v3.9.5">
+<meta property="og:title" content="building vbook">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="I built two new features in the spirit of the dynamic attribute of virtual books.">
+<meta property="og:description" content="I built two new features in the spirit of the dynamic attribute of virtual books.">
+<link rel="canonical" href="https://okjuan.github.io/vbook/building-vbook">
+<meta property="og:url" content="https://okjuan.github.io/vbook/building-vbook">
+<meta property="og:site_name" content="virtual book">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-10-03T00:00:00+00:00">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="building vbook">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-10-03T00:00:00+00:00","datePublished":"2024-10-03T00:00:00+00:00","description":"I built two new features in the spirit of the dynamic attribute of virtual books.","headline":"building vbook","mainEntityOfPage":{"@type":"WebPage","@id":"https://okjuan.github.io/vbook/building-vbook"},"url":"https://okjuan.github.io/vbook/building-vbook"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/vbook/assets/css/style.css">
+<link type="application/atom+xml" rel="alternate" href="https://okjuan.github.io/vbook/feed.xml" title="virtual book">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;900&amp;family=Merriweather:ital,wght@1,300&amp;display=swap" rel="stylesheet">
+    <link rel="icon" href="/vbook/assets/images/v_lightMode.ico">
+  
+
+  <header class="site-header">
+
+    <div class="wrapper">
+<a class="site-title" rel="author" href="/vbook/">virtual book</a>
+
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger">
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewbox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"></path>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger">
+          <a class="page-link" href="/vbook/tags/notes">#notes</a>
+          <a class="page-link" href="/vbook/tags/essays">#essays</a>
+          <a class="page-link" href="/vbook/tags/journal">#journal</a>
+          <a class="page-link" href="/vbook/tags/reviews">#reviews</a>
+          <a class="page-link" href="/vbook/tags/poems">#poems</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">building vbook</h1>
+<div class="paragraph"><p class="post-meta"><time class="dt-published" datetime="2024-10-03T00:00:00+00:00" itemprop="datePublished">
+        Oct 3 2024
+      </time>
+         (mod. <time class="dt-modified" datetime="2025-01-12T00:00:00+00:00" itemprop="dateModified">Jan 12 2025</time>)</p></div>
+
+    <span>
+        
+        
+        <a href="/vbook/tags/journal">#journal</a>
+        
+        
+        <a href="/vbook/tags/coding">#coding</a>
+        
+        
+        <a href="/vbook/tags/design">#design</a>
+        
+    </span>— <span>Mentioned in <a href="/vbook/now-sept-30-2024">what I'm doing now #6</a></span></header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+
+    <div class="paragraph"><p>I built two new features in the spirit of the <strong>dynamic</strong> attribute of </p><a class='hover-link'  href="/vbook/virtual-book">virtual books</a><div class='hover-card-container'><div class='hover-card'>
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">what is a virtual book?</h1>
+<div class="paragraph"><p class="post-meta"><time class="dt-published" datetime="2023-08-11T00:00:00+00:00" itemprop="datePublished">
+        Aug 11 2023
+      </time>
+         (mod. <time class="dt-modified" datetime="2023-11-15T00:00:00+00:00" itemprop="dateModified">Nov 15 2023</time>)</p></div>
+
+    <span>
+        
+        
+        <a href="/vbook/tags/notes">#notes</a>
+        
+        
+        <a href="/vbook/tags/writing">#writing</a>
+        
+        
+        <a href="/vbook/tags/mediums">#mediums</a>
+        
+    </span>— <span>Mentioned in <a href="/vbook/on-writing">On Writing (2000)</a>, <a href="/vbook/what">what is this site?</a>, <a href="/vbook/what-2">what is this site? #2</a>, <a href="/vbook/now-july-7-2024">what I'm doing now #5</a>, <a href="/vbook/my-pattern-language">my pattern language</a>, <a href="/vbook/building-vbook">building vbook</a>, <a href="/vbook/what-3">what is this site? #3</a>, <a href="/vbook/what-4">what is this site? #4</a>, <a href="/vbook/2025">what I am doing in 2025</a></span></header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+
+    <div class="paragraph"><p>I wrote an essay called <a href="https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360">The Virtual Book</a> but I never defined the term.
+<!--more-->
+By virtual book I mean a book unbound by the traditional and physical constraints of printed books.
+I say ‘virtual’ because the greatest possibilities I see are in the virtual world of computers.
+Ebooks and audiobooks are just the beginning.
+The possibilities that excite me challenge not only the physicality of books but also their more subtle attributes.</p></div>
+
+<div class="paragraph"><p>A virtual book can be <strong>multimedia</strong>.
+It can consist of words, images, video, audio.
+There, we got the obvious one out of the way.</p></div>
+
+<div class="paragraph"><p>A virtual book can be <strong>readerdriven</strong>.
+Instead of forcing readers to follow the author’s thought process, a virtual book can let each reader steer the way.
+Wikipedia does this already.
+It lets you search the page for keywords, skip to the section you’re interested in, and even escape into a tangential topic, never to return.
+This is a natural way to consume Wikipedia because its form <a href="https://www.wikiwand.com/en/Affordance">affords</a> it.</p></div>
+
+<div class="paragraph"><p>Books generally have one start and one ending, but a virtual book can be <strong>nonlinear</strong>.
+Wikipedia is again the obvious example.
+But letting the reader drive is only one way to create a nonlinear book.
+It’s also possible to create multiple entrypoints, or even multiple endings, like <a href="https://www.wikiwand.com/en/Black_Mirror:_Bandersnatch">Black Mirror: Bandersnatch</a>.</p></div>
+
+<div class="paragraph"><p>A virtual book can be <strong>dynamic</strong>.
+It can change after its initial creation.
+Printed books, on the other hand, are static snapshots laboriously rendered by a particular author at a particular time.
+But what if a theory is debunked?
+Or a hypothesis confirmed?
+Or a record shattered?
+Or, in the case of storytelling, what if a loose end can be tied up neatly?</p></div>
+
+<div class="paragraph"><p>A virtual book can be <strong>nonmonolithic</strong>.
+It does not need to be discrete or selfcontained.
+It can consist of many interconnected parts that make up the whole but can exist without it.
+It can reference other virtual books, borrow bits from them, and lend bits of its own.
+For example, if Herbie Hancock’s memoir was a virtual audiobook, it could allow its snippets to be reconstrued into a documentary about jazz.
+(If Ken Burns’ Jazz documentary series was also ‘virtualized’, it could have been updated 15 years after its release to include bits of Herbie’s narration.)
+In fact, it could provide material for documentaries about many different topics: jazz, funk, hip hop, Miles Davis, Black Nationalism, Nichiren Buddhism, meditation, and crack addictions, to name some of the obvious ones.</p></div>
+
+<div class="paragraph"><p>A virtual book can be <strong>responsive</strong>.
+What if a reader could expect a book to field spontaneous questions?
+ChatGPT is an obvious candidate here, but the possibility is broader.
+What if Herbie Hancock returned to his memoir every now and then to answer questions that readers had left behind while reading it?
+What if readers could raise flags on issues that factcheckers would then verify or return to the author for amendment?</p></div>
+
+<div class="paragraph"><p>The possibilities are plenty, and they are thrilling.
+The difficulty in realizating them is not technological, but legal and political.
+Powerful companies – and therefore governments – are hugely incentivized to <a href="https://en.wikipedia.org/wiki/United_States_v._Swartz">prevent the free exchange of “intellectual property”</a>.
+To make virtual books possible, we need not only the technological power of software, but also its <a href="https://en.wikipedia.org/wiki/Creative_Commons">progressive politics</a>.</p></div>
+<hr>
+      <h6 class="post-note">Dedicated to <a href="https://en.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a>.</h6>
+</div>
+<a class="u-url" href="/vbook/virtual-book" hidden></a>
+</article>
+
+      </div>
+    </div></div><p>.
+<!--more--></p></div>
+
+<div class="paragraph"><p>Firstly, I added modified dates to all posts and a way to sort them by post date or modified date.
+This discourages me from treating posts like static pieces and instead encourages me to edit, rework, and reimagine them.
+I didn’t want to be responsible for manually updating the modified date of a post, so I automated it.</p></div>
+
+<div class="paragraph"><p>For my first attempt at implementing it, I put together a plugin written in Ruby (mostly written by GitHub Copilot) that found the most recent commit’s date for each post by looking through the Git history.
+It worked, but it also slowed down my local build a lot.
+I found a much better solution: set up a git pre-commit hook that updates the <code class="language-plaintext highlighter-rouge">modified_date</code> in a post’s frontmatter when a change is committed to it.
+To implement sorting, I had to use JavaScript.
+Working on a static website has made me appreciate how much is possible without JavaScript and what isn’t.</p></div>
+
+<div class="paragraph"><p>More challenging to implement and more exciting to complete was a feature I’m calling Revisions, which shows past edits of select posts.
+This one was even more important to automate.
+Manually creating a revision for every new post would be a ponderous task that would deincentivize me from making changes.
+Automatically generated revisions, on the other hand, excite me to make changes.
+I want to see how posts change over time and how the converge to “final” form.</p></div>
+
+<div class="paragraph"><p>So, the main task was to plug into the Jekyll build to generate new pages that represent the difference between every pair of sequential commits in a post’s Git history.
+Once I had that, I just had to do some minor coding in HTML and Liquid to add links in a post’s metadata to link to its revisions.</p></div>
+
+<div class="paragraph"><p>After I figured out how to get the full Git word diff between two commits (the <code class="language-plaintext highlighter-rouge">git</code> gem’s API apparently doesn’t expose this part of Git’s functionality), most of the trouble had to do with formatting: stripping Git diff metadata, replacing diff markers with markdown formatting, transforming Markdown to HTML, and styling the HTML.
+After I finally got it working locally, I pushed it up to GitHub to kick off the build and publish job.
+But after the GitHub Actions finished, the site didn’t look any different!</p></div>
+
+<div class="paragraph"><p>It took me a while to figure out why the GitHub Pages build was passing but not generating any revisions.
+I figured the <code class="language-plaintext highlighter-rouge">git</code> gem wasn’t being installed since it isn’t in the list of packages supported by GitHub Pages.
+It seemed like the plugin wasn’t running at all.
+Only after I added print statements to it did I realize that it <em>was</em> running, but only finding a single commit.
+Finally, I fixed it by setting the <code class="language-plaintext highlighter-rouge">fetch-depth</code> of the <code class="language-plaintext highlighter-rouge">checkout</code> action to a pseudoinfinite number so that the full Git history would get processed.</p></div>
+
+<div class="paragraph"><p>I set it up so I can easily enable or disable revisions for a post by setting <code class="language-plaintext highlighter-rouge">show_revisions</code> in its frontmatter.
+So far, I’ve enabled revisions for </p><a class='hover-link'  href="/vbook/good-shower">what makes a good shower?</a><div class='hover-card-container'><div class='hover-card'>
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">what makes a good shower?</h1>
+<div class="paragraph"><p class="post-meta"><time class="dt-published" datetime="2024-08-30T00:00:00+00:00" itemprop="datePublished">
+        Aug 30 2024
+      </time>
+         (mod. <time class="dt-modified" datetime="2024-09-19T00:00:00+00:00" itemprop="dateModified">Sep 19 2024</time>)<span id="revisions-nav">
+             ◆  This is the latest version. See
+            the <a href="/vbook/good-shower/revs/4/">previous revision</a>.
+          </span></p></div>
+
+    <span>
+        
+        
+        <a href="/vbook/tags/notes">#notes</a>
+        
+        
+        <a href="/vbook/tags/design">#design</a>
+        
+    </span>— <span>Mentioned in <a href="/vbook/my-pattern-language">my pattern language</a>, <a href="/vbook/writing-exercise">a writing exercise</a>, <a href="/vbook/now-sept-30-2024">what I'm doing now #6</a>, <a href="/vbook/building-vbook">building vbook</a></span></header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+
+    <div class="paragraph"><p>The standard bathtub-shower design seems like a good idea.
+<!--more-->
+Two in one.
+But <a href="https://www.wikiwand.com/en/articles/Design_by_committee">the compromise</a> at the heart of its design prevents it from being a good shower.
+The cost of the compromise is hidden in plain sight, difficult to notice due to its ubiquity.
+Allow me to shed some light on the ways that the tub compromises the shower.</p></div>
+
+<div class="paragraph"><p>We begin with the uncomfortable task of having to <em>climb</em> in, over a literal barrier, without any clothes to soften accidental contact.
+Clearing this hurdle is not merely a matter of stepping high and long because on the other side one must balance onefooted on a skinny, slippery ramp with sloping edges.
+It’s shockingly inhospitable ground considering its primary aim is to allow a bipedal, softskinned animal to stand barefooted in showering water and contort while applying lubricants that ooze dangerously downwards onto an already slick surface.
+But we’re used to this design, so we don’t notice its baffling unfriendliness.</p></div>
+
+<div class="paragraph"><p>If freed from the responsibility of doubling as a tub, a shower can focus on being a good shower.
+It can be easy to enter and to exit.
+Its standing ground, unobliged to accommodate the bare backside, can be tiled or otherwise surfaced with material that gives traction to the bare foot, even when covered in soapy water.
+The dimensions can be square and wide enough to allow a person to turn and easily rinse different parts of their body without having to watch their step or feel unreasonably constricted.</p></div>
+
+<div class="paragraph">
+<p>Good design, as they say, is invisible.
+A good shower demands no effort or conscious attention from its user.
+It lets them get clean while </p>
+<a class="hover-link" href="/vbook/think-invisibly">their mind wanders</a><p>.
+To achieve this, it must make it extremely easy to do all the basic things: get in, stand, wash, rinse, and get out.
+The tubshower hybrid most of us have at home fails this basic test.</p>
+</div>
+</div>
+<a class="u-url" href="/vbook/good-shower" hidden></a>
+</article>
+
+      </div>
+    </div></div><p>, </p><a class='hover-link'  href="/vbook/think-invisibly">how to think invisibly</a><div class='hover-card-container'><div class='hover-card'>
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">how to think invisibly</h1>
+<h4 class="post-subtitle">(Originally posted <a href="https://okjuan.medium.com/the-invisible-thinker-c5ee42b4bb5">on okjuan.medium.com</a>.)</h4>
+<div class="paragraph"><p class="post-meta"><time class="dt-published" datetime="2021-02-01T00:00:00+00:00" itemprop="datePublished">
+        Feb 1 2021
+      </time>
+         (mod. <time class="dt-modified" datetime="2024-09-25T00:00:00+00:00" itemprop="dateModified">Sep 25 2024</time>)<span id="revisions-nav">
+             ◆  This is the latest version. See
+            the <a href="/vbook/think-invisibly/revs/3/">previous revision</a>.
+          </span></p></div>
+
+    <span>
+        
+        
+        <a href="/vbook/tags/essays">#essays</a>
+        
+        
+        <a href="/vbook/tags/psychology">#psychology</a>
+        
+        
+        <a href="/vbook/tags/creativity">#creativity</a>
+        
+        
+        <a href="/vbook/tags/subconscious">#subconscious</a>
+        
+        
+        <a href="/vbook/tags/problem-solving">#problem-solving</a>
+        
+    </span>— <span>Mentioned in <a href="/vbook/where-ideas-come-from">where do ideas come from?</a>, <a href="/vbook/where-ideas-come-from-2">where do ideas come from? #2</a>, <a href="/vbook/wild-at-heart">Wild at Heart (1990)</a>, <a href="/vbook/read-many-books">how to read many books</a>, <a href="/vbook/my-pattern-language">my pattern language</a>, <a href="/vbook/good-shower">what makes a good shower?</a>, <a href="/vbook/now-sept-30-2024">what I'm doing now #6</a>, <a href="/vbook/building-vbook">building vbook</a></span></header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+
+    <blockquote>
+  <div class="paragraph"><p>Does the brain control you, or are you controlling the brain? I don’t know if I’m in charge of mine.
+<!--more--></p></div>
+</blockquote>
+
+<div class="paragraph"><p>Karl Pilkington sounds foolish, but he’s onto something.
+He tells an anecdote about a time when he finished his grocery list and moved on only to be interrupted by a thought that entered his mind suddenly: <em>Apple</em>.</p></div>
+
+<blockquote>
+  <div class="paragraph"><p>That was weird — who reminded me of that?</p></div>
+</blockquote>
+
+<div class="paragraph"><p>The thought of apple just appeared and Karl doesn’t know how.
+It fell like a raindrop into his mind.
+This happens to us all the time, but we don’t notice it because we expect it.
+We think <em>What’s his name again?</em> and then something inside us slips an answer into our grasp: <em>Mark</em>.
+It’s like shaking a tree until fruit falls out.
+We don’t give the tree much credit.
+But Karl was leaving the orchard when the apple came rolling after him.</p></div>
+
+<div class="paragraph"><p>We talk about the subconscious as a mysterious engine that runs the dreams we soon forget after we wake up.
+But it’s also there in the day.
+It hums along softly in the background, chiming in helpfully when we need to remember someone’s name or what produce to buy.</p></div>
+
+<div class="paragraph"><p>But it’s more than our assistant.
+It’s our advisor, our consigliere.
+It’s the source of our gut feelings.
+Great ideas come from interaction with this humble inner partner, this invisible thinker.</p></div>
+
+<div class="paragraph"><p>Despite being teased by his buddies for his story about the apple, Karl echoed something the French polymath Poincaré wrote in his essay, Mathematical Creation:</p></div>
+
+<blockquote>
+  <div class="paragraph"><p>At the moment when I put my foot on the step the idea came to me, without anything in my former thoughts seeming to have paved the way for it.</p></div>
+</blockquote>
+
+<div class="paragraph"><p>Like Karl, Poincaré tells stories of answers coming to him when he was no longer considering the question.
+And he welcomes it.
+He recognizes his subconscious mind as a vital actor in his work, a shrewd associate that finds a fresh lead while he rests.</p></div>
+
+<div class="paragraph"><p>Poincaré then concludes something that Karl would’ve been mocked for saying: resting is productive.
+Not because it reenergizes you for more work, but because it is work.
+Rest releases the invisible thinker to explore and find what you haven’t noticed yet.
+You can feel this happening in the shower when novel ideas surface in your mind without prompt.
+And though we can’t steer our “ambient thought”, we can <a href="http://www.paulgraham.com/top.html">tell it what to think about</a>.
+As Don Draper of Mad Men tells his protégé:</p></div>
+
+<blockquote>
+  <div class="paragraph"><p>Peggy, just – think about it. Deeply. Then forget it. And an idea will jump up in your face.</p></div>
+</blockquote>
+
+<div class="paragraph"><p>Our train of thought springs into existence already in motion and it speeds between ideas connected by tracks in our mind.
+Though we cannot access the underlying web of knowledge directly, we experience the result of its traversal.
+And by training and ruminating on new ideas we integrate them into the network.
+This is why jazz musicians can fling out new melodies every night.
+A chord change played by the backing band illuminates melodic pathways carved into the musician’s mind during training.
+At the gig they just get behind their instrument and go for a ride.</p></div>
+
+<div class="paragraph"><p>We tap into these networks not only for spontaneous improvisation but also for careful design.
+We draw from a well of memories and impressions, questions and conclusions, recreating and appropriating them for new purposes.
+A musician composes from real feelings, from their desires and their fears.
+A fiction writer sketches a character from the outlines of real people, from the beauties they’ve admired and faults they’ve despised.</p></div>
+
+<div class="paragraph"><p>This personal reservoir is where filmmaker David Lynch fishes for the strange and abstract ideas that appear in his work.
+In his book Catching the Big Fish: Meditation, Consciousness, and Creativity, Lynch describes his process more as catching ideas than creating them.
+He receives ideas from something inside himself, and consults this inner source to develop and implement them.</p></div>
+
+<div class="paragraph"><p>Lynch isn’t the only prolific artist with a mysterious inner partner.
+Novelist Cormac McCarthy is well aware of his own collaborator.
+He said:</p></div>
+
+<blockquote>
+  <div class="paragraph"><p>Writing can be like taking dictation.</p></div>
+</blockquote>
+
+<div class="paragraph"><p>Like Poincaré and Pilkington, McCarthy has talked about the mysterious experience of receiving answers from the ether:</p></div>
+
+<blockquote>
+  <div class="paragraph"><p>I’d been thinking about [the problem] off and on for a couple of years without making much progress.
+Then one morning…as I was emptying [the wastebasket] into the kitchen trash I suddenly knew the answer.
+Or I knew that I knew the answer.
+It took me a minute or so to put it together.</p></div>
+</blockquote>
+
+<div class="paragraph"><p>McCarthy often talks about the Night Shift, the period when we sleep and the invisible thinker takes over.
+Pilkington agrees – from his book The Moaning of Life:</p></div>
+
+<blockquote>
+  <div class="paragraph"><p>I think I’m more intelligent in my dreams than I am when I’m awake… A few months ago I went to bed with a problem, fell asleep thinking about it and when I woke up I had a solution.</p></div>
+</blockquote>
+
+<div class="paragraph"><p>The invisible thinker rules this hidden world where our creativity lives.
+It collaborates with us to devise and improvise, and it even thinks for itself.
+When relieved from its duty as our advisor, it roams freely, eager to satisfy its own curiosity.
+We heighten our creative potential when we deepen understanding with our internal agent.
+Especially if we don’t just ask but also listen.</p></div>
+
+<blockquote>
+  <div class="paragraph"><p>Behind your thoughts and feelings, my brother, there stands a mighty ruler, an unknown sage — whose name is self. In your body he dwells; he is your body. There is more reason in your body than in your best wisdom.</p></div>
+
+  <div class="paragraph"><p>Friedrich Nietzsche, <em>Thus Spake Zarathustra</em> (Kauffman translation, 1954, p.146)</p></div>
+</blockquote>
+</div>
+<a class="u-url" href="/vbook/think-invisibly" hidden></a>
+</article>
+
+      </div>
+    </div></div><p>, and </p><a class='hover-link'  href="/vbook/tell-a-story-3">how to tell a story #3</a><div class='hover-card-container'><div class='hover-card'>
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">how to tell a story #3</h1>
+<div class="paragraph"><p class="post-meta"><time class="dt-published" datetime="2024-08-12T00:00:00+00:00" itemprop="datePublished">
+        Aug 12 2024
+      </time>
+         (mod. <time class="dt-modified" datetime="2024-09-24T00:00:00+00:00" itemprop="dateModified">Sep 24 2024</time>)<span id="revisions-nav">
+             ◆  This is the latest version. See
+            the <a href="/vbook/tell-a-story-3/revs/3/">previous revision</a>.
+          </span></p></div>
+
+    <span>
+        
+        
+        <a href="/vbook/tags/writing">#writing</a>
+        
+        
+        <a href="/vbook/tags/plot">#plot</a>
+        
+        
+        <a href="/vbook/tags/tv-shows">#tv-shows</a>
+        
+        
+        <a href="/vbook/tags/data-analysis">#data-analysis</a>
+        
+        
+        <a href="/vbook/tags/sopranos">#sopranos</a>
+        
+    </span>— <span>Mentioned in <a href="/vbook/now-july-7-2024">what I'm doing now #5</a>, <a href="/vbook/now-sept-30-2024">what I'm doing now #6</a>, <a href="/vbook/building-vbook">building vbook</a>, <a href="/vbook/what-3">what is this site? #3</a></span></header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+
+    <div class="paragraph"><p>Can quantifying the attributes of a TV show tell us something about its quality?
+<!--more-->
+I reckon some of the flaws in <em>House of the Dragon</em> would be reflected in statistics like amount of dialogue per minute and number of decisions made per character.
+A non-negligible amount of time is spent on dramatic montages and orchestral music that create a moody atmosphere and remind us of how serious the situation is.
+This comes at the cost of time that could be spent on actual situations and actual drama, or at least character development that would contribute to future drama.</p></div>
+
+<div class="paragraph"><p>These two elements – dialogue and decision-making – each give us an independent perspective into a character, but their combination is especially powerful because it gives us a third angle: insight into what a character is <em>thinking</em>, including what they are thinking unconsciously.
+From this we get what might be the critical ingredient of great story-telling: three-dimensional characters.</p></div>
+
+<div class="paragraph">
+<p>My qualm with shows like <em>House of the Dragon</em> is that their plot feels designed and implemented.
+I sense the presence of writers and their attempts to show me what’s happening and persuade me that it makes sense.
+I can’t get lost in the fictional world as if it were a real one because I see the pencil marks from when it was sketched out.
+My <a href="https://omni.wikiwand.com/en/articles/Suspension_of_disbelief">suspension of disbelief</a> never takes off.
+One might say, Well, yeah, all fictional plots are prescribed.
+But they’re not, and writers like Stephen King and Cormac McCarthy have </p>
+<a class="hover-link" href="/vbook/where-ideas-come-from">attested to it</a><p>.</p>
+</div>
+
+<div class="paragraph">
+<p>In great shows like <em>The Sopranos</em>, plot is not implemented, it’s incubated.
+The show feels to me like it’s happening spontaneously, developing by itself as a sequence of events, reactions, and actions.
+In every episode there is constant dialogue between characters and a steady supply of situations that require characters to make decisions.
+And much of the time, these have nothing to do with plot.
+Every season has at least one major narrative arc, but the dependence is flipped.
+Episodes don’t depend on an overarching plot for their meaning.
+Episodes generate the plot.
+Characters are agents, not passengers.
+I don’t feel like the writers are leading me to the plot’s predetermined destination.
+In fact I don’t feel their presence at all.
+I feel like I’m </p>
+<a class="hover-link" href="/vbook/tell-a-story">witnessing something</a><p>.</p>
+</div>
+</div>
+<a class="u-url" href="/vbook/tell-a-story-3" hidden></a>
+</article>
+
+      </div>
+    </div></div><p>.</p></div>
+</div>
+<a class="u-url" href="/vbook/building-vbook" hidden></a>
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer h-card">
+      <data class="u-url" href="/vbook/"></data>
+
+      <div class="wrapper">
+        <div class="footer-col-wrapper">
+          <div class="paragraph"><p><a href="/vbook/what">What is this site?</a></p></div>
+        </div>
+      </div>
+
+    </footer>
+
+    
+      <script src="/vbook/assets/js/post.js"></script>
+    
+
+    <script src="/vbook/assets/js/order_posts_list.js"></script>
+
+  
+
+
+</body>
